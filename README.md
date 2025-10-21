@@ -19,26 +19,28 @@
 
 ### ComputerSecurityProjectGit/:
 |**--data/**: stores all input and data files.  
-&nbsp;&nbsp;&nbsp;&nbsp;|--extended/: extra datasets.
-&nbsp;&nbsp;&nbsp;&nbsp;|--test/: data used to evaluate models.
+&nbsp;&nbsp;&nbsp;&nbsp;|--test/: data used to evaluate models.  
 &nbsp;&nbsp;&nbsp;&nbsp;|--train/: data used to train models.
 |**--models/**: stores all trained or pretrained machine learning models.  
-&nbsp;&nbsp;&nbsp;&nbsp;|--bert65k/: directory for pretrained Bert model on 65k.  
-&nbsp;&nbsp;&nbsp;&nbsp;|--gin/: directory for pretrained Graph Isomorphism Network (GIN) models.  
+&nbsp;&nbsp;&nbsp;&nbsp;|--BERT/: directory for pretrained Bert model on 65k.  
+&nbsp;&nbsp;&nbsp;&nbsp;|--GIN/: directory for pretrained Graph Isomorphism Network (GIN) models.  
 &nbsp;&nbsp;&nbsp;&nbsp;|--vocab-20k/: vocabulary for BERT20k model  
 &nbsp;&nbsp;&nbsp;&nbsp;|--vocab-65k/: vocabulary for BERT65k model  
 |**--output/**: Results generated from scripts.  
 &nbsp;&nbsp;&nbsp;&nbsp;|--metrics/: Includes accuracy of predictions, TPR(portion of malicious PDFs &nbsp;&nbsp;&nbsp;&nbsp;correctly detected), &nbsp;&nbsp;&nbsp;&nbsp;TNR(proportion of benign PDFS correctly detected), TRA(how &nbsp;&nbsp;&nbsp;&nbsp;resistant model is to attacks), etc.  
 &nbsp;&nbsp;&nbsp;&nbsp;|--plots/: Includes any Graphs, curves, and visualizations if any.  
-|**--src/**: main codebase (includes Python scripts, etc)
-    |--GIN/: Implemtation of the GIN model (code for building, training GIN model)
-    |--Poir/: Handles PDF to PDFObj IR conversion.
-    |--attack/: code to simulate attacker that can modify PDF structure or content.
-    |--pretrained/: utilities for working with pretrained language and embedding models.
-    |--general/: provide dataset wrappers.
+|**--src/**: main codebase (includes Python scripts, etc)  
+|--GIN/: Implemtation of the GIN model (code for building, training GIN model)  
+|--Poir/: Handles PDF to PDFObj IR conversion.  
+|--attack/: code to simulate attacker that can modify PDF structure or content.  
+|--pretrained/: utilities for working with pretrained language and embedding models. 
+|--general/: provide dataset wrappers.  
+|--bert-on-raw-content/: bert directly on raw PDF content.  
+|--bert/: scripts to use BERT embedding on PDF data.  
+|--pvdm/: Implement Paragraph Vector Distributed Memory model for document embedding
 
 |**--Dockerfile/**: CPU Docker container setup to reproduce experiment.  
-|**--PythonDependencies.txt/**: List of Python packages needed for the project to run.  
+|**--requirements.txt/**: List of Python packages needed for the project to run.  
 |**--entrypoint.sh/:** shell script that acts as the main entry point when running the &nbsp;&nbsp;&nbsp;&nbsp;Docker container as it &nbsp;&nbsp;&nbsp;&nbsp;simplifies running project commands inside the container. 
 
 
