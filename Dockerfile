@@ -7,12 +7,12 @@ RUN apt-get update && apt-get install -y \
     libxml2-dev libxslt1-dev poppler-utils qpdf mupdf-tools
 
 # Copy from root repo into the container
-COPY PythonDependencies.txt /PythonDependencies.txt
+COPY requirements.txt /requirements.txt
 COPY entrypoint.sh /entrypoint.sh
 
 # Upgrade and install pip and install all Python packages listed in the files.
 RUN pip install --upgrade pip setuptools wheel \
- && pip install -r /PythonDependencies.txt
+ && pip install -r /requirements.txt
 
 
 # /entrypoint.sh is main program/script from root repo that will always run when container

@@ -3,10 +3,6 @@
 ### Purpose of this Repository  
 - This project attempts to reproduce the work of Liu et al., "Analyzing PDFs like Binaries: Adversarially Robust PDF Malware Analysis via Intermediate Representation and Language Model" https://arxiv.org/html/2506.17162v1.
 
-
-- Docker https://www.docker.com/get-started/ (Let you run applications in isolated containers so it basically creates a container that have its own Python installation, libraries, system tools, file system which allow everyone working on the project run the code in the same environment and avoiding missing dependencies or version problems).
-- In Docker, use an Docker image that already have Python 3.11 installed. For the python dependencies, install them inside the Dockerfile using 'pip'. For the system-level dependencies, install them in the Dockerfile using 'apt-get'.
-
 ### Keyterms you may need to understand this repository:  
 - Object Reference Graph(ORG): graph representation of a PDF document.
 - Intermediate Representation(IR): an way to represent a PDF's content that makes it easier for program to understand and thus analyze.
