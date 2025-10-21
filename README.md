@@ -1,0 +1,50 @@
+# PDF Malware Analysis Experiment
+
+### Purpose of this Repository  
+- This project attempts to reproduce the work of Liu et al., "Analyzing PDFs like Binaries: Adversarially Robust PDF Malware Analysis via Intermediate Representation and Language Model" https://arxiv.org/html/2506.17162v1.
+
+
+- Docker https://www.docker.com/get-started/ (Let you run applications in isolated containers so it basically creates a container that have its own Python installation, libraries, system tools, file system which allow everyone working on the project run the code in the same environment and avoiding missing dependencies or version problems).
+- In Docker, use an Docker image that already have Python 3.11 installed. For the python dependencies, install them inside the Dockerfile using 'pip'. For the system-level dependencies, install them in the Dockerfile using 'apt-get'.
+
+### Keyterms you may need to understand this repository:  
+- Object Reference Graph(ORG): graph representation of a PDF document.
+- Intermediate Representation(IR): an way to represent a PDF's content that makes it easier for program to understand and thus analyze.
+- BERT: deep learning model that can be trained using large amount of text.
+- Graph Isomorphism Network(GIN): classify graphs or predict properties of nodes/graphs 
+- node embeddings: in our experiment, nodes are PDF objects in a graph and node embeddings are numerical vector representations of each node.
+- Classifier: The machine learning model that predict if a PDF is malicious or not.
+- Docker Image: built version of the Dockerfile that contains the operating system, Python version, system libraries, python packages, etc.
+- Docker File: text file that contains instructions for building a Docker image.
+
+### ComputerSecurityProjectGit/:
+|**--data/**: stores all input and data files.  
+&nbsp;&nbsp;&nbsp;&nbsp;|--extended/: extra datasets.
+&nbsp;&nbsp;&nbsp;&nbsp;|--test/: data used to evaluate models.
+&nbsp;&nbsp;&nbsp;&nbsp;|--train/: data used to train models.
+|**--models/**: stores all trained or pretrained machine learning models.  
+&nbsp;&nbsp;&nbsp;&nbsp;|--bert65k/: directory for pretrained Bert model on 65k.  
+&nbsp;&nbsp;&nbsp;&nbsp;|--gin/: directory for pretrained Graph Isomorphism Network (GIN) models.  
+&nbsp;&nbsp;&nbsp;&nbsp;|--vocab-20k/: vocabulary for BERT20k model  
+&nbsp;&nbsp;&nbsp;&nbsp;|--vocab-65k/: vocabulary for BERT65k model  
+|**--output/**: Results generated from scripts.  
+&nbsp;&nbsp;&nbsp;&nbsp;|--metrics/: Includes accuracy of predictions, TPR(portion of malicious PDFs &nbsp;&nbsp;&nbsp;&nbsp;correctly detected), &nbsp;&nbsp;&nbsp;&nbsp;TNR(proportion of benign PDFS correctly detected), TRA(how &nbsp;&nbsp;&nbsp;&nbsp;resistant model is to attacks), etc.  
+&nbsp;&nbsp;&nbsp;&nbsp;|--plots/: Includes any Graphs, curves, and visualizations if any.  
+|**--src/**: main codebase (includes Python scripts, etc)
+    |--GIN/: Implemtation of the GIN model (code for building, training GIN model)
+    |--Poir/: Handles PDF to PDFObj IR conversion.
+    |--attack/: code to simulate attacker that can modify PDF structure or content.
+    |--pretrained/: utilities for working with pretrained language and embedding models.
+    |--general/: provide dataset wrappers.
+
+|**--Dockerfile/**: CPU Docker container setup to reproduce experiment.  
+|**--PythonDependencies.txt/**: List of Python packages needed for the project to run.  
+|**--entrypoint.sh/:** shell script that acts as the main entry point when running the &nbsp;&nbsp;&nbsp;&nbsp;Docker container as it &nbsp;&nbsp;&nbsp;&nbsp;simplifies running project commands inside the container. 
+
+
+### Data Source(From Liu's et al, Experiment)
+- https://zenodo.org/records/15532394 
+
+### Contributors
+- Aron Chen, James Dobbs, Allison Gorman, Jason Huang
+
