@@ -34,7 +34,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;|--Poir/: Handles PDF to PDFObj IR conversion.  
 &nbsp;&nbsp;&nbsp;&nbsp;|--attack/: code to simulate attacker that can modify PDF structure or content.  
 &nbsp;&nbsp;&nbsp;&nbsp;|--pretrained/: utilities for working with pretrained language and embedding models. 
-&nbsp;&nbsp;&nbsp;&nbsp;|--general/: provide dataset wrappers.  
+&nbsp;&nbsp;&nbsp;&nbsp;|--general/: provide &nbsp;&nbsp;&nbsp;&nbsp;dataset wrappers.  
 &nbsp;&nbsp;&nbsp;&nbsp;|--bert-on-raw-content/: bert directly on raw PDF content.  
 &nbsp;&nbsp;&nbsp;&nbsp;|--bert/: scripts to use BERT embedding on PDF data.  
 &nbsp;&nbsp;&nbsp;&nbsp;|--pvdm/: Implement Paragraph Vector Distributed Memory model for document embedding
