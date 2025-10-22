@@ -40,11 +40,19 @@
 
 
 ### Docker & Github:  
-**Step 1**: Clone the repository: "git clone git@github.com:AronC500/CS.git" (SSH) or "git clone https://github.com/AronC500/CS.git" (http)
+**Step 1**: Clone the repository: "git clone git@github.com:AronC500/CS.git" (SSH) or "git clone https://github.com/AronC500/CS.git" (http)  
 **Step 2**: Download Docker https://www.docker.com/get-started/  
 **Step 3**: Build an image: "docker build -t whatevername ."  
-**-If successful, you should see the below image in the Docker application: **  
-![logo](https://github.com/AronC500/CS/blob/main/images/Untitled%20document%20%284%29.png?raw=true)
+** -If successful, you should see the below image in the Docker application:**  
+![logo](https://github.com/AronC500/CS/blob/main/images/Untitled%20document%20%284%29.png?raw=true)  
+**After you pressed play on the image, it should display this image to run the container:**    
+![logo](https://github.com/AronC500/CS/blob/main/images/Untitled%20document.png?raw=true)
+**When you press run, you should see this screen with the container and it's logs from the script, etc if you had any(Note in our case, we are using the entrypoint.sh script shell as the one that executes the scripts):**
+![logo](https://github.com/AronC500/CS/blob/main/images/Untitled%20document%20%281%29.png?raw=true  
+**After that, you can run the container as many times as you like:**  
+![logo](https://github.com/AronC500/CS/blob/main/images/Untitled%20document%20%283%29.png?raw=true)  
+
+
 
 
 ### Data Source(From Liu's et al, Experiment)
