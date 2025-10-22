@@ -43,6 +43,10 @@
 **Step 1**: Clone the repository: "git clone git@github.com:AronC500/CS.git" (SSH) or "git clone https://github.com/AronC500/CS.git" (http)  
 **Step 2**: Download Docker https://www.docker.com/get-started/  
 **Step 3**: Build an image: "docker build -t whatevername .". If successful, you should see the below image in the Docker application:  
+<p align="center">
+  <img src="https://github.com/AronC500/CS/blob/main/images/image1.png?raw=true" 
+       alt="Image 1" width="300" style="display:block;"/>
+</p>
 ![logo](https://github.com/AronC500/CS/blob/main/images/Untitled%20document%20%284%29.png?raw=true)  
 After you pressed play on the image, it should display this image to run the container:  
 ![logo](https://github.com/AronC500/CS/blob/main/images/Untitled%20document.png?raw=true)
