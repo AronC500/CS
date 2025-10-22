@@ -45,7 +45,7 @@
 **Step 3**: Build an image: "docker build -t whatevername .". If successful, you should see the below image in the Docker application:  
 <p align="center">
   <img src="https://github.com/AronC500/CS/blob/main/images/Untitled%20document%20%284%29.png?raw=true" 
-       alt="Image 1" width="300" style="display:block;"/>
+       alt="Image 1" width="100%" height="100" style="display:block;"/>
 </p>
 After you pressed play on the image, it should display this image to run the container:  
 ![logo](https://github.com/AronC500/CS/blob/main/images/Untitled%20document.png?raw=true)
