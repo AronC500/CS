@@ -33,7 +33,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;|--general/: provide &nbsp;&nbsp;&nbsp;&nbsp;dataset wrappers.  
 &nbsp;&nbsp;&nbsp;&nbsp;|--bert-on-raw-content/: bert directly on raw PDF content.  
 &nbsp;&nbsp;&nbsp;&nbsp;|--bert/: scripts to use BERT embedding on PDF data.  
-&nbsp;&nbsp;&nbsp;&nbsp;|--pvdm/: Implement Paragraph Vector Distributed Memory model for document embedding
+&nbsp;&nbsp;&nbsp;&nbsp;|--pvdm/: Implement Paragraph Vector Distributed Memory model for document embedding  
 |**--Dockerfile/**: CPU Docker container setup to reproduce experiment.  
 |**--requirements.txt/**: List of Python packages needed for the project to run.  
 |**--entrypoint.sh/:** shell script that acts as the main entry point when running the &nbsp;&nbsp;&nbsp;&nbsp;Docker container as it &nbsp;&nbsp;&nbsp;&nbsp;simplifies running project commands inside the container. 
@@ -42,9 +42,9 @@
 ### Docker & Github:  
 **Step 1**: Clone the repository: "git clone git@github.com:AronC500/CS.git" (SSH) or "git clone https://github.com/AronC500/CS.git" (http)
 **Step 2**: Download Docker https://www.docker.com/get-started/  
-**Step 3**: Build an image: "docker build -t whatevername ."
+**Step 3**: Build an image: "docker build -t whatevername ."  
 **-If successful, you should see the below image in the Docker application: **  
-![logo](https://github.com/AronC500/CS/blob/main/images/Untitled%20document%20(4).png?raw=true)
+![logo](https://github.com/AronC500/CS/blob/main/images/Untitled%20document%20%284%29.png?raw=true)
 
 
 ### Data Source(From Liu's et al, Experiment)
