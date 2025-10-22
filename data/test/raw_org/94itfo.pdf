@@ -1,0 +1,321 @@
+{
+    "1": {
+        "insn_list": [
+            "<<\n  /Creator (Aldus PageMaker 5.0)\n  /CreationDate (D:19980324075303)\n  /Title (C:WIN97DATARELSEIDERSLAYOUT)\n  /Author (JNW)\n  /Producer (Acrobat PDFWriter 3.03 for Windows NT)\n  /Keywords (foreign-owned Related Foreign Persons)\n  /Subject (Foreign-owned Domestic Corporation)\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "2": {
+        "insn_list": [
+            "[ /PDF /Text ]"
+        ],
+        "out_edge_list": []
+    },
+    "3": {
+        "insn_list": [
+            "<<\n  /Pages 5 0 R\n  /Type /Catalog\n>>"
+        ],
+        "out_edge_list": [
+            5
+        ]
+    },
+    "4": {
+        "insn_list": [
+            "<<\n  /Type /Page\n  /Parent 5 0 R\n  /Resources <<\n    /Font <<\n      /F0 6 0 R\n      /F1 8 0 R\n      /F2 10 0 R\n      /F3 14 0 R\n    >>\n    /ProcSet 2 0 R\n  >>\n  /Contents 12 0 R\n>>"
+        ],
+        "out_edge_list": [
+            5,
+            6,
+            8,
+            1,
+            1,
+            2,
+            1
+        ]
+    },
+    "5": {
+        "insn_list": [
+            "<<\n  /Kids [ 4 0 R 16 0 R 26 0 R 29 0 R 33 0 R 36 0 R ]\n  /Count 6\n  /Type /Pages\n  /MediaBox [ 0 0 612 792 ]\n>>"
+        ],
+        "out_edge_list": [
+            4,
+            1,
+            2,
+            2,
+            3,
+            3
+        ]
+    },
+    "6": {
+        "insn_list": [
+            "<<\n  /Type /Font\n  /Subtype /TrueType\n  /Name /F0\n  /BaseFont /TimesNewRoman\n  /FirstChar 32\n  /LastChar 255\n  /Widths [ 261 333 404 500 500 833 761 190 333 333 500 571 261\n      333 261 285 500 500 500 500 500 500 500 500 500 500 285\n      285 571 571 571 428 928 714 642 666 714 619 547 714 690\n      333 380 714 595 880 714 714 547 714 642 547 619 690 714\n      928 714 714 595 333 261 333 476 500 333 452 476 428 500\n      428 309 500 523 285 261 500 285 785 523 476 500 500 357\n      380 285 500 476 690 500 452 452 476 190 476 547 785 785\n      785 571 571 571 571 571 571 571 571 571 571 571 785 785\n      785 785 571 571 571 571 571 571 571 571 571 571 571 571\n      785 785 571 261 333 500 500 500 500 190 500 309 761 261\n      500 571 333 761 500 404 547 309 309 309 547 452 261 309\n      309 309 500 761 761 761 428 714 714 714 714 714 714 904\n      666 619 619 619 619 333 333 333 333 738 714 714 714 714\n      714 714 571 714 690 690 690 690 714 571 500 452 452 452\n      452 452 452 666 428 428 428 428 428 285 285 285 285 500\n      523 476 476 476 476 476 547 476 500 500 500 500 452 523\n      452 ]\n  /Encoding /WinAnsiEncoding\n  /FontDescriptor 7 0 R\n>>"
+        ],
+        "out_edge_list": [
+            7
+        ]
+    },
+    "7": {
+        "insn_list": [
+            "<<\n  /Type /FontDescriptor\n  /FontName /TimesNewRoman\n  /Flags 34\n  /FontBBox [ -250 -216 1115 1040 ]\n  /MissingWidth 333\n  /StemV 73\n  /StemH 73\n  /ItalicAngle 0\n  /CapHeight 891\n  /XHeight 446\n  /Ascent 891\n  /Descent -216\n  /Leading 149\n  /MaxWidth 929\n  /AvgWidth 401\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "8": {
+        "insn_list": [
+            "<<\n  /Type /Font\n  /Subtype /TrueType\n  /Name /F1\n  /BaseFont /TimesNewRoman,Italic\n  /FirstChar 32\n  /LastChar 255\n  /Widths [ 260 320 420 520 500 840 720 220 320 340 500 680 260\n      340 260 280 500 500 500 500 500 500 500 500 500 500 340\n      340 680 680 680 500 900 620 620 660 720 620 600 720 720\n      340 440 660 560 840 660 720 600 720 620 500 560 720 600\n      820 620 540 560 400 280 400 420 500 320 500 500 440 500\n      440 300 500 500 280 280 440 280 720 500 500 500 500 380\n      380 280 500 440 620 440 440 380 400 280 400 540 780 780\n      780 680 680 680 680 680 680 680 680 680 680 680 780 780\n      780 780 680 680 680 680 680 680 680 680 680 680 680 680\n      780 780 680 260 360 500 500 500 500 280 500 300 740 280\n      500 680 340 760 500 400 540 300 320 300 580 520 260 340\n      300 320 500 760 760 760 500 620 620 620 620 620 620 880\n      660 620 620 620 620 340 340 340 340 720 660 720 720 720\n      720 720 680 720 720 720 720 720 540 620 500 500 500 500\n      500 500 500 660 440 440 440 440 440 280 280 280 280 500\n      500 500 500 500 500 500 540 500 500 500 500 500 440 480\n      440 ]\n  /Encoding /WinAnsiEncoding\n  /FontDescriptor 9 0 R\n>>"
+        ],
+        "out_edge_list": [
+            9
+        ]
+    },
+    "9": {
+        "insn_list": [
+            "<<\n  /Type /FontDescriptor\n  /FontName /TimesNewRoman,Italic\n  /Flags 98\n  /FontBBox [ -250 -216 1080 1040 ]\n  /MissingWidth 400\n  /StemV 73\n  /StemH 73\n  /ItalicAngle -11\n  /CapHeight 891\n  /XHeight 446\n  /Ascent 891\n  /Descent -216\n  /Leading 149\n  /MaxWidth 900\n  /AvgWidth 402\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "10": {
+        "insn_list": [
+            "<<\n  /Type /Font\n  /Subtype /TrueType\n  /Name /F2\n  /BaseFont /ArialNarrow\n  /FirstChar 32\n  /LastChar 255\n  /Widths [ 228 228 293 456 456 750 543 152 271 271 315 478 228\n      271 228 228 456 456 456 456 456 456 456 456 456 456 228\n      228 478 478 478 456 836 543 543 586 586 543 500 641 586\n      228 413 543 456 684 586 641 543 641 586 543 500 586 543\n      771 543 543 500 228 228 228 380 456 271 456 456 413 456\n      456 228 456 456 184 184 413 184 684 456 456 456 456 271\n      413 228 456 413 586 413 413 413 271 217 271 478 228 228\n      228 478 478 478 478 478 478 478 478 478 478 478 228 228\n      228 228 478 478 478 478 478 478 478 478 478 478 478 478\n      228 228 478 228 271 456 456 456 456 217 456 271 608 304\n      456 478 271 608 500 402 554 271 271 271 576 467 228 271\n      271 304 456 684 684 684 500 543 543 543 543 543 543 815\n      586 543 543 543 543 228 228 228 228 586 586 641 641 641\n      641 641 478 641 586 586 586 586 543 543 500 456 456 456\n      456 456 456 728 413 456 456 456 456 228 228 228 228 456\n      456 456 456 456 456 456 554 500 456 456 456 456 413 456\n      413 ]\n  /Encoding /WinAnsiEncoding\n  /FontDescriptor 11 0 R\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "11": {
+        "insn_list": [
+            "<<\n  /Type /FontDescriptor\n  /FontName /ArialNarrow\n  /Flags 32\n  /FontBBox [ -250 -210 1004 1054 ]\n  /MissingWidth 228\n  /StemV 66\n  /StemH 66\n  /ItalicAngle 0\n  /CapHeight 922\n  /XHeight 461\n  /Ascent 922\n  /Descent -210\n  /Leading 132\n  /MaxWidth 837\n  /AvgWidth 362\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "12": {
+        "insn_list": [
+            "<<\n  /Length 13 0 R\n  /Filter /LZWDecode\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "13": {
+        "insn_list": [
+            "4416"
+        ],
+        "out_edge_list": []
+    },
+    "14": {
+        "insn_list": [
+            "<<\n  /Type /Font\n  /Subtype /TrueType\n  /Name /F3\n  /BaseFont /ArialNarrow,Bold\n  /FirstChar 32\n  /LastChar 255\n  /Widths [ 226 271 389 457 457 728 592 194 271 271 316 479 226\n      271 226 226 457 457 457 457 457 457 457 457 457 457 271\n      271 479 479 479 502 800 592 592 592 592 547 502 638 592\n      226 457 592 502 683 592 638 547 638 592 547 502 592 547\n      773 547 547 502 271 226 271 479 457 271 457 502 457 502\n      457 271 502 502 226 226 457 226 728 502 502 502 502 316\n      457 271 502 457 638 457 457 411 316 230 316 479 226 226\n      226 479 479 479 479 479 479 479 479 479 479 479 226 226\n      226 226 479 479 479 479 479 479 479 479 479 479 479 479\n      226 226 479 226 271 457 457 135 466 411 457 271 601 303\n      457 479 271 601 502 398 547 271 271 271 574 457 457 271\n      479 298 457 683 271 683 502 457 547 819 592 592 592 819\n      592 547 547 592 592 226 547 226 226 230 592 638 226 638\n      592 638 479 638 592 638 592 592 502 457 502 457 457 457\n      457 457 457 728 457 457 457 457 457 226 226 226 226 592\n      502 502 502 502 502 502 226 502 502 502 502 502 547 547\n      493 ]\n  /Encoding /WinAnsiEncoding\n  /FontDescriptor 15 0 R\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "15": {
+        "insn_list": [
+            "<<\n  /Type /FontDescriptor\n  /FontName /ArialNarrow,Bold\n  /Flags 16416\n  /FontBBox [ -250 -210 983 1076 ]\n  /MissingWidth 271\n  /StemV 125\n  /StemH 125\n  /ItalicAngle 0\n  /CapHeight 933\n  /XHeight 467\n  /Ascent 933\n  /Descent -210\n  /Leading 143\n  /MaxWidth 819\n  /AvgWidth 392\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "16": {
+        "insn_list": [
+            "<<\n  /Type /Page\n  /Parent 5 0 R\n  /Resources <<\n    /Font 25 0 R\n    /ProcSet 2 0 R\n  >>\n  /Contents 19 0 R\n>>"
+        ],
+        "out_edge_list": [
+            5,
+            2,
+            2,
+            1
+        ]
+    },
+    "17": {
+        "insn_list": [
+            "<<\n  /Type /Font\n  /Subtype /TrueType\n  /Name /F4\n  /BaseFont /CourierNew\n  /FirstChar 32\n  /LastChar 255\n  /Widths [ 595 595 595 595 595 595 595 595 595 595 595 595 595\n      595 595 595 595 595 595 595 595 595 595 595 595 595 595\n      595 595 595 595 595 595 595 595 595 595 595 595 595 595\n      595 595 595 595 595 595 595 595 595 595 595 595 595 595\n      595 595 595 595 595 595 595 595 595 595 595 595 595 595\n      595 595 595 595 595 595 595 595 595 595 595 595 595 595\n      595 595 595 595 595 595 595 595 595 595 595 595 595 595\n      595 595 595 595 595 595 595 595 595 595 595 595 595 595\n      595 595 595 595 595 595 595 595 595 595 595 595 595 595\n      595 595 595 595 595 595 595 595 595 595 595 595 595 595\n      595 595 595 595 595 595 595 595 595 595 595 595 595 595\n      595 595 595 595 595 595 595 595 595 595 595 595 595 595\n      595 595 595 595 595 595 595 595 595 595 595 595 595 595\n      595 595 595 595 595 595 595 595 595 595 595 595 595 595\n      595 595 595 595 595 595 595 595 595 595 595 595 595 595\n      595 595 595 595 595 595 595 595 595 595 595 595 595 595\n      595 ]\n  /Encoding /WinAnsiEncoding\n  /FontDescriptor 18 0 R\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "18": {
+        "insn_list": [
+            "<<\n  /Type /FontDescriptor\n  /FontName /CourierNew\n  /Flags 34\n  /FontBBox [ -250 -300 714 1000 ]\n  /MissingWidth 595\n  /StemV 109\n  /StemH 109\n  /ItalicAngle 0\n  /CapHeight 833\n  /XHeight 417\n  /Ascent 833\n  /Descent -300\n  /Leading 133\n  /MaxWidth 595\n  /AvgWidth 600\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "19": {
+        "insn_list": [
+            "<<\n  /Length 20 0 R\n  /Filter /LZWDecode\n>>"
+        ],
+        "out_edge_list": [
+            2
+        ]
+    },
+    "20": {
+        "insn_list": [
+            "4023"
+        ],
+        "out_edge_list": []
+    },
+    "21": {
+        "insn_list": [
+            "<<\n  /Type /Font\n  /Subtype /TrueType\n  /Name /F5\n  /BaseFont /Arial,Bold\n  /FirstChar 32\n  /LastChar 255\n  /Widths [ 275 275 482 551 551 861 723 241 344 344 379 586 275\n      344 275 275 551 551 551 551 551 551 551 551 551 551 344\n      344 586 586 586 620 965 654 689 723 723 654 620 792 723\n      275 551 723 620 861 723 758 654 758 723 654 620 723 654\n      930 654 689 620 344 275 344 586 551 344 551 620 551 620\n      551 344 620 620 275 275 551 275 896 620 620 620 620 379\n      551 344 620 586 792 551 551 517 379 241 379 586 758 758\n      758 586 586 586 586 586 586 586 586 586 586 586 758 758\n      758 758 586 586 586 586 586 586 586 586 586 586 586 586\n      758 758 586 275 344 551 551 551 551 241 551 344 723 379\n      551 586 344 723 551 413 551 344 344 344 586 551 275 344\n      344 379 551 827 827 827 620 654 654 654 654 654 654 999\n      723 654 654 654 654 275 275 275 275 723 723 758 758 758\n      758 758 586 792 723 723 723 723 689 654 620 551 551 551\n      551 551 551 896 551 551 551 551 551 275 275 275 275 620\n      620 620 620 620 620 620 551 620 620 620 620 620 551 620\n      551 ]\n  /Encoding /WinAnsiEncoding\n  /FontDescriptor 22 0 R\n>>"
+        ],
+        "out_edge_list": [
+            2
+        ]
+    },
+    "22": {
+        "insn_list": [
+            "<<\n  /Type /FontDescriptor\n  /FontName /Arial,Bold\n  /Flags 16416\n  /FontBBox [ -250 -212 1200 1055 ]\n  /MissingWidth 345\n  /StemV 153\n  /StemH 153\n  /ItalicAngle 0\n  /CapHeight 905\n  /XHeight 453\n  /Ascent 905\n  /Descent -212\n  /Leading 150\n  /MaxWidth 1000\n  /AvgWidth 479\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "23": {
+        "insn_list": [
+            "<<\n  /Type /Font\n  /Subtype /TrueType\n  /Name /F6\n  /BaseFont /Arial\n  /FirstChar 32\n  /LastChar 255\n  /Widths [ 275 310 344 551 551 896 654 206 344 344 379 586 275\n      344 275 275 551 551 551 551 551 551 551 551 551 551 275\n      275 586 586 586 551 999 654 654 723 723 654 620 792 723\n      241 517 654 551 792 723 792 654 792 723 654 654 723 654\n      1034 654 654 620 275 275 275 482 551 344 551 551 517 551\n      551 275 551 551 241 241 482 241 861 551 551 551 551 344\n      517 275 551 448 723 448 448 482 344 275 344 586 758 758\n      758 586 586 586 586 586 586 586 586 586 586 586 758 758\n      758 758 586 586 586 586 586 586 586 586 586 586 586 586\n      758 758 586 275 310 551 551 551 551 275 551 344 723 379\n      551 586 344 723 551 413 551 344 344 344 586 551 275 344\n      344 379 551 827 827 827 620 654 654 654 654 654 654 999\n      723 654 654 654 654 241 241 241 241 723 723 792 792 792\n      792 792 586 792 723 723 723 723 654 654 620 551 551 551\n      551 551 551 896 517 551 551 551 551 310 310 310 310 551\n      551 551 551 551 551 551 551 620 551 551 551 551 448 551\n      448 ]\n  /Encoding /WinAnsiEncoding\n  /FontDescriptor 24 0 R\n>>"
+        ],
+        "out_edge_list": [
+            2
+        ]
+    },
+    "24": {
+        "insn_list": [
+            "<<\n  /Type /FontDescriptor\n  /FontName /Arial\n  /Flags 32\n  /FontBBox [ -250 -212 1241 1055 ]\n  /MissingWidth 276\n  /StemV 80\n  /StemH 80\n  /ItalicAngle 0\n  /CapHeight 905\n  /XHeight 453\n  /Ascent 905\n  /Descent -212\n  /Leading 150\n  /MaxWidth 1034\n  /AvgWidth 441\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "25": {
+        "insn_list": [
+            "<<\n  /F0 6 0 R\n  /F1 8 0 R\n  /F2 10 0 R\n  /F4 17 0 R\n  /F5 21 0 R\n  /F6 23 0 R\n>>"
+        ],
+        "out_edge_list": [
+            6,
+            8,
+            1,
+            1,
+            2,
+            2
+        ]
+    },
+    "26": {
+        "insn_list": [
+            "<<\n  /Type /Page\n  /Parent 5 0 R\n  /Resources <<\n    /Font <<\n      /F0 6 0 R\n      /F2 10 0 R\n      /F3 14 0 R\n      /F5 21 0 R\n      /F6 23 0 R\n    >>\n    /ProcSet 2 0 R\n  >>\n  /Contents 27 0 R\n>>"
+        ],
+        "out_edge_list": [
+            5,
+            6,
+            1,
+            1,
+            2,
+            2,
+            2,
+            2
+        ]
+    },
+    "27": {
+        "insn_list": [
+            "<<\n  /Length 28 0 R\n  /Filter /LZWDecode\n>>"
+        ],
+        "out_edge_list": [
+            2
+        ]
+    },
+    "28": {
+        "insn_list": [
+            "6804"
+        ],
+        "out_edge_list": []
+    },
+    "29": {
+        "insn_list": [
+            "<<\n  /Type /Page\n  /Parent 5 0 R\n  /Resources <<\n    /Font 32 0 R\n    /ProcSet 2 0 R\n  >>\n  /Contents 30 0 R\n>>"
+        ],
+        "out_edge_list": [
+            5,
+            3,
+            2,
+            3
+        ]
+    },
+    "30": {
+        "insn_list": [
+            "<<\n  /Length 31 0 R\n  /Filter /LZWDecode\n>>"
+        ],
+        "out_edge_list": [
+            3
+        ]
+    },
+    "31": {
+        "insn_list": [
+            "5199"
+        ],
+        "out_edge_list": []
+    },
+    "32": {
+        "insn_list": [
+            "<<\n  /F0 6 0 R\n  /F1 8 0 R\n  /F2 10 0 R\n  /F4 17 0 R\n  /F5 21 0 R\n  /F6 23 0 R\n>>"
+        ],
+        "out_edge_list": [
+            6,
+            8,
+            1,
+            1,
+            2,
+            2
+        ]
+    },
+    "33": {
+        "insn_list": [
+            "<<\n  /Type /Page\n  /Parent 5 0 R\n  /Resources <<\n    /Font <<\n      /F0 6 0 R\n      /F1 8 0 R\n      /F2 10 0 R\n      /F3 14 0 R\n    >>\n    /ProcSet 2 0 R\n  >>\n  /Contents 34 0 R\n>>"
+        ],
+        "out_edge_list": [
+            5,
+            6,
+            8,
+            1,
+            1,
+            2,
+            3
+        ]
+    },
+    "34": {
+        "insn_list": [
+            "<<\n  /Length 35 0 R\n  /Filter /LZWDecode\n>>"
+        ],
+        "out_edge_list": [
+            3
+        ]
+    },
+    "35": {
+        "insn_list": [
+            "4824"
+        ],
+        "out_edge_list": []
+    },
+    "36": {
+        "insn_list": [
+            "<<\n  /Type /Page\n  /Parent 5 0 R\n  /Resources <<\n    /Font <<\n      /F0 6 0 R\n      /F1 8 0 R\n      /F4 17 0 R\n    >>\n    /ProcSet 2 0 R\n  >>\n  /Contents 37 0 R\n>>"
+        ],
+        "out_edge_list": [
+            5,
+            6,
+            8,
+            1,
+            2,
+            3
+        ]
+    },
+    "37": {
+        "insn_list": [
+            "<<\n  /Length 38 0 R\n  /Filter /LZWDecode\n>>"
+        ],
+        "out_edge_list": [
+            3
+        ]
+    },
+    "38": {
+        "insn_list": [
+            "3025"
+        ],
+        "out_edge_list": []
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "1": {
+        "insn_list": [
+            "<<\n  /Pages 2 0 R\n  /PageLayout /SinglePage\n  /Names <<\n    /JavaScript 8 0 R\n  >>\n  /Type /Catalog\n>>"
+        ],
+        "out_edge_list": [
+            2,
+            8
+        ]
+    },
+    "2": {
+        "insn_list": [
+            "<<\n  /Kids [ 3 0 R ]\n  /Count 1\n  /Type /Pages\n>>"
+        ],
+        "out_edge_list": [
+            3
+        ]
+    },
+    "3": {
+        "insn_list": [
+            "<<\n  /Parent 2 0 R\n  /Contents 4 0 R\n  /Type /Page\n>>"
+        ],
+        "out_edge_list": [
+            2,
+            4
+        ]
+    },
+    "4": {
+        "insn_list": [
+            "<<\n  /Length 31\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "5": {
+        "insn_list": [
+            "<<\n  /Length 5086\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "6": {
+        "insn_list": [
+            "<<\n  /Length 344\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "8": {
+        "insn_list": [
+            "<<\n  /Names [ (xcvvxc) 27 0 R (qweqws) 17 0 R (sdsxz) 27 0 R ]\n>>"
+        ],
+        "out_edge_list": [
+            2,
+            1,
+            2
+        ]
+    },
+    "9": {
+        "insn_list": [
+            "<<\n  /Creator (Adobe)\n  /Title 5 0 R\n  /Producer (asd)\n  /Author (das)\n  /CreationDate (D:ert)\n>>"
+        ],
+        "out_edge_list": [
+            5
+        ]
+    },
+    "15": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /Length 1\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "16": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /Length 1\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "17": {
+        "insn_list": [
+            "<<\n  /S /JavaScript\n  /JS 16 0 R\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "27": {
+        "insn_list": [
+            "<<\n  /S /JavaScript\n  /JS 6 0 R\n>>"
+        ],
+        "out_edge_list": [
+            6
+        ]
+    }
+}

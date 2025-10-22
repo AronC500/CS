@@ -1,0 +1,68 @@
+{
+    "1": {
+        "insn_list": [
+            "<<\n  /Count 1\n  /Type /Pages\n  /Kids [ 5 0 R ]\n>>"
+        ],
+        "out_edge_list": [
+            5
+        ]
+    },
+    "2": {
+        "insn_list": [
+            "<<\n  /Private (-Version=2.29 -optimize=1 -InFormat=4 -CropPage=4)\n  /LastModified (D:20091015145217-04'00')\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "3": {
+        "insn_list": [
+            "<<\n  /Subtype /Image\n  /Length 3753\n  /Filter /JBIG2Decode\n  /BitsPerComponent 1\n  /ColorSpace /DeviceGray\n  /Width 2160\n  /DecodeParms <<\n    /JBIG2Globals 6 0 R\n  >>\n  /Height 2960\n>>"
+        ],
+        "out_edge_list": [
+            6
+        ]
+    },
+    "4": {
+        "insn_list": [
+            "<<\n  /Length 93\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "5": {
+        "insn_list": [
+            "<<\n  /Parent 1 0 R\n  /Contents 4 0 R\n  /PieceInfo <<\n    /Acroscan1 2 0 R\n    /Acroscan2 <<\n      /Private <<\n        /FXMedia 8.43\n        /YMapMin 15\n        /InFormat 4\n        /Columns 2528\n        /SZLeft 600\n        /Precision 1\n        /Quality .3\n        /JBIG2Quality 4\n        /LZWPredictor 1\n        /FixHalos 1\n        /Rows 3300\n        /SZBot 600\n        /YMedia 11\n        /Deskew 2\n        /MonoComp 2\n        /Colors 1\n        /PepperFilters 2\n        /BandHeight 3648\n        /ADF 1\n        /SZMinWW 107\n        /SZRight 600\n        /LZWEarlyChange 1\n        /Segment 1\n        /SZADFMaxSW 200\n        /SZMaxSW 600\n        /SZTop 600\n        /DefaultUpsample 1\n        /BlackUpsample 0\n      >>\n      /LastModified (D:20091015145217-04'00')\n    >>\n  >>\n  /MediaBox [ 0 0 606 792 ]\n  /Resources <<\n    /XObject <<\n      /3 3 0 R\n    >>\n    /ProcSet [ /PDF /ImageB ]\n  >>\n  /Type /Page\n  /LastModified (D:20091015145217-04'00')\n>>"
+        ],
+        "out_edge_list": [
+            1,
+            4,
+            2,
+            3
+        ]
+    },
+    "6": {
+        "insn_list": [
+            "<<\n  /Length 11911\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "7": {
+        "insn_list": [
+            "<<\n  /Metadata 9 0 R\n  /Pages 1 0 R\n  /Type /Catalog\n>>"
+        ],
+        "out_edge_list": [
+            9,
+            1
+        ]
+    },
+    "8": {
+        "insn_list": [
+            "<<\n  /CreationDate (D:20091015145218-04'00')\n  /Creator (FUJITSU fi-6230dj)\n  /Producer (PDFScanLib v1.2.2 in Adobe Acrobat 8.1.1)\n  /ModDate (D:20091015145221-04'00')\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "9": {
+        "insn_list": [
+            "<<\n  /Subtype /XML\n  /Length 3365\n  /Type /Metadata\n>>"
+        ],
+        "out_edge_list": []
+    }
+}

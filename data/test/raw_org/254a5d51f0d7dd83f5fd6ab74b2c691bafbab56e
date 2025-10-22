@@ -1,0 +1,157 @@
+{
+    "1": {
+        "insn_list": [
+            "<<\n  /Type /Catalog\n  /Outlines 3 0 R\n  /Pages 4 0 R\n  /Dests 5 0 R\n  /AcroForm 6 0 R\n  /Names 7 0 R\n  /Threads 8 0 R\n  /PageLayout /SinglePage\n  /ViewerPreferences <<\n    /PageDirection /L2R\n  >>\n>>"
+        ],
+        "out_edge_list": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+        ]
+    },
+    "2": {
+        "insn_list": [
+            "<<\n  /Creator (Scribus 1.3.3.13)\n  /Producer (Scribus PDF Library 1.3.3.13)\n  /Title ()\n  /Author ()\n  /Keywords ()\n  /CreationDate (D:20090717185801)\n  /ModDate (D:20090717185801)\n  /Trapped /False\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "3": {
+        "insn_list": [
+            "<<\n  /Type /Outlines\n  /Count 0\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "4": {
+        "insn_list": [
+            "<<\n  /Type /Pages\n  /Kids [ 13 0 R ]\n  /Count 1\n  /Resources 14 0 R\n>>"
+        ],
+        "out_edge_list": [
+            1,
+            1
+        ]
+    },
+    "5": {
+        "insn_list": [
+            "<<\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "6": {
+        "insn_list": [
+            "<<\n  /Fields [ ]\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "7": {
+        "insn_list": [
+            "<<\n  /JavaScript 21 0 R\n>>"
+        ],
+        "out_edge_list": [
+            2
+        ]
+    },
+    "8": {
+        "insn_list": [
+            "[ ]"
+        ],
+        "out_edge_list": []
+    },
+    "9": {
+        "insn_list": [
+            "<<\n  /Type /XObject\n  /Subtype /Form\n  /FormType 1\n  /BBox [ .11719 -.32422 .37794 -1 ]\n  /Resources <<\n    /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]\n  >>\n  /Length 263\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "10": {
+        "insn_list": [
+            "<<\n  /Type /XObject\n  /Subtype /Image\n  /Width 1054\n  /Height 583\n  /ColorSpace /DeviceRGB\n  /BitsPerComponent 8\n  /Length 65899\n  /Filter /DCTDecode\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "11": {
+        "insn_list": [
+            "<<\n  /Length 3573\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "12": {
+        "insn_list": [
+            "<<\n  /S /Transparency\n  /CS /DeviceRGB\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "13": {
+        "insn_list": [
+            "<<\n  /Type /Page\n  /Parent 4 0 R\n  /MediaBox [ 0 0 595.28 841.89 ]\n  /TrimBox [ 0 0 595.28 841.89 ]\n  /Rotate 0\n  /Contents 11 0 R\n  /Group 12 0 R\n>>"
+        ],
+        "out_edge_list": [
+            4,
+            1,
+            1
+        ]
+    },
+    "14": {
+        "insn_list": [
+            "<<\n  /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]\n  /XObject <<\n    /RE0 10 0 R\n    /TimesNewRomanPSMT49 9 0 R\n  >>\n>>"
+        ],
+        "out_edge_list": [
+            1,
+            9
+        ]
+    },
+    "15": {
+        "insn_list": [
+            "<<\n  /Length 10471\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "16": {
+        "insn_list": [
+            "<<\n  /Length 198\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "17": {
+        "insn_list": [
+            "<<\n  /Length 183\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "18": {
+        "insn_list": [
+            "<<\n  /S /JavaScript\n  /JS 15 0 R\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "19": {
+        "insn_list": [
+            "<<\n  /S /JavaScript\n  /JS 16 0 R\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "20": {
+        "insn_list": [
+            "<<\n  /S /JavaScript\n  /JS 17 0 R\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "21": {
+        "insn_list": [
+            "<<\n  /Names [ (61d647c1a3d7b66b408e4a21c3167fe2) 18 0 R (6afea581e2d33bf935e94036b41979b2)\n      19 0 R (015389e74278202135dd6ed947ed32da) 20 0 R ]\n>>"
+        ],
+        "out_edge_list": [
+            1,
+            1,
+            2
+        ]
+    }
+}

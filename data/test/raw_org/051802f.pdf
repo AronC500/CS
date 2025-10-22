@@ -1,0 +1,283 @@
+{
+    "1": {
+        "insn_list": [
+            "<<\n  /Creator (Adobe Acrobat)\n  /CreationDate (D:20050502150314Z)\n  /Title ()\n  /Author (Office of Chief Counsel, IRS)\n  /Producer (Acrobat PDFWriter 5.0 for Windows NT)\n  /ModDate (D:20050502150333-04'00')\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "2": {
+        "insn_list": [
+            "[ /PDF /Text ]"
+        ],
+        "out_edge_list": []
+    },
+    "3": {
+        "insn_list": [
+            "<<\n  /Pages 33 0 R\n  /Type /Catalog\n  /Metadata 34 0 R\n>>"
+        ],
+        "out_edge_list": [
+            3,
+            3
+        ]
+    },
+    "4": {
+        "insn_list": [
+            "<<\n  /Type /Page\n  /Parent 5 0 R\n  /Resources <<\n    /Font <<\n      /F0 6 0 R\n      /F1 8 0 R\n      /F2 10 0 R\n    >>\n    /ProcSet 2 0 R\n  >>\n  /Contents 12 0 R\n>>"
+        ],
+        "out_edge_list": [
+            5,
+            6,
+            8,
+            1,
+            2,
+            1
+        ]
+    },
+    "5": {
+        "insn_list": [
+            "<<\n  /Kids [ 4 0 R 14 0 R 17 0 R 20 0 R 23 0 R 26 0 R ]\n  /Count 6\n  /Type /Pages\n  /Parent 33 0 R\n>>"
+        ],
+        "out_edge_list": [
+            4,
+            1,
+            1,
+            2,
+            2,
+            2,
+            3
+        ]
+    },
+    "6": {
+        "insn_list": [
+            "<<\n  /Type /Font\n  /Subtype /TrueType\n  /Name /F0\n  /BaseFont /Arial,Bold\n  /FirstChar 32\n  /LastChar 255\n  /Widths [ 278 333 474 556 556 889 722 238 333 333 389 584 278\n      333 278 278 556 556 556 556 556 556 556 556 556 556 333\n      333 584 584 584 611 975 722 722 722 722 667 611 778 722\n      278 556 722 611 833 722 778 667 778 722 667 611 722 667\n      944 667 667 611 333 278 333 584 556 333 556 611 556 611\n      556 333 611 611 278 278 556 278 889 611 611 611 611 389\n      556 333 611 556 778 556 556 500 389 280 389 584 750 556\n      750 278 556 500 1000 556 556 333 1000 667 333 1000 750 611\n      750 750 278 278 500 500 350 556 1000 333 1000 556 333 944\n      750 500 667 278 333 556 556 556 556 280 556 333 737 370\n      556 584 333 737 552 400 549 333 333 333 576 556 278 333\n      333 365 556 834 834 834 611 722 722 722 722 722 722 1000\n      722 667 667 667 667 278 278 278 278 722 722 778 778 778\n      778 778 584 778 722 722 722 722 667 667 611 556 556 556\n      556 556 556 889 556 556 556 556 556 278 278 278 278 611\n      611 611 611 611 611 611 549 611 611 611 611 611 556 611\n      556 ]\n  /Encoding /WinAnsiEncoding\n  /FontDescriptor 7 0 R\n>>"
+        ],
+        "out_edge_list": [
+            7
+        ]
+    },
+    "7": {
+        "insn_list": [
+            "<<\n  /Type /FontDescriptor\n  /FontName /Arial,Bold\n  /Flags 16416\n  /FontBBox [ -250 -212 1160 1000 ]\n  /MissingWidth 322\n  /StemV 153\n  /StemH 153\n  /ItalicAngle 0\n  /CapHeight 905\n  /XHeight 453\n  /Ascent 905\n  /Descent -212\n  /Leading 150\n  /MaxWidth 967\n  /AvgWidth 479\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "8": {
+        "insn_list": [
+            "<<\n  /Type /Font\n  /Subtype /TrueType\n  /Name /F1\n  /BaseFont /ArialBlack,Bold\n  /FirstChar 32\n  /LastChar 255\n  /Widths [ 333 333 500 660 667 1000 889 278 389 389 556 660 333\n      333 333 278 667 667 667 667 667 667 667 667 667 667 333\n      333 660 660 660 611 740 778 778 778 778 722 667 833 833\n      389 667 833 667 944 833 833 722 833 778 722 722 833 778\n      1000 778 778 722 389 278 389 660 500 333 667 667 667 667\n      667 389 667 667 333 333 667 333 1000 667 667 667 667 444\n      611 444 667 611 944 667 611 556 389 278 389 660 750 667\n      750 278 667 500 1000 667 667 333 1000 722 333 1000 750 722\n      750 750 278 278 500 500 500 500 1000 333 950 611 333 1000\n      750 556 778 333 333 667 667 660 667 278 667 333 800 400\n      667 660 333 800 500 400 660 400 400 333 667 850 333 333\n      400 400 667 1000 1000 1000 611 778 778 778 778 778 778 1000\n      778 722 722 722 722 389 389 389 389 778 833 833 833 833\n      833 833 660 833 833 833 833 833 778 722 667 667 667 667\n      667 667 667 1000 667 667 667 667 667 333 333 333 333 667\n      667 667 667 667 667 667 660 667 667 667 667 667 611 667\n      611 ]\n  /Encoding /WinAnsiEncoding\n  /FontDescriptor 9 0 R\n>>"
+        ],
+        "out_edge_list": [
+            9
+        ]
+    },
+    "9": {
+        "insn_list": [
+            "<<\n  /Type /FontDescriptor\n  /FontName /ArialBlack,Bold\n  /Flags 16416\n  /FontBBox [ -250 -310 1200 1101 ]\n  /MissingWidth 389\n  /StemV 176\n  /StemH 176\n  /ItalicAngle 0\n  /CapHeight 1101\n  /XHeight 551\n  /Ascent 1101\n  /Descent -310\n  /Leading 410\n  /MaxWidth 1000\n  /AvgWidth 552\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "10": {
+        "insn_list": [
+            "<<\n  /Type /Font\n  /Subtype /TrueType\n  /Name /F2\n  /BaseFont /Arial\n  /FirstChar 32\n  /LastChar 255\n  /Widths [ 278 278 355 556 556 889 667 191 333 333 389 584 278\n      333 278 278 556 556 556 556 556 556 556 556 556 556 278\n      278 584 584 584 556 1015 667 667 722 722 667 611 778 722\n      278 500 667 556 833 722 778 667 778 722 667 611 722 667\n      944 667 667 611 278 278 278 469 556 333 556 556 500 556\n      556 278 556 556 222 222 500 222 833 556 556 556 556 333\n      500 278 556 500 722 500 500 500 334 260 334 584 750 556\n      750 222 556 333 1000 556 556 333 1000 667 333 1000 750 611\n      750 750 222 222 333 333 350 556 1000 333 1000 500 333 944\n      750 500 667 278 333 556 556 556 556 260 556 333 737 370\n      556 584 333 737 552 400 549 333 333 333 576 537 278 333\n      333 365 556 834 834 834 611 667 667 667 667 667 667 1000\n      722 667 667 667 667 278 278 278 278 722 722 778 778 778\n      778 778 584 778 722 722 722 722 667 667 611 556 556 556\n      556 556 556 889 500 556 556 556 556 278 278 278 278 556\n      556 556 556 556 556 556 549 611 556 556 556 556 500 556\n      500 ]\n  /Encoding /WinAnsiEncoding\n  /FontDescriptor 11 0 R\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "11": {
+        "insn_list": [
+            "<<\n  /Type /FontDescriptor\n  /FontName /Arial\n  /Flags 32\n  /FontBBox [ -250 -212 1208 1000 ]\n  /MissingWidth 276\n  /StemV 80\n  /StemH 80\n  /ItalicAngle 0\n  /CapHeight 905\n  /XHeight 453\n  /Ascent 905\n  /Descent -212\n  /Leading 150\n  /MaxWidth 1007\n  /AvgWidth 441\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "12": {
+        "insn_list": [
+            "<<\n  /Length 13 0 R\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "13": {
+        "insn_list": [
+            "1608"
+        ],
+        "out_edge_list": []
+    },
+    "14": {
+        "insn_list": [
+            "<<\n  /Type /Page\n  /Parent 5 0 R\n  /Resources <<\n    /Font <<\n      /F0 6 0 R\n      /F2 10 0 R\n    >>\n    /ProcSet 2 0 R\n  >>\n  /Contents 15 0 R\n>>"
+        ],
+        "out_edge_list": [
+            5,
+            6,
+            1,
+            2,
+            1
+        ]
+    },
+    "15": {
+        "insn_list": [
+            "<<\n  /Length 16 0 R\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "16": {
+        "insn_list": [
+            "2517"
+        ],
+        "out_edge_list": []
+    },
+    "17": {
+        "insn_list": [
+            "<<\n  /Type /Page\n  /Parent 5 0 R\n  /Resources <<\n    /Font <<\n      /F0 6 0 R\n      /F2 10 0 R\n    >>\n    /ProcSet 2 0 R\n  >>\n  /Contents 18 0 R\n>>"
+        ],
+        "out_edge_list": [
+            5,
+            6,
+            1,
+            2,
+            1
+        ]
+    },
+    "18": {
+        "insn_list": [
+            "<<\n  /Length 19 0 R\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "19": {
+        "insn_list": [
+            "2526"
+        ],
+        "out_edge_list": []
+    },
+    "20": {
+        "insn_list": [
+            "<<\n  /Type /Page\n  /Parent 5 0 R\n  /Resources <<\n    /Font <<\n      /F2 10 0 R\n    >>\n    /ProcSet 2 0 R\n  >>\n  /Contents 21 0 R\n>>"
+        ],
+        "out_edge_list": [
+            5,
+            1,
+            2,
+            2
+        ]
+    },
+    "21": {
+        "insn_list": [
+            "<<\n  /Length 22 0 R\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": [
+            2
+        ]
+    },
+    "22": {
+        "insn_list": [
+            "2517"
+        ],
+        "out_edge_list": []
+    },
+    "23": {
+        "insn_list": [
+            "<<\n  /Type /Page\n  /Parent 5 0 R\n  /Resources <<\n    /Font <<\n      /F2 10 0 R\n    >>\n    /ProcSet 2 0 R\n  >>\n  /Contents 24 0 R\n>>"
+        ],
+        "out_edge_list": [
+            5,
+            1,
+            2,
+            2
+        ]
+    },
+    "24": {
+        "insn_list": [
+            "<<\n  /Length 25 0 R\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": [
+            2
+        ]
+    },
+    "25": {
+        "insn_list": [
+            "3023"
+        ],
+        "out_edge_list": []
+    },
+    "26": {
+        "insn_list": [
+            "<<\n  /Type /Page\n  /Parent 5 0 R\n  /Resources <<\n    /Font <<\n      /F2 10 0 R\n    >>\n    /ProcSet 2 0 R\n  >>\n  /Contents 27 0 R\n>>"
+        ],
+        "out_edge_list": [
+            5,
+            1,
+            2,
+            2
+        ]
+    },
+    "27": {
+        "insn_list": [
+            "<<\n  /Length 28 0 R\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": [
+            2
+        ]
+    },
+    "28": {
+        "insn_list": [
+            "2876"
+        ],
+        "out_edge_list": []
+    },
+    "29": {
+        "insn_list": [
+            "<<\n  /Type /Page\n  /Parent 30 0 R\n  /Resources <<\n    /Font <<\n      /F0 6 0 R\n      /F2 10 0 R\n    >>\n    /ProcSet 2 0 R\n  >>\n  /Contents 31 0 R\n>>"
+        ],
+        "out_edge_list": [
+            3,
+            6,
+            1,
+            2,
+            3
+        ]
+    },
+    "30": {
+        "insn_list": [
+            "<<\n  /Kids [ 29 0 R ]\n  /Count 1\n  /Type /Pages\n  /Parent 33 0 R\n>>"
+        ],
+        "out_edge_list": [
+            2,
+            3
+        ]
+    },
+    "31": {
+        "insn_list": [
+            "<<\n  /Length 32 0 R\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": [
+            3
+        ]
+    },
+    "32": {
+        "insn_list": [
+            "1253"
+        ],
+        "out_edge_list": []
+    },
+    "33": {
+        "insn_list": [
+            "<<\n  /Kids [ 5 0 R 30 0 R ]\n  /Count 7\n  /Type /Pages\n  /MediaBox [ 0 0 612 792 ]\n>>"
+        ],
+        "out_edge_list": [
+            5,
+            3
+        ]
+    },
+    "34": {
+        "insn_list": [
+            "<<\n  /Type /Metadata\n  /Subtype /XML\n  /Length 1327\n>>"
+        ],
+        "out_edge_list": []
+    }
+}

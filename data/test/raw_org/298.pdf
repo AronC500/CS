@@ -1,0 +1,266 @@
+{
+    "1": {
+        "insn_list": [
+            "<<\n  /Nums [ 0 2 0 R ]\n>>"
+        ],
+        "out_edge_list": [
+            2
+        ]
+    },
+    "2": {
+        "insn_list": [
+            "[ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R ]"
+        ],
+        "out_edge_list": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ]
+    },
+    "3": {
+        "insn_list": [
+            "<<\n  /CM1 <<\n    /O /Layout\n    /LineHeight 13.875\n  >>\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "4": {
+        "insn_list": [
+            "<<\n  /S /P\n  /A <<\n    /O /Layout\n    /LineHeight 13.5\n    /SpaceAfter 14.125\n  >>\n  /P 16 0 R\n  /Pg 17 0 R\n  /K 0\n>>"
+        ],
+        "out_edge_list": [
+            1,
+            1
+        ]
+    },
+    "5": {
+        "insn_list": [
+            "<<\n  /S /LI\n  /C /CM1\n  /A <<\n    /O /Layout\n    /SpaceBefore 14.125\n    /SpaceAfter 13.875\n  >>\n  /P 16 0 R\n  /Pg 17 0 R\n  /K 1\n>>"
+        ],
+        "out_edge_list": [
+            1,
+            1
+        ]
+    },
+    "6": {
+        "insn_list": [
+            "<<\n  /S /P\n  /C /CM1\n  /A <<\n    /O /Layout\n    /SpaceBefore 13.875\n    /SpaceAfter 27.5\n  >>\n  /P 16 0 R\n  /Pg 17 0 R\n  /K 2\n>>"
+        ],
+        "out_edge_list": [
+            1,
+            1
+        ]
+    },
+    "7": {
+        "insn_list": [
+            "<<\n  /S /LI\n  /C /CM1\n  /A <<\n    /O /Layout\n    /SpaceBefore 27.5\n    /SpaceAfter 13.875\n  >>\n  /P 16 0 R\n  /Pg 17 0 R\n  /K 3\n>>"
+        ],
+        "out_edge_list": [
+            1,
+            1
+        ]
+    },
+    "8": {
+        "insn_list": [
+            "<<\n  /S /P\n  /A <<\n    /O /Layout\n    /LineHeight 14.25\n    /EndIndent 10.375\n    /SpaceBefore 13.875\n    /SpaceAfter 22.5\n  >>\n  /P 16 0 R\n  /Pg 17 0 R\n  /K 4\n>>"
+        ],
+        "out_edge_list": [
+            1,
+            1
+        ]
+    },
+    "9": {
+        "insn_list": [
+            "<<\n  /S /LI\n  /A <<\n    /O /Layout\n    /LineHeight 13.625\n    /EndIndent 4.375\n    /SpaceBefore 22.5\n  >>\n  /P 16 0 R\n  /Pg 17 0 R\n  /K 5\n>>"
+        ],
+        "out_edge_list": [
+            1,
+            1
+        ]
+    },
+    "10": {
+        "insn_list": [
+            "<<\n  /CreationDate (D:20030312112406Z)\n  /Title (Reply Comment on Anticircumvention Rulemaking--White)\n  /Author (U.S. Copyright Office)\n  /ModDate (D:20030313080658-05'00')\n  /Subject (Anticircumvention Rulemaking)\n  /Keywords (anticircumvention, copyright, section 1201, DMCA, reply)\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "11": {
+        "insn_list": [
+            "<<\n  /Kids [ 17 0 R ]\n  /Count 1\n  /Type /Pages\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "12": {
+        "insn_list": [
+            "<<\n  /Type /Metadata\n  /Subtype /XML\n  /Length 1699\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "13": {
+        "insn_list": [
+            "<<\n  /Linearized 1\n  /O 17\n  /H [ 1229 185 ]\n  /L 10852\n  /E 7407\n  /N 1\n  /T 10474\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "14": {
+        "insn_list": [
+            "<<\n  /Pages 11 0 R\n  /Type /Catalog\n  /Metadata 12 0 R\n  /StructTreeRoot 16 0 R\n  /Lang (en-US)\n  /MarkInfo <<\n    /Marked true\n  >>\n>>"
+        ],
+        "out_edge_list": [
+            1,
+            1,
+            1
+        ]
+    },
+    "15": {
+        "insn_list": [
+            "<<\n  /Filter /Standard\n  /R 3\n  /O <A327718DD5ED6C754E4628DEBE3D5DADDF56E3BAE172D0C5314D06DC610642DD>\n  /U <EF7AB5C50DCF4AC869C8985EB6C87AC400000000000000000000000000000000>\n  /P -300\n  /V 2\n  /Length 128\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "16": {
+        "insn_list": [
+            "<<\n  /Type /StructTreeRoot\n  /ParentTree 1 0 R\n  /ParentTreeNextKey 1\n  /K [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R ]\n  /ClassMap 3 0 R\n>>"
+        ],
+        "out_edge_list": [
+            1,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            3
+        ]
+    },
+    "17": {
+        "insn_list": [
+            "<<\n  /Type /Page\n  /Parent 11 0 R\n  /Resources <<\n    /ColorSpace <<\n      /CS0 25 0 R\n      /CS1 24 0 R\n    >>\n    /Font <<\n      /TT0 19 0 R\n      /T1_0 23 0 R\n    >>\n    /ExtGState <<\n      /GS0 31 0 R\n    >>\n    /ProcSet [ /PDF /Text ]\n  >>\n  /Contents 27 0 R\n  /MediaBox [ 0 0 612 792 ]\n  /CropBox [ 0 0 612 792 ]\n  /Rotate 0\n  /StructParents 0\n>>"
+        ],
+        "out_edge_list": [
+            1,
+            2,
+            2,
+            1,
+            2,
+            3,
+            2
+        ]
+    },
+    "18": {
+        "insn_list": [
+            "[ 128 /space 1 /space ]"
+        ],
+        "out_edge_list": []
+    },
+    "19": {
+        "insn_list": [
+            "<<\n  /Type /Font\n  /Subtype /TrueType\n  /FontDescriptor 20 0 R\n  /BaseFont /TimesNewRoman,Bold\n  /FirstChar 32\n  /LastChar 255\n  /Widths [ 250 333 555 500 500 1000 833 278 333 333 500 570 250\n      333 250 278 500 500 500 500 500 500 500 500 500 500 333\n      333 570 570 570 500 930 722 667 722 722 667 611 778 778\n      389 500 778 667 944 722 778 611 778 722 556 667 722 722\n      1000 722 722 667 333 278 333 581 500 333 500 556 444 556\n      444 333 500 556 278 333 556 278 833 556 500 556 556 444\n      389 333 556 500 722 500 500 444 394 220 394 520 778 500\n      778 333 500 500 1000 500 500 333 1000 556 333 1000 778 667\n      778 778 333 333 500 500 350 500 1000 333 1000 389 333 722\n      778 444 722 250 333 500 500 500 500 220 500 333 747 300\n      500 570 333 747 500 400 549 300 300 333 576 540 250 333\n      300 330 500 750 750 750 500 722 722 722 722 722 722 1000\n      722 667 667 667 667 389 389 389 389 722 722 778 778 778\n      778 778 570 778 722 722 722 722 722 611 556 500 500 500\n      500 500 500 722 444 444 444 444 444 278 278 278 278 500\n      556 500 500 500 500 500 549 500 556 556 556 556 500 556\n      500 ]\n  /Encoding /WinAnsiEncoding\n  /ToUnicode 21 0 R\n>>"
+        ],
+        "out_edge_list": [
+            2,
+            2
+        ]
+    },
+    "20": {
+        "insn_list": [
+            "<<\n  /Type /FontDescriptor\n  /FontName /TimesNewRoman,Bold\n  /Flags 16418\n  /FontBBox [ -250 -216 1165 1000 ]\n  /MissingWidth 323\n  /StemV 136\n  /StemH 136\n  /ItalicAngle 0\n  /CapHeight 891\n  /XHeight 446\n  /Ascent 891\n  /Descent -216\n  /Leading 149\n  /MaxWidth 971\n  /AvgWidth 427\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "21": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /Length 30 0 R\n>>"
+        ],
+        "out_edge_list": [
+            3
+        ]
+    },
+    "22": {
+        "insn_list": [
+            "<<\n  /Type /Encoding\n  /BaseEncoding /WinAnsiEncoding\n  /Differences 18 0 R\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "23": {
+        "insn_list": [
+            "<<\n  /Type /Font\n  /Subtype /Type1\n  /BaseFont /Times-Roman\n  /Encoding 22 0 R\n  /Widths [ 250 250 250 250 250 250 250 250 250 250 250 250 250\n      250 250 250 250 250 250 250 250 250 250 250 250 250 250\n      250 250 250 250 250 250 333 408 500 500 833 778 180 333\n      333 500 564 250 333 250 278 500 500 500 500 500 500 500\n      500 500 500 278 278 564 564 564 444 921 722 667 667 722\n      611 556 722 722 333 389 722 611 889 722 722 556 722 667\n      556 611 722 722 944 722 722 611 333 278 333 469 500 333\n      444 500 444 500 444 333 500 500 278 278 500 278 778 500\n      500 500 500 333 389 278 500 500 722 500 500 444 480 200\n      480 541 350 250 350 333 500 444 1000 500 500 333 1000 556\n      333 889 350 611 350 350 333 333 444 444 350 500 1000 333\n      980 389 333 722 350 444 722 250 333 500 500 500 500 200\n      500 333 760 276 500 564 333 760 333 400 564 300 300 333\n      500 453 250 333 300 310 500 750 750 750 444 722 722 722\n      722 722 722 889 667 611 611 611 611 333 333 333 333 722\n      722 722 722 722 722 722 564 722 722 722 722 722 722 556\n      500 444 444 444 444 444 444 667 444 444 444 444 444 278\n      278 278 278 500 500 500 500 500 500 500 564 500 500 500\n      500 500 500 500 500 ]\n  /FirstChar 0\n  /LastChar 255\n  /ToUnicode 26 0 R\n>>"
+        ],
+        "out_edge_list": [
+            2,
+            2
+        ]
+    },
+    "24": {
+        "insn_list": [
+            "/DeviceGray"
+        ],
+        "out_edge_list": []
+    },
+    "25": {
+        "insn_list": [
+            "/DeviceRGB"
+        ],
+        "out_edge_list": []
+    },
+    "26": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /Length 29 0 R\n>>"
+        ],
+        "out_edge_list": [
+            2
+        ]
+    },
+    "27": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /Length 28 0 R\n>>"
+        ],
+        "out_edge_list": [
+            2
+        ]
+    },
+    "28": {
+        "insn_list": [
+            "1354"
+        ],
+        "out_edge_list": []
+    },
+    "29": {
+        "insn_list": [
+            "564"
+        ],
+        "out_edge_list": []
+    },
+    "30": {
+        "insn_list": [
+            "425"
+        ],
+        "out_edge_list": []
+    },
+    "31": {
+        "insn_list": [
+            "<<\n  /Type /ExtGState\n  /SA false\n  /OP false\n  /op false\n  /OPM 0\n  /BG2 /Default\n  /UCR2 /Default\n  /TR2 /Default\n  /HT /Default\n  /CA 1\n  /ca 1\n  /SMask /None\n  /AIS false\n  /BM /Normal\n  /TK true\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "32": {
+        "insn_list": [
+            "<<\n  /S 36\n  /C 83\n  /Filter /FlateDecode\n  /Length 33 0 R\n>>"
+        ],
+        "out_edge_list": [
+            3
+        ]
+    },
+    "33": {
+        "insn_list": [
+            "75"
+        ],
+        "out_edge_list": []
+    }
+}

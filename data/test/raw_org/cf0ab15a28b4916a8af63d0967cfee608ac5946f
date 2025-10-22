@@ -1,0 +1,58 @@
+{
+    "1": {
+        "insn_list": [
+            "<<\n  /Type /Action\n  /S /GoTo\n  /D [ null null /XYZ null null null ]\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "4": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /Length 1570\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "6": {
+        "insn_list": [
+            "<<\n  /Direction /L2R\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "7": {
+        "insn_list": [
+            "<<\n  /count 1\n  /Type /Pages\n  /Kids [ 9 0 R ]\n>>"
+        ],
+        "out_edge_list": [
+            9
+        ]
+    },
+    "8": {
+        "insn_list": [
+            "<<\n  /S /JavaScript\n  /JS 4 0 R\n>>"
+        ],
+        "out_edge_list": [
+            4
+        ]
+    },
+    "9": {
+        "insn_list": [
+            "<<\n  /Parent 7 0 R\n  /contents 6 0 R\n  /MediaBox [ 0 0 400 504 ]\n  /Resources 9 0 R\n  /Type /Page\n  /AA <<\n    /O 8 0 R\n  >>\n>>"
+        ],
+        "out_edge_list": [
+            7,
+            6,
+            9,
+            8
+        ]
+    },
+    "10": {
+        "insn_list": [
+            "<<\n  /Pages 7 0 R\n  /StructTreeRoot 8 0 R\n  /Type /catalog\n  /Lang (ru-RU)\n  /ViewerPreferences 6 0 R\n  /PageMode /UseNone\n  /OpenAction 1 0 R\n>>"
+        ],
+        "out_edge_list": [
+            7,
+            8,
+            6,
+            1
+        ]
+    }
+}

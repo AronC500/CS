@@ -1,0 +1,82 @@
+{
+    "1": {
+        "insn_list": [
+            "<<\n  /Type /Pages\n  /Kids [ 5 0 R ]\n  /Count 1\n>>"
+        ],
+        "out_edge_list": [
+            5
+        ]
+    },
+    "2": {
+        "insn_list": [
+            "<<\n  /ModDate (D:19990108113714)\n  /Creator (Acrobat 3.0 Scan Plug-in\\000)\n  /Producer (Acrobat 3.0 Scan Plug-in\\000)\n  /CreationDate (D:19990108113632)\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "3": {
+        "insn_list": [
+            "<<\n  /Linearized 1\n  /O 5\n  /H [ 576 149 ]\n  /L 25724\n  /E 25373\n  /N 1\n  /T 25547\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "4": {
+        "insn_list": [
+            "<<\n  /Type /Catalog\n  /Pages 1 0 R\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "5": {
+        "insn_list": [
+            "<<\n  /Type /Page\n  /MediaBox [ 0 0 548 708 ]\n  /Parent 1 0 R\n  /Resources <<\n    /XObject <<\n      /Im1 9 0 R\n    >>\n    /ProcSet [ /PDF /ImageB ]\n  >>\n  /Contents 6 0 R\n  /CropBox [ 0 0 548 708 ]\n  /Rotate 0\n>>"
+        ],
+        "out_edge_list": [
+            1,
+            9,
+            6
+        ]
+    },
+    "6": {
+        "insn_list": [
+            "<<\n  /Filter /LZWDecode\n  /Length 7 0 R\n>>"
+        ],
+        "out_edge_list": [
+            7
+        ]
+    },
+    "7": {
+        "insn_list": [
+            "33"
+        ],
+        "out_edge_list": []
+    },
+    "8": {
+        "insn_list": [
+            "24045"
+        ],
+        "out_edge_list": []
+    },
+    "9": {
+        "insn_list": [
+            "<<\n  /Type /XObject\n  /Subtype /Image\n  /Name /Im1\n  /Width 1142\n  /Height 1475\n  /BitsPerComponent 1\n  /Filter /FlateDecode\n  /ColorSpace /DeviceGray\n  /Length 8 0 R\n>>"
+        ],
+        "out_edge_list": [
+            8
+        ]
+    },
+    "10": {
+        "insn_list": [
+            "<<\n  /S 36\n  /Filter /FlateDecode\n  /Length 11 0 R\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "11": {
+        "insn_list": [
+            "45"
+        ],
+        "out_edge_list": []
+    }
+}

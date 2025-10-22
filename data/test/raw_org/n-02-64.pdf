@@ -1,0 +1,746 @@
+{
+    "1": {
+        "insn_list": [
+            "<<\n  /Type /Page\n  /Parent 65 0 R\n  /Resources <<\n    /ColorSpace <<\n      /CS0 70 0 R\n      /CS1 71 0 R\n    >>\n    /ExtGState <<\n      /GS0 80 0 R\n      /GS1 78 0 R\n    >>\n    /Font <<\n      /TT0 7 0 R\n      /TT1 73 0 R\n      /TT2 77 0 R\n      /TT3 8 0 R\n    >>\n    /ProcSet [ /PDF /Text ]\n  >>\n  /Contents 2 0 R\n  /MediaBox [ 0 0 612 792 ]\n  /CropBox [ 0 0 612 792 ]\n  /Rotate 0\n  /StructParents 1\n>>"
+        ],
+        "out_edge_list": [
+            6,
+            7,
+            7,
+            8,
+            7,
+            7,
+            7,
+            7,
+            8,
+            2
+        ]
+    },
+    "2": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /Length 3 0 R\n>>"
+        ],
+        "out_edge_list": [
+            3
+        ]
+    },
+    "3": {
+        "insn_list": [
+            "1699"
+        ],
+        "out_edge_list": []
+    },
+    "4": {
+        "insn_list": [
+            "<<\n  /Type /Page\n  /Parent 65 0 R\n  /Resources <<\n    /ColorSpace <<\n      /CS0 70 0 R\n      /CS1 71 0 R\n    >>\n    /ExtGState <<\n      /GS0 80 0 R\n      /GS1 78 0 R\n    >>\n    /Font <<\n      /TT0 7 0 R\n      /TT1 73 0 R\n      /TT2 77 0 R\n    >>\n    /ProcSet [ /PDF /Text ]\n  >>\n  /Contents 5 0 R\n  /MediaBox [ 0 0 612 792 ]\n  /CropBox [ 0 0 612 792 ]\n  /Rotate 0\n  /StructParents 2\n>>"
+        ],
+        "out_edge_list": [
+            6,
+            7,
+            7,
+            8,
+            7,
+            7,
+            7,
+            7,
+            5
+        ]
+    },
+    "5": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /Length 6 0 R\n>>"
+        ],
+        "out_edge_list": [
+            6
+        ]
+    },
+    "6": {
+        "insn_list": [
+            "1287"
+        ],
+        "out_edge_list": []
+    },
+    "7": {
+        "insn_list": [
+            "<<\n  /Type /Font\n  /Subtype /TrueType\n  /FirstChar 32\n  /LastChar 32\n  /Widths [ 600 ]\n  /Encoding /WinAnsiEncoding\n  /BaseFont /PDOMBK+CourierNewPSMT\n  /FontDescriptor 9 0 R\n>>"
+        ],
+        "out_edge_list": [
+            9
+        ]
+    },
+    "8": {
+        "insn_list": [
+            "<<\n  /Type /Font\n  /Subtype /TrueType\n  /FirstChar 32\n  /LastChar 116\n  /Widths [ 278 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0\n      0 0 0 0 0 0 0 0 0 0 0 0 0 0 611 0 0 0 0 0 0 0 0 0 0 0 722\n      0 0 0 0 0 0 0 0 0 0 0 0 0 0 556 0 0 611 556 0 611 0 278\n      0 0 278 0 0 0 0 0 389 556 333 ]\n  /Encoding /WinAnsiEncoding\n  /BaseFont /PDOMFI+Arial,Bold\n  /FontDescriptor 11 0 R\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "9": {
+        "insn_list": [
+            "<<\n  /Type /FontDescriptor\n  /Ascent 832\n  /CapHeight 0\n  /Descent -300\n  /Flags 34\n  /FontBBox [ -21 -680 638 1021 ]\n  /FontName /PDOMBK+CourierNewPSMT\n  /ItalicAngle 0\n  /StemV 0\n  /FontFile2 10 0 R\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "10": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /Length 9327\n  /Length1 20192\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "11": {
+        "insn_list": [
+            "<<\n  /Type /FontDescriptor\n  /Ascent 905\n  /CapHeight 0\n  /Descent -211\n  /Flags 32\n  /FontBBox [ -628 -376 2034 1048 ]\n  /FontName /PDOMFI+Arial,Bold\n  /ItalicAngle 0\n  /StemV 133\n  /FontFile2 12 0 R\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "12": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /Length 10711\n  /Length1 22776\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "13": {
+        "insn_list": [
+            "<<\n  /S /Normal\n  /C /Normal\n  /Pg 69 0 R\n  /K 0\n  /P 54 0 R\n>>"
+        ],
+        "out_edge_list": [
+            6,
+            5
+        ]
+    },
+    "14": {
+        "insn_list": [
+            "<<\n  /Normal /P\n  /TextBox /Div\n  /Frame /Div\n  /Footnote /Note\n  /Endnote /Note\n  /Shape /Figure\n  /InlineShape /Figure\n  /TOA /TOC\n  /TOAI /TOCI\n  /TOF /TOC\n  /TOFI /TOCI\n  /Superscript /Span\n  /Subscript /Span\n  /Strikeout /Span\n  /Underline /Span\n  /DropCap /Figure\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "15": {
+        "insn_list": [
+            "<<\n  /Normal 16 0 R\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "16": {
+        "insn_list": [
+            "<<\n  /O /Layout\n  /WritingMode /LrTb\n  /StartIndent 0\n  /EndIndent 0\n  /TextAlign /Start\n  /SpaceBefore 0\n  /SpaceAfter 0\n  /TextIndent 0\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "17": {
+        "insn_list": [
+            "<<\n  /S /Normal\n  /C /Normal\n  /Pg 69 0 R\n  /K 1\n  /P 54 0 R\n>>"
+        ],
+        "out_edge_list": [
+            6,
+            5
+        ]
+    },
+    "18": {
+        "insn_list": [
+            "<<\n  /S /Normal\n  /C /Normal\n  /Pg 69 0 R\n  /K 2\n  /P 54 0 R\n>>"
+        ],
+        "out_edge_list": [
+            6,
+            5
+        ]
+    },
+    "19": {
+        "insn_list": [
+            "<<\n  /S /Normal\n  /C /Normal\n  /Pg 69 0 R\n  /K 3\n  /P 54 0 R\n>>"
+        ],
+        "out_edge_list": [
+            6,
+            5
+        ]
+    },
+    "20": {
+        "insn_list": [
+            "<<\n  /S /Normal\n  /C /Normal\n  /Pg 69 0 R\n  /K 4\n  /P 54 0 R\n>>"
+        ],
+        "out_edge_list": [
+            6,
+            5
+        ]
+    },
+    "21": {
+        "insn_list": [
+            "<<\n  /S /Normal\n  /C /Normal\n  /Pg 69 0 R\n  /K 5\n  /P 54 0 R\n>>"
+        ],
+        "out_edge_list": [
+            6,
+            5
+        ]
+    },
+    "22": {
+        "insn_list": [
+            "<<\n  /S /Normal\n  /C /Normal\n  /Pg 69 0 R\n  /K 6\n  /P 54 0 R\n>>"
+        ],
+        "out_edge_list": [
+            6,
+            5
+        ]
+    },
+    "23": {
+        "insn_list": [
+            "<<\n  /S /Normal\n  /C /Normal\n  /Pg 69 0 R\n  /K 7\n  /P 54 0 R\n>>"
+        ],
+        "out_edge_list": [
+            6,
+            5
+        ]
+    },
+    "24": {
+        "insn_list": [
+            "<<\n  /S /Normal\n  /C /Normal\n  /Pg 69 0 R\n  /K 8\n  /P 54 0 R\n>>"
+        ],
+        "out_edge_list": [
+            6,
+            5
+        ]
+    },
+    "25": {
+        "insn_list": [
+            "<<\n  /S /Normal\n  /A [ 26 0 R ]\n  /C /Normal\n  /Pg 69 0 R\n  /K 9\n  /P 54 0 R\n>>"
+        ],
+        "out_edge_list": [
+            2,
+            6,
+            5
+        ]
+    },
+    "26": {
+        "insn_list": [
+            "<<\n  /O /Layout\n  /TextIndent 108\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "27": {
+        "insn_list": [
+            "<<\n  /S /Normal\n  /C /Normal\n  /Pg 69 0 R\n  /K 10\n  /P 54 0 R\n>>"
+        ],
+        "out_edge_list": [
+            6,
+            5
+        ]
+    },
+    "28": {
+        "insn_list": [
+            "<<\n  /S /Normal\n  /C /Normal\n  /Pg 69 0 R\n  /K 11\n  /P 54 0 R\n>>"
+        ],
+        "out_edge_list": [
+            6,
+            5
+        ]
+    },
+    "29": {
+        "insn_list": [
+            "<<\n  /S /Normal\n  /C /Normal\n  /Pg 69 0 R\n  /K 12\n  /P 54 0 R\n>>"
+        ],
+        "out_edge_list": [
+            6,
+            5
+        ]
+    },
+    "30": {
+        "insn_list": [
+            "<<\n  /S /Normal\n  /C /Normal\n  /Pg 69 0 R\n  /K 13\n  /P 54 0 R\n>>"
+        ],
+        "out_edge_list": [
+            6,
+            5
+        ]
+    },
+    "31": {
+        "insn_list": [
+            "<<\n  /S /Normal\n  /A [ 32 0 R ]\n  /C /Normal\n  /Pg 69 0 R\n  /K 14\n  /P 54 0 R\n>>"
+        ],
+        "out_edge_list": [
+            3,
+            6,
+            5
+        ]
+    },
+    "32": {
+        "insn_list": [
+            "<<\n  /O /Layout\n  /TextIndent 36\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "33": {
+        "insn_list": [
+            "<<\n  /S /Normal\n  /C /Normal\n  /Pg 69 0 R\n  /K 15\n  /P 54 0 R\n>>"
+        ],
+        "out_edge_list": [
+            6,
+            5
+        ]
+    },
+    "34": {
+        "insn_list": [
+            "<<\n  /S /Normal\n  /A [ 35 0 R ]\n  /C /Normal\n  /Pg 69 0 R\n  /K 16\n  /P 54 0 R\n>>"
+        ],
+        "out_edge_list": [
+            3,
+            6,
+            5
+        ]
+    },
+    "35": {
+        "insn_list": [
+            "<<\n  /O /Layout\n  /TextIndent 36\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "36": {
+        "insn_list": [
+            "<<\n  /S /Normal\n  /A [ 37 0 R ]\n  /C /Normal\n  /Pg 69 0 R\n  /K 17\n  /P 54 0 R\n>>"
+        ],
+        "out_edge_list": [
+            3,
+            6,
+            5
+        ]
+    },
+    "37": {
+        "insn_list": [
+            "<<\n  /O /Layout\n  /TextIndent 36\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "38": {
+        "insn_list": [
+            "<<\n  /S /Normal\n  /A [ 39 0 R ]\n  /C /Normal\n  /Pg 69 0 R\n  /P 55 0 R\n  /K [ 18 <<\n        /Type /MCR\n        /Pg 1 0 R\n        /MCID 0\n      >> ]\n>>"
+        ],
+        "out_edge_list": [
+            3,
+            6,
+            5,
+            1
+        ]
+    },
+    "39": {
+        "insn_list": [
+            "<<\n  /O /Layout\n  /TextIndent 36\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "40": {
+        "insn_list": [
+            "<<\n  /S /Normal\n  /A [ 41 0 R ]\n  /C /Normal\n  /Pg 1 0 R\n  /K 1\n  /P 55 0 R\n>>"
+        ],
+        "out_edge_list": [
+            4,
+            1,
+            5
+        ]
+    },
+    "41": {
+        "insn_list": [
+            "<<\n  /O /Layout\n  /TextIndent 36\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "42": {
+        "insn_list": [
+            "<<\n  /S /Normal\n  /A [ 43 0 R ]\n  /C /Normal\n  /Pg 1 0 R\n  /K 2\n  /P 55 0 R\n>>"
+        ],
+        "out_edge_list": [
+            4,
+            1,
+            5
+        ]
+    },
+    "43": {
+        "insn_list": [
+            "<<\n  /O /Layout\n  /TextIndent 36\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "44": {
+        "insn_list": [
+            "<<\n  /S /Normal\n  /C /Normal\n  /Pg 1 0 R\n  /K 3\n  /P 55 0 R\n>>"
+        ],
+        "out_edge_list": [
+            1,
+            5
+        ]
+    },
+    "45": {
+        "insn_list": [
+            "<<\n  /S /Normal\n  /A [ 46 0 R ]\n  /C /Normal\n  /Pg 1 0 R\n  /K 4\n  /P 55 0 R\n>>"
+        ],
+        "out_edge_list": [
+            4,
+            1,
+            5
+        ]
+    },
+    "46": {
+        "insn_list": [
+            "<<\n  /O /Layout\n  /TextIndent 36\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "47": {
+        "insn_list": [
+            "<<\n  /S /Normal\n  /A [ 48 0 R ]\n  /C /Normal\n  /Pg 1 0 R\n  /P 56 0 R\n  /K [ 5 <<\n        /Type /MCR\n        /Pg 4 0 R\n        /MCID 0\n      >> ]\n>>"
+        ],
+        "out_edge_list": [
+            4,
+            1,
+            5,
+            4
+        ]
+    },
+    "48": {
+        "insn_list": [
+            "<<\n  /O /Layout\n  /TextIndent 36\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "49": {
+        "insn_list": [
+            "<<\n  /S /Normal\n  /A [ 50 0 R ]\n  /C /Normal\n  /Pg 4 0 R\n  /K 1\n  /P 56 0 R\n>>"
+        ],
+        "out_edge_list": [
+            5,
+            4,
+            5
+        ]
+    },
+    "50": {
+        "insn_list": [
+            "<<\n  /O /Layout\n  /TextIndent 36\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "51": {
+        "insn_list": [
+            "<<\n  /S /Normal\n  /C /Normal\n  /Pg 4 0 R\n  /K 2\n  /P 56 0 R\n>>"
+        ],
+        "out_edge_list": [
+            4,
+            5
+        ]
+    },
+    "52": {
+        "insn_list": [
+            "<<\n  /S /Normal\n  /A [ 53 0 R ]\n  /C /Normal\n  /Pg 4 0 R\n  /K 3\n  /P 56 0 R\n>>"
+        ],
+        "out_edge_list": [
+            5,
+            4,
+            5
+        ]
+    },
+    "53": {
+        "insn_list": [
+            "<<\n  /O /Layout\n  /TextIndent 36\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "54": {
+        "insn_list": [
+            "<<\n  /S /Sect\n  /P 68 0 R\n  /Lang (EN-GB)\n  /K [ 13 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R\n      24 0 R 25 0 R 27 0 R 28 0 R 29 0 R 30 0 R 31 0 R 33 0 R\n      34 0 R 36 0 R ]\n>>"
+        ],
+        "out_edge_list": [
+            6,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            3,
+            3,
+            3,
+            3,
+            3
+        ]
+    },
+    "55": {
+        "insn_list": [
+            "<<\n  /S /Sect\n  /P 68 0 R\n  /Lang (EN-GB)\n  /K [ 38 0 R 40 0 R 42 0 R 44 0 R 45 0 R ]\n>>"
+        ],
+        "out_edge_list": [
+            6,
+            3,
+            4,
+            4,
+            4,
+            4
+        ]
+    },
+    "56": {
+        "insn_list": [
+            "<<\n  /S /Sect\n  /P 68 0 R\n  /Lang (EN-GB)\n  /K [ 47 0 R 49 0 R 51 0 R 52 0 R ]\n>>"
+        ],
+        "out_edge_list": [
+            6,
+            4,
+            4,
+            5,
+            5
+        ]
+    },
+    "57": {
+        "insn_list": [
+            "<<\n  /Nums [ 0 58 0 R 1 59 0 R 2 60 0 R ]\n>>"
+        ],
+        "out_edge_list": [
+            5,
+            5,
+            6
+        ]
+    },
+    "58": {
+        "insn_list": [
+            "[ 13 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R 24 0 R\n  25 0 R 27 0 R 28 0 R 29 0 R 30 0 R 31 0 R 33 0 R 34 0 R 36 0 R\n  38 0 R ]"
+        ],
+        "out_edge_list": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3
+        ]
+    },
+    "59": {
+        "insn_list": [
+            "[ 38 0 R 40 0 R 42 0 R 44 0 R 45 0 R 47 0 R ]"
+        ],
+        "out_edge_list": [
+            3,
+            4,
+            4,
+            4,
+            4,
+            4
+        ]
+    },
+    "60": {
+        "insn_list": [
+            "[ 47 0 R 49 0 R 51 0 R 52 0 R ]"
+        ],
+        "out_edge_list": [
+            4,
+            4,
+            5,
+            5
+        ]
+    },
+    "61": {
+        "insn_list": [
+            "<<\n  /S /D\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "62": {
+        "insn_list": [
+            "<<\n  /Nums [ 0 61 0 R ]\n>>"
+        ],
+        "out_edge_list": [
+            6
+        ]
+    },
+    "63": {
+        "insn_list": [
+            "<<\n  /Producer (Acrobat Distiller 5.0 \\(Windows\\))\n  /Author (Preferred Customer)\n  /ModDate (D:20020919094259-03'00')\n  /CreationDate (D:20020919094132-04'00')\n  /Creator (Acrobat PDFMaker 5.0 for Word)\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "64": {
+        "insn_list": [
+            "<<\n  /Type /Metadata\n  /Subtype /XML\n  /Length 899\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "65": {
+        "insn_list": [
+            "<<\n  /Type /Pages\n  /Kids [ 69 0 R 1 0 R 4 0 R ]\n  /Count 3\n>>"
+        ],
+        "out_edge_list": [
+            6,
+            1,
+            4
+        ]
+    },
+    "66": {
+        "insn_list": [
+            "<<\n  /Linearized 1\n  /O 69\n  /H [ 1211 292 ]\n  /L 62380\n  /E 30786\n  /N 3\n  /T 60942\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "67": {
+        "insn_list": [
+            "<<\n  /Type /Catalog\n  /Pages 65 0 R\n  /Metadata 64 0 R\n  /OpenAction [ 69 0 R /XYZ null null null ]\n  /PageMode /UseNone\n  /PageLabels 62 0 R\n  /StructTreeRoot 68 0 R\n  /PieceInfo <<\n    /MarkedPDF <<\n      /LastModified (D:20020919094259)\n    >>\n  >>\n  /LastModified (D:20020919094259)\n  /MarkInfo <<\n    /Marked true\n    /LetterspaceFlags 0\n  >>\n>>"
+        ],
+        "out_edge_list": [
+            6,
+            6,
+            6,
+            6,
+            6
+        ]
+    },
+    "68": {
+        "insn_list": [
+            "<<\n  /Type /StructTreeRoot\n  /ClassMap 15 0 R\n  /RoleMap 14 0 R\n  /K [ 54 0 R 55 0 R 56 0 R ]\n  /ParentTree 57 0 R\n  /ParentTreeNextKey 3\n>>"
+        ],
+        "out_edge_list": [
+            1,
+            1,
+            5,
+            5,
+            5,
+            5
+        ]
+    },
+    "69": {
+        "insn_list": [
+            "<<\n  /Type /Page\n  /Parent 65 0 R\n  /Resources <<\n    /ColorSpace <<\n      /CS0 70 0 R\n      /CS1 71 0 R\n    >>\n    /ExtGState <<\n      /GS0 80 0 R\n      /GS1 78 0 R\n    >>\n    /Font <<\n      /TT0 73 0 R\n      /TT1 77 0 R\n    >>\n    /ProcSet [ /PDF /Text ]\n  >>\n  /Contents 74 0 R\n  /MediaBox [ 0 0 612 792 ]\n  /CropBox [ 0 0 612 792 ]\n  /Rotate 0\n  /StructParents 0\n>>"
+        ],
+        "out_edge_list": [
+            6,
+            7,
+            7,
+            8,
+            7,
+            7,
+            7,
+            7
+        ]
+    },
+    "70": {
+        "insn_list": [
+            "[ /ICCBased 81 0 R ]"
+        ],
+        "out_edge_list": [
+            8
+        ]
+    },
+    "71": {
+        "insn_list": [
+            "/DeviceGray"
+        ],
+        "out_edge_list": []
+    },
+    "72": {
+        "insn_list": [
+            "<<\n  /Type /FontDescriptor\n  /Ascent 905\n  /CapHeight 718\n  /Descent -211\n  /Flags 32\n  /FontBBox [ -665 -325 2028 1037 ]\n  /FontName /PDOIJL+Arial\n  /ItalicAngle 0\n  /StemV 94\n  /XHeight 515\n  /FontFile2 79 0 R\n>>"
+        ],
+        "out_edge_list": [
+            7
+        ]
+    },
+    "73": {
+        "insn_list": [
+            "<<\n  /Type /Font\n  /Subtype /TrueType\n  /FirstChar 32\n  /LastChar 122\n  /Widths [ 278 0 0 0 0 0 0 0 333 333 0 0 278 333 278 0 556 556\n      556 556 556 556 556 556 556 556 278 278 0 0 0 0 0 667 667\n      722 722 667 611 778 0 278 500 667 556 833 722 778 667 0\n      722 667 611 722 0 0 0 667 611 0 0 0 0 0 0 556 556 500 556\n      556 278 556 556 222 0 500 222 833 556 556 556 556 333 500\n      278 556 500 722 500 500 500 ]\n  /Encoding /WinAnsiEncoding\n  /BaseFont /PDOIJL+Arial\n  /FontDescriptor 72 0 R\n>>"
+        ],
+        "out_edge_list": [
+            7
+        ]
+    },
+    "74": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /Length 75 0 R\n>>"
+        ],
+        "out_edge_list": [
+            7
+        ]
+    },
+    "75": {
+        "insn_list": [
+            "1469"
+        ],
+        "out_edge_list": []
+    },
+    "76": {
+        "insn_list": [
+            "<<\n  /Type /FontDescriptor\n  /Ascent 812\n  /CapHeight 0\n  /Descent -226\n  /Flags 32\n  /FontBBox [ 0 -226 1197 812 ]\n  /FontName /PDOJKB+WPTypographicSymbols\n  /ItalicAngle 0\n  /StemV 0\n  /FontFile2 82 0 R\n>>"
+        ],
+        "out_edge_list": [
+            8
+        ]
+    },
+    "77": {
+        "insn_list": [
+            "<<\n  /Type /Font\n  /Subtype /TrueType\n  /FirstChar 31\n  /LastChar 31\n  /Widths [ 500 ]\n  /Encoding /WinAnsiEncoding\n  /BaseFont /PDOJKB+WPTypographicSymbols\n  /FontDescriptor 76 0 R\n>>"
+        ],
+        "out_edge_list": [
+            7
+        ]
+    },
+    "78": {
+        "insn_list": [
+            "<<\n  /Type /ExtGState\n  /SA false\n  /OP false\n  /op false\n  /OPM 0\n  /BG2 /Default\n  /UCR2 /Default\n  /TR2 /Default\n  /HT /Default\n  /CA 1\n  /ca 1\n  /SMask /None\n  /AIS false\n  /BM /Normal\n  /TK true\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "79": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /Length 21206\n  /Length1 35308\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "80": {
+        "insn_list": [
+            "<<\n  /Type /ExtGState\n  /SA false\n  /SM .02\n  /TR2 /Default\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "81": {
+        "insn_list": [
+            "<<\n  /N 3\n  /Alternate /DeviceRGB\n  /Length 2575\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "82": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /Length 1525\n  /Length1 2836\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "83": {
+        "insn_list": [
+            "<<\n  /S 100\n  /L 165\n  /C 181\n  /Filter /FlateDecode\n  /Length 84 0 R\n>>"
+        ],
+        "out_edge_list": [
+            8
+        ]
+    },
+    "84": {
+        "insn_list": [
+            "172"
+        ],
+        "out_edge_list": []
+    }
+}

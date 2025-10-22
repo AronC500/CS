@@ -1,0 +1,471 @@
+{
+    "1": {
+        "insn_list": [
+            "[ ]"
+        ],
+        "out_edge_list": []
+    },
+    "2": {
+        "insn_list": [
+            "<<\n  /Differences [ 24 /breve /caron /circumflex /dotaccent /hungarumlaut\n      /ogonek /ring /tilde 39 /quotesingle 96 /grave 128 /bullet\n      /dagger /daggerdbl /ellipsis /emdash /endash /florin /fraction\n      /guilsinglleft /guilsinglright /minus /perthousand /quotedblbase\n      /quotedblleft /quotedblright /quoteleft /quoteright /quotesinglbase\n      /trademark /fi /fl /Lslash /OE /Scaron /Ydieresis /Zcaron\n      /dotlessi /lslash /oe /scaron /zcaron 160 /Euro 164 /currency\n      166 /brokenbar 168 /dieresis /copyright /ordfeminine 172\n      /logicalnot /.notdef /registered /macron /degree /plusminus\n      /twosuperior /threesuperior /acute /mu 183 /periodcentered\n      /cedilla /onesuperior /ordmasculine 188 /onequarter /onehalf\n      /threequarters 192 /Agrave /Aacute /Acircumflex /Atilde\n      /Adieresis /Aring /AE /Ccedilla /Egrave /Eacute /Ecircumflex\n      /Edieresis /Igrave /Iacute /Icircumflex /Idieresis /Eth\n      /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis\n      /multiply /Oslash /Ugrave /Uacute /Ucircumflex /Udieresis\n      /Yacute /Thorn /germandbls /agrave /aacute /acircumflex\n      /atilde /adieresis /aring /ae /ccedilla /egrave /eacute\n      /ecircumflex /edieresis /igrave /iacute /icircumflex /idieresis\n      /eth /ntilde /ograve /oacute /ocircumflex /otilde /odieresis\n      /divide /oslash /ugrave /uacute /ucircumflex /udieresis\n      /yacute /thorn /ydieresis ]\n  /Type /Encoding\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "3": {
+        "insn_list": [
+            "<<\n  /Subtype /Type1\n  /Name /Helv\n  /BaseFont /Helvetica\n  /Encoding 2 0 R\n  /Type /Font\n>>"
+        ],
+        "out_edge_list": [
+            2
+        ]
+    },
+    "4": {
+        "insn_list": [
+            "<<\n  /Subtype /Type1\n  /Name /ZaDb\n  /BaseFont /ZapfDingbats\n  /Type /Font\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "5": {
+        "insn_list": [
+            "<<\n  /Count 1\n  /Type /Pages\n  /Kids [ 11 0 R ]\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "6": {
+        "insn_list": [
+            "<<\n  /Subtype /XML\n  /Length 3362\n  /Type /Metadata\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "7": {
+        "insn_list": [
+            "<<\n  /CreationDate (D:20110426102000-04'00')\n  /Creator (FUJITSU fi-6230dj)\n  /Producer (PDFScanLib v1.2.2 in Adobe Acrobat 8.1.1)\n  /ModDate (D:20110426102101-04'00')\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "8": {
+        "insn_list": [
+            "<<\n  /Linearized 1\n  /L 112705\n  /O 11\n  /E 107456\n  /N 1\n  /T 112499\n  /H [ 1296 247 ]\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "9": {
+        "insn_list": [
+            "<<\n  /Metadata 6 0 R\n  /AcroForm 10 0 R\n  /Pages 5 0 R\n  /Type /Catalog\n>>"
+        ],
+        "out_edge_list": [
+            6,
+            1,
+            5
+        ]
+    },
+    "10": {
+        "insn_list": [
+            "<<\n  /Fields 1 0 R\n  /DA (/Helv 0 Tf 0 g )\n  /DR <<\n    /Font <<\n      /Helv 3 0 R\n      /ZaDb 4 0 R\n    >>\n    /Encoding <<\n      /PDFDocEncoding 2 0 R\n    >>\n  >>\n>>"
+        ],
+        "out_edge_list": [
+            1,
+            3,
+            4,
+            2
+        ]
+    },
+    "11": {
+        "insn_list": [
+            "<<\n  /CropBox [ 0 0 611 792 ]\n  /Parent 5 0 R\n  /Contents 13 0 R\n  /Rotate 0\n  /PieceInfo <<\n    /Acroscan1 56 0 R\n    /Acroscan2 <<\n      /Private <<\n        /FXMedia 8.49\n        /YMapMin 15\n        /InFormat 4\n        /Columns 2548\n        /SZLeft 600\n        /Precision 8\n        /Quality .5\n        /LZWPredictor 1\n        /FixHalos 1\n        /Rows 3300\n        /SZBot 600\n        /YMedia 11\n        /Deskew 2\n        /MonoComp 2\n        /Colors 3\n        /BandHeight 3648\n        /ADF 1\n        /SZMinWW 107\n        /SZRight 600\n        /LZWEarlyChange 1\n        /Segment 1\n        /SZADFMaxSW 200\n        /SMono 3\n        /SZMaxSW 600\n        /SZTop 600\n        /DefaultUpsample 1\n        /BlackUpsample 0\n        /SGray 1\n      >>\n      /LastModified (D:20110426102000-04'00')\n    >>\n  >>\n  /MediaBox [ 0 0 611 792 ]\n  /Resources <<\n    /XObject <<\n      /Im30 15 0 R\n      /Im31 16 0 R\n      /Im32 17 0 R\n      /Im33 18 0 R\n      /Im34 19 0 R\n      /Im35 20 0 R\n      /Im36 21 0 R\n      /Im37 22 0 R\n      /Im38 23 0 R\n      /Im39 24 0 R\n      /Im10 25 0 R\n      /Im11 26 0 R\n      /Im12 27 0 R\n      /Im13 28 0 R\n      /Im14 29 0 R\n      /Im15 30 0 R\n      /Im16 31 0 R\n      /Im17 32 0 R\n      /Im18 33 0 R\n      /Im19 34 0 R\n      /Im0 35 0 R\n      /Im1 36 0 R\n      /Im2 37 0 R\n      /Im3 38 0 R\n      /Im4 39 0 R\n      /Im5 40 0 R\n      /Im6 41 0 R\n      /Im7 42 0 R\n      /Im8 43 0 R\n      /Im9 44 0 R\n      /Fm0 45 0 R\n      /Im20 46 0 R\n      /Im21 47 0 R\n      /Im22 48 0 R\n      /Im23 49 0 R\n      /Im24 50 0 R\n      /Im25 51 0 R\n      /Im26 52 0 R\n      /Im27 53 0 R\n      /Im28 54 0 R\n      /Im29 55 0 R\n    >>\n    /ColorSpace <<\n      /CS0 12 0 R\n    >>\n    /ProcSet [ /PDF /ImageB /ImageC /ImageI ]\n  >>\n  /Type /Page\n  /LastModified (D:20110426102040-04'00')\n>>"
+        ],
+        "out_edge_list": [
+            5,
+            1,
+            5,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            1
+        ]
+    },
+    "12": {
+        "insn_list": [
+            "[ /Indexed /DeviceRGB 255 14 0 R ]"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "13": {
+        "insn_list": [
+            "<<\n  /Length 1241\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "14": {
+        "insn_list": [
+            "<<\n  /Length 768\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "15": {
+        "insn_list": [
+            "<<\n  /Subtype /Image\n  /Length 181\n  /Filter /DCTDecode\n  /BitsPerComponent 8\n  /ColorSpace 12 0 R\n  /Width 8\n  /Height 8\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "16": {
+        "insn_list": [
+            "<<\n  /Subtype /Image\n  /Length 706\n  /Filter /DCTDecode\n  /BitsPerComponent 8\n  /ColorSpace 12 0 R\n  /Width 96\n  /Height 24\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "17": {
+        "insn_list": [
+            "<<\n  /Subtype /Image\n  /Length 598\n  /Filter /DCTDecode\n  /BitsPerComponent 8\n  /ColorSpace 12 0 R\n  /Width 168\n  /Height 48\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "18": {
+        "insn_list": [
+            "<<\n  /Subtype /Image\n  /Length 846\n  /Filter /DCTDecode\n  /BitsPerComponent 8\n  /ColorSpace /DeviceRGB\n  /Width 376\n  /Height 26\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "19": {
+        "insn_list": [
+            "<<\n  /Subtype /Image\n  /Length 1689\n  /Filter /DCTDecode\n  /BitsPerComponent 8\n  /ColorSpace /DeviceRGB\n  /Width 24\n  /Height 1040\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "20": {
+        "insn_list": [
+            "<<\n  /Subtype /Image\n  /Length 1386\n  /Filter /DCTDecode\n  /BitsPerComponent 8\n  /ColorSpace /DeviceRGB\n  /Width 26\n  /Height 618\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "21": {
+        "insn_list": [
+            "<<\n  /Subtype /Image\n  /Length 879\n  /Filter /DCTDecode\n  /BitsPerComponent 8\n  /ColorSpace /DeviceRGB\n  /Width 362\n  /Height 16\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "22": {
+        "insn_list": [
+            "<<\n  /Subtype /Image\n  /Length 416\n  /Filter /DCTDecode\n  /BitsPerComponent 8\n  /ColorSpace /DeviceRGB\n  /Width 48\n  /Height 8\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "23": {
+        "insn_list": [
+            "<<\n  /Subtype /Image\n  /Length 728\n  /Filter /DCTDecode\n  /BitsPerComponent 8\n  /ColorSpace /DeviceRGB\n  /Width 64\n  /Height 32\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "24": {
+        "insn_list": [
+            "<<\n  /Subtype /Image\n  /Length 50343\n  /Filter /FlateDecode\n  /ImageMask true\n  /BitsPerComponent 1\n  /Width 1952\n  /Height 3072\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "25": {
+        "insn_list": [
+            "<<\n  /Subtype /Image\n  /Length 7242\n  /Filter /DCTDecode\n  /BitsPerComponent 8\n  /ColorSpace 12 0 R\n  /Width 872\n  /Height 128\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "26": {
+        "insn_list": [
+            "<<\n  /Subtype /Image\n  /Length 1060\n  /Filter /DCTDecode\n  /BitsPerComponent 8\n  /ColorSpace 12 0 R\n  /Width 560\n  /Height 32\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "27": {
+        "insn_list": [
+            "<<\n  /Subtype /Image\n  /Length 1226\n  /Filter /DCTDecode\n  /BitsPerComponent 8\n  /ColorSpace 12 0 R\n  /Width 192\n  /Height 32\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "28": {
+        "insn_list": [
+            "<<\n  /Subtype /Image\n  /Length 3545\n  /Filter /DCTDecode\n  /BitsPerComponent 8\n  /ColorSpace 12 0 R\n  /Width 224\n  /Height 144\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "29": {
+        "insn_list": [
+            "<<\n  /Subtype /Image\n  /Length 3536\n  /Filter /DCTDecode\n  /BitsPerComponent 8\n  /ColorSpace 12 0 R\n  /Width 560\n  /Height 48\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "30": {
+        "insn_list": [
+            "<<\n  /Subtype /Image\n  /Length 277\n  /Filter /FlateDecode\n  /BitsPerComponent 8\n  /ColorSpace 12 0 R\n  /Width 32\n  /Height 40\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "31": {
+        "insn_list": [
+            "<<\n  /Subtype /Image\n  /Length 1025\n  /Filter /DCTDecode\n  /BitsPerComponent 8\n  /ColorSpace 12 0 R\n  /Width 432\n  /Height 16\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "32": {
+        "insn_list": [
+            "<<\n  /Subtype /Image\n  /Length 806\n  /Filter /DCTDecode\n  /BitsPerComponent 8\n  /ColorSpace 12 0 R\n  /Width 552\n  /Height 16\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "33": {
+        "insn_list": [
+            "<<\n  /Subtype /Image\n  /Length 549\n  /Filter /DCTDecode\n  /BitsPerComponent 8\n  /ColorSpace 12 0 R\n  /Width 88\n  /Height 16\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "34": {
+        "insn_list": [
+            "<<\n  /Subtype /Image\n  /Length 1111\n  /Filter /DCTDecode\n  /BitsPerComponent 8\n  /ColorSpace 12 0 R\n  /Width 280\n  /Height 40\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "35": {
+        "insn_list": [
+            "<<\n  /Subtype /Image\n  /Length 427\n  /Filter /DCTDecode\n  /BitsPerComponent 8\n  /ColorSpace 12 0 R\n  /Width 40\n  /Height 24\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "36": {
+        "insn_list": [
+            "<<\n  /Subtype /Image\n  /Length 599\n  /Filter /DCTDecode\n  /BitsPerComponent 8\n  /ColorSpace 12 0 R\n  /Width 448\n  /Height 8\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "37": {
+        "insn_list": [
+            "<<\n  /Subtype /Image\n  /Length 336\n  /Filter /DCTDecode\n  /BitsPerComponent 8\n  /ColorSpace 12 0 R\n  /Width 144\n  /Height 8\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "38": {
+        "insn_list": [
+            "<<\n  /Subtype /Image\n  /Length 210\n  /Filter /FlateDecode\n  /BitsPerComponent 8\n  /ColorSpace 12 0 R\n  /Width 48\n  /Height 16\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "39": {
+        "insn_list": [
+            "<<\n  /Subtype /Image\n  /Length 278\n  /Filter /DCTDecode\n  /BitsPerComponent 8\n  /ColorSpace 12 0 R\n  /Width 16\n  /Height 24\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "40": {
+        "insn_list": [
+            "<<\n  /Subtype /Image\n  /Length 1919\n  /Filter /DCTDecode\n  /BitsPerComponent 8\n  /ColorSpace 12 0 R\n  /Width 120\n  /Height 96\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "41": {
+        "insn_list": [
+            "<<\n  /Subtype /Image\n  /Length 3163\n  /Filter /DCTDecode\n  /BitsPerComponent 8\n  /ColorSpace 12 0 R\n  /Width 176\n  /Height 96\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "42": {
+        "insn_list": [
+            "<<\n  /Subtype /Image\n  /Length 366\n  /Filter /DCTDecode\n  /BitsPerComponent 8\n  /ColorSpace 12 0 R\n  /Width 104\n  /Height 16\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "43": {
+        "insn_list": [
+            "<<\n  /Subtype /Image\n  /Length 279\n  /Filter /DCTDecode\n  /BitsPerComponent 8\n  /ColorSpace 12 0 R\n  /Width 16\n  /Height 24\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "44": {
+        "insn_list": [
+            "<<\n  /Subtype /Image\n  /Length 241\n  /Filter /DCTDecode\n  /BitsPerComponent 8\n  /ColorSpace 12 0 R\n  /Width 16\n  /Height 16\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "45": {
+        "insn_list": [
+            "<<\n  /Subtype /Form\n  /Length 72\n  /Filter /FlateDecode\n  /Matrix [ 1 0 0 1 -114.981 -258.886 ]\n  /Resources <<\n    /ProcSet [ /PDF ]\n  >>\n  /Type /XObject\n  /BBox [ 114.981 258.886 209.066 298.38 ]\n  /FormType 1\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "46": {
+        "insn_list": [
+            "<<\n  /Subtype /Image\n  /Length 737\n  /Filter /DCTDecode\n  /BitsPerComponent 8\n  /ColorSpace 12 0 R\n  /Width 240\n  /Height 40\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "47": {
+        "insn_list": [
+            "<<\n  /Subtype /Image\n  /Length 864\n  /Filter /DCTDecode\n  /BitsPerComponent 8\n  /ColorSpace 12 0 R\n  /Width 96\n  /Height 104\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "48": {
+        "insn_list": [
+            "<<\n  /Subtype /Image\n  /Length 1807\n  /Filter /DCTDecode\n  /BitsPerComponent 8\n  /ColorSpace 12 0 R\n  /Width 296\n  /Height 104\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "49": {
+        "insn_list": [
+            "<<\n  /Subtype /Image\n  /Length 2405\n  /Filter /DCTDecode\n  /BitsPerComponent 8\n  /ColorSpace 12 0 R\n  /Width 296\n  /Height 120\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "50": {
+        "insn_list": [
+            "<<\n  /Subtype /Image\n  /Length 191\n  /Filter /DCTDecode\n  /BitsPerComponent 8\n  /ColorSpace 12 0 R\n  /Width 8\n  /Height 16\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "51": {
+        "insn_list": [
+            "<<\n  /Subtype /Image\n  /Length 331\n  /Filter /DCTDecode\n  /BitsPerComponent 8\n  /ColorSpace 12 0 R\n  /Width 24\n  /Height 24\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "52": {
+        "insn_list": [
+            "<<\n  /Subtype /Image\n  /Length 709\n  /Filter /DCTDecode\n  /BitsPerComponent 8\n  /ColorSpace 12 0 R\n  /Width 72\n  /Height 56\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "53": {
+        "insn_list": [
+            "<<\n  /Subtype /Image\n  /Length 1020\n  /Filter /DCTDecode\n  /BitsPerComponent 8\n  /ColorSpace 12 0 R\n  /Width 320\n  /Height 32\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "54": {
+        "insn_list": [
+            "<<\n  /Subtype /Image\n  /Length 1079\n  /Filter /DCTDecode\n  /BitsPerComponent 8\n  /ColorSpace 12 0 R\n  /Width 48\n  /Height 160\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "55": {
+        "insn_list": [
+            "<<\n  /Subtype /Image\n  /Length 1289\n  /Filter /DCTDecode\n  /BitsPerComponent 8\n  /ColorSpace 12 0 R\n  /Width 72\n  /Height 152\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "56": {
+        "insn_list": [
+            "<<\n  /Private (-Version=2.29 -optimize=1 -InFormat=4 -CropPage=4)\n  /LastModified (D:20110426101959-04'00')\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "57": {
+        "insn_list": [
+            "<<\n  /Length 160\n  /Filter /FlateDecode\n  /I 184\n  /S 38\n  /V 162\n>>"
+        ],
+        "out_edge_list": []
+    }
+}

@@ -1,0 +1,162 @@
+{
+    "1": {
+        "insn_list": [
+            "<<\n  /Rotate 0\n  /Parent 2 0 R\n  /MediaBox [ 0 0 595 842 ]\n  /Resources 3 0 R\n  /pdftk_PageNum 1\n  /Contents 4 0 R\n  /Type /Page\n>>"
+        ],
+        "out_edge_list": [
+            2,
+            3,
+            4
+        ]
+    },
+    "2": {
+        "insn_list": [
+            "<<\n  /Kids [ 1 0 R 5 0 R ]\n  /Type /Pages\n  /Count 2\n>>"
+        ],
+        "out_edge_list": [
+            1,
+            5
+        ]
+    },
+    "3": {
+        "insn_list": [
+            "<<\n  /XObject <<\n  >>\n  /Font <<\n    /F1 7 0 R\n  >>\n  /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]\n>>"
+        ],
+        "out_edge_list": [
+            7
+        ]
+    },
+    "4": {
+        "insn_list": [
+            "<<\n  /Length 1698\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "5": {
+        "insn_list": [
+            "<<\n  /Rotate 0\n  /Parent 2 0 R\n  /Resources 3 0 R\n  /MediaBox [ 0 0 595 842 ]\n  /pdftk_PageNum 2\n  /Type /Page\n  /Contents 6 0 R\n>>"
+        ],
+        "out_edge_list": [
+            2,
+            3,
+            6
+        ]
+    },
+    "6": {
+        "insn_list": [
+            "<<\n  /Length 5521\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "7": {
+        "insn_list": [
+            "<<\n  /BaseFont /Times-Roman\n  /Subtype /Type1\n  /Name /F1\n  /Encoding /WinAnsiEncoding\n  /Type /Font\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "8": {
+        "insn_list": [
+            "<<\n  /Length 84\n  /Type /EmbeddedFile\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "9": {
+        "insn_list": [
+            "<<\n  /Length 228\n  /Type /EmbeddedFile\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "10": {
+        "insn_list": [
+            "<<\n  /Length 8991\n  /Type /EmbeddedFile\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "11": {
+        "insn_list": [
+            "<<\n  /Length 199\n  /Type /EmbeddedFile\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "12": {
+        "insn_list": [
+            "<<\n  /Length 131\n  /Type /EmbeddedFile\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "13": {
+        "insn_list": [
+            "<<\n  /Length 77\n  /Type /EmbeddedFile\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "14": {
+        "insn_list": [
+            "<<\n  /Length 56\n  /Type /EmbeddedFile\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "15": {
+        "insn_list": [
+            "<<\n  /Length 10\n  /Type /EmbeddedFile\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "16": {
+        "insn_list": [
+            "<<\n  /P 1 0 R\n  /MK <<\n    /TP 1\n  >>\n  /FT /Btn\n  /TU (nnvbjk)\n  /Ff 65536\n  /Parent 17 0 R\n  /F 4\n  /DA (/CourierStd 10 Tf 0 g)\n  /Subtype /Widget\n  /Type /Annot\n  /T (nnvbjk[0])\n  /Rect [ 107.385 705.147 188.385 709.087 ]\n>>"
+        ],
+        "out_edge_list": [
+            1,
+            1
+        ]
+    },
+    "17": {
+        "insn_list": [
+            "<<\n  /Parent 18 0 R\n  /Kids [ 16 0 R ]\n  /T (qwertytreds[0])\n>>"
+        ],
+        "out_edge_list": [
+            1,
+            1
+        ]
+    },
+    "18": {
+        "insn_list": [
+            "<<\n  /Kids [ 17 0 R ]\n  /T (asdfgds[0])\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "19": {
+        "insn_list": [
+            "<<\n  /DA (/Helv 0 Tf 0 g )\n  /Fields [ 18 0 R ]\n  /XFA [ (preamble) 8 0 R (config) 9 0 R (template) 10 0 R (PDFSecurity)\n      11 0 R (dataset) 12 0 R (xfdf) 13 0 R (form) 14 0 R (postamble)\n      15 0 R ]\n>>"
+        ],
+        "out_edge_list": [
+            1,
+            8,
+            9,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    "20": {
+        "insn_list": [
+            "<<\n  /Lang (en-us)\n  /Pages 2 0 R\n  /AcroForm 19 0 R\n  /Type /Catalog\n>>"
+        ],
+        "out_edge_list": [
+            2,
+            1
+        ]
+    },
+    "21": {
+        "insn_list": [
+            "<<\n  /Creator (plusAla dyedGas)\n  /Title (plusBum askPlus)\n  /Author (zapsGas plusGas)\n  /Subject (branGas plusWos)\n  /CreationDate (D:20100806110920)\n>>"
+        ],
+        "out_edge_list": []
+    }
+}

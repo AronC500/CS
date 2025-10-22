@@ -1,0 +1,190 @@
+{
+    "1": {
+        "insn_list": [
+            "<<\n  /Type /Font\n  /Name /Helv\n  /Encoding 3 0 R\n  /BaseFont /Helvetica\n  /Subtype /Type1\n>>"
+        ],
+        "out_edge_list": [
+            3
+        ]
+    },
+    "2": {
+        "insn_list": [
+            "<<\n  /Type /Font\n  /Name /ZaDb\n  /BaseFont /ZapfDingbats\n  /Subtype /Type1\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "3": {
+        "insn_list": [
+            "<<\n  /Type /Encoding\n  /Differences [ 24 /breve /caron /circumflex /dotaccent /hungarumlaut\n      /ogonek /ring /tilde 39 /quotesingle 96 /grave 128 /bullet\n      /dagger /daggerdbl /ellipsis /emdash /endash /florin /fraction\n      /guilsinglleft /guilsinglright /minus /perthousand /quotedblbase\n      /quotedblleft /quotedblright /quoteleft /quoteright /quotesinglbase\n      /trademark /fi /fl /Lslash /OE /Scaron /Ydieresis /Zcaron\n      /dotlessi /lslash /oe /scaron /zcaron 160 /Euro 164 /currency\n      166 /brokenbar 168 /dieresis /copyright /ordfeminine 172\n      /logicalnot /.notdef /registered /macron /degree /plusminus\n      /twosuperior /threesuperior /acute /mu 183 /periodcentered\n      /cedilla /onesuperior /ordmasculine 188 /onequarter /onehalf\n      /threequarters 192 /Agrave /Aacute /Acircumflex /Atilde\n      /Adieresis /Aring /AE /Ccedilla /Egrave /Eacute /Ecircumflex\n      /Edieresis /Igrave /Iacute /Icircumflex /Idieresis /Eth\n      /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis\n      /multiply /Oslash /Ugrave /Uacute /Ucircumflex /Udieresis\n      /Yacute /Thorn /germandbls /agrave /aacute /acircumflex\n      /atilde /adieresis /aring /ae /ccedilla /egrave /eacute\n      /ecircumflex /edieresis /igrave /iacute /icircumflex /idieresis\n      /eth /ntilde /ograve /oacute /ocircumflex /otilde /odieresis\n      /divide /oslash /ugrave /uacute /ucircumflex /udieresis\n      /yacute /thorn /ydieresis ]\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "4": {
+        "insn_list": [
+            "<<\n  /Nums [ 0 5 0 R ]\n>>"
+        ],
+        "out_edge_list": [
+            5
+        ]
+    },
+    "5": {
+        "insn_list": [
+            "<<\n  /S /D\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "6": {
+        "insn_list": [
+            "<<\n  /Count 1\n  /Kids [ 17 0 R ]\n  /Type /Pages\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "7": {
+        "insn_list": [
+            "<<\n  /Length 3349\n  /Type /Metadata\n  /Subtype /XML\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "8": {
+        "insn_list": [
+            "<<\n  /ModDate (D:20081128124631+03'00')\n  /CreationDate (D:20080802112513+04'00')\n  /Title (doc)\n  /Creator (PScript5.dll Version 5.2)\n  /Author (virtual)\n  /Producer (Acrobat Distiller 6.0 \\(Windows\\))\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "9": {
+        "insn_list": [
+            "<<\n  /H [ 576 164 ]\n  /Linearized 1\n  /E 3180\n  /L 8495\n  /N 1\n  /O 17\n  /T 8269\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "10": {
+        "insn_list": [
+            "<<\n  /Pages 6 0 R\n  /Outlines 23 0 R\n  /Type /Catalog\n  /Names 13 0 R\n  /PageLabels 4 0 R\n  /AcroForm 12 0 R\n  /Metadata 26 0 R\n>>"
+        ],
+        "out_edge_list": [
+            6,
+            2,
+            1,
+            4,
+            1,
+            2
+        ]
+    },
+    "11": {
+        "insn_list": [
+            "<<\n  /Length 80\n  /Filter /FlateDecode\n  /L 100\n  /S 38\n  /V 78\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "12": {
+        "insn_list": [
+            "<<\n  /Fields [ ]\n  /DR <<\n    /Encoding <<\n      /PDFDocEncoding 3 0 R\n    >>\n    /Font <<\n      /Helv 1 0 R\n      /ZaDb 2 0 R\n    >>\n  >>\n  /DA (/Helv 0 Tf 0 g )\n>>"
+        ],
+        "out_edge_list": [
+            3,
+            1,
+            2
+        ]
+    },
+    "13": {
+        "insn_list": [
+            "<<\n  /JavaScript 14 0 R\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "14": {
+        "insn_list": [
+            "<<\n  /Names [ (1) 15 0 R ]\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "15": {
+        "insn_list": [
+            "<<\n  /S /JavaScript\n  /JS 25 0 R\n>>"
+        ],
+        "out_edge_list": [
+            2
+        ]
+    },
+    "16": {
+        "insn_list": [
+            "<<\n  /Length 941\n  /Filter [ /FlateDecode ]\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "17": {
+        "insn_list": [
+            "<<\n  /Contents 19 0 R\n  /Type /Page\n  /Parent 6 0 R\n  /Rotate 0\n  /MediaBox [ 0 0 595 842 ]\n  /CropBox [ 0 0 595 842 ]\n  /Resources 18 0 R\n>>"
+        ],
+        "out_edge_list": [
+            1,
+            6,
+            1
+        ]
+    },
+    "18": {
+        "insn_list": [
+            "<<\n  /Font <<\n    /TT2 20 0 R\n  >>\n  /ProcSet [ /PDF /Text ]\n  /ExtGState <<\n    /GS1 22 0 R\n  >>\n>>"
+        ],
+        "out_edge_list": [
+            2,
+            2
+        ]
+    },
+    "19": {
+        "insn_list": [
+            "<<\n  /Length 154\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "20": {
+        "insn_list": [
+            "<<\n  /Type /Font\n  /Encoding /WinAnsiEncoding\n  /BaseFont /ArialMT\n  /FirstChar 32\n  /LastChar 119\n  /Subtype /TrueType\n  /FontDescriptor 21 0 R\n  /Widths [ 278 0 0 0 0 0 0 0 0 0 0 0 0 0 278 0 0 0 0 0 0 0 0\n      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 556 0 0 0 667\n      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 556 0 0 556 556 0 556 0\n      222 0 0 222 0 556 556 0 0 0 500 278 0 0 722 ]\n>>"
+        ],
+        "out_edge_list": [
+            2
+        ]
+    },
+    "21": {
+        "insn_list": [
+            "<<\n  /Type /FontDescriptor\n  /FontBBox [ -665 -325 2000 1006 ]\n  /FontName /ArialMT\n  /Flags 32\n  /StemV 88\n  /CapHeight 718\n  /XHeight 515\n  /Ascent 905\n  /Descent -211\n  /ItalicAngle 0\n  /FontFamily (Arial)\n  /FontStretch /Normal\n  /FontWeight 400\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "22": {
+        "insn_list": [
+            "<<\n  /Type /ExtGState\n  /SA false\n  /OP false\n  /SM .02\n  /op false\n  /OPM 1\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "23": {
+        "insn_list": [
+            "<<\n  /Count 0\n  /Type /Outlines\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "24": {
+        "insn_list": [
+            "939"
+        ],
+        "out_edge_list": []
+    },
+    "25": {
+        "insn_list": [
+            "<<\n  /Length 941\n  /Filter [ /FlateDecode ]\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "26": {
+        "insn_list": [
+            "<<\n  /Length 3349\n  /Type /Metadata\n  /Subtype /XML\n>>"
+        ],
+        "out_edge_list": []
+    }
+}

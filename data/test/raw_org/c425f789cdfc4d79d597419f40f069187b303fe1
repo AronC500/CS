@@ -1,0 +1,58 @@
+{
+    "2": {
+        "insn_list": [
+            "<<\n  / /\n  /Typp /Action\n  /S /GoTo\n  /D [ 9 0 /XYZ 0 null null ]\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "6": {
+        "insn_list": [
+            "<<\n  / /\n  /Direction /L2R\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "7": {
+        "insn_list": [
+            "<<\n  / /\n  /Filter /FlateDecode\n  /Length 10239\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "8": {
+        "insn_list": [
+            "<<\n  / /\n  /S /JavaScript\n  /JS 7 0 R\n>>"
+        ],
+        "out_edge_list": [
+            7
+        ]
+    },
+    "9": {
+        "insn_list": [
+            "<<\n  / /\n  /count 1\n  /Type /Pages\n  /Kids [ 10 0 R ]\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "10": {
+        "insn_list": [
+            "<<\n  / /\n  /Parent 9 0 R\n  /contents 6 0 R\n  /MediaBox [ 0 0 400 504 ]\n  /Resources 10 0 R\n  /Type /Page\n  /AA <<\n    /O 8 0 R\n    / /\n  >>\n>>"
+        ],
+        "out_edge_list": [
+            9,
+            6,
+            1,
+            8
+        ]
+    },
+    "15": {
+        "insn_list": [
+            "<<\n  / /\n  /Pages 9 0 R\n  /StructTreeRoot 8 0 R\n  /Type /catalog\n  /Lang (ch-CH)\n  /ViewerPreferences 6 0 R\n  /PageMode /UseNone\n  /OpenAction 2 0 R\n>>"
+        ],
+        "out_edge_list": [
+            9,
+            8,
+            6,
+            2
+        ]
+    }
+}

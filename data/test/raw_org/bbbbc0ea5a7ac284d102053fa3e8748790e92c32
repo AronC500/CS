@@ -1,0 +1,145 @@
+{
+    "1": {
+        "insn_list": [
+            "<<\n  /DA (/Helv 0 Tf 0 g )\n  /XFA [ (preamble) 5 0 R (config) 7 0 R (template) 8 0 R (PDFSecurity)\n      4 0 R (dataset) 19 0 R (xfdf) 18 0 R (form) 16 0 R (postamble)\n      2 0 R ]\n  /Fields [ 10 0 R ]\n>>"
+        ],
+        "out_edge_list": [
+            5,
+            7,
+            8,
+            4,
+            1,
+            1,
+            1,
+            2,
+            1
+        ]
+    },
+    "2": {
+        "insn_list": [
+            "<<\n  /Length 16\n  /Filter /FlateDecode\n  /Type /EmbeddedFile\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "3": {
+        "insn_list": [
+            "<<\n  /Type /Pages\n  /Count 1\n  /Kids [ 14 0 R ]\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "4": {
+        "insn_list": [
+            "<<\n  /Type /EmbeddedFile\n  /Filter /FlateDecode\n  /Length 150\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "5": {
+        "insn_list": [
+            "<<\n  /Length 86\n  /Filter /FlateDecode\n  /Type /EmbeddedFile\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "6": {
+        "insn_list": [
+            "<<\n  /T (vex[0])\n  /Kids [ 9 0 R ]\n  /Parent 10 0 R\n>>"
+        ],
+        "out_edge_list": [
+            9,
+            1
+        ]
+    },
+    "7": {
+        "insn_list": [
+            "<<\n  /Type /EmbeddedFile\n  /Filter /FlateDecode\n  /Length 149\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "8": {
+        "insn_list": [
+            "<<\n  /Length 7131\n  /Type /EmbeddedFile\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "9": {
+        "insn_list": [
+            "<<\n  /Type /Annot\n  /MK <<\n    /TP 1\n  >>\n  /FT /Btn\n  /Subtype /Widget\n  /P 3 0 R\n  /F 4\n  /TU (rex)\n  /Rect [ 107.385 705.147 188.385 709.087 ]\n  /T (rex[0])\n  /DA (/CourierStd 10 Tf 0 g)\n  /Ff 65536\n  /Parent 6 0 R\n>>"
+        ],
+        "out_edge_list": [
+            3,
+            6
+        ]
+    },
+    "10": {
+        "insn_list": [
+            "<<\n  /T (kop[0])\n  /Kids [ 6 0 R ]\n>>"
+        ],
+        "out_edge_list": [
+            6
+        ]
+    },
+    "11": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /Length 2701\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "12": {
+        "insn_list": [
+            "<<\n  /Name /F1\n  /BaseFont /Times-Roman\n  /Encoding /WinAnsiEncoding\n  /Type /Font\n  /Subtype /Type1\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "13": {
+        "insn_list": [
+            "<<\n  /AcroForm 1 0 R\n  /Type /Catalog\n  /Pages 14 0 R\n  /Lang (en-us)\n>>"
+        ],
+        "out_edge_list": [
+            1,
+            1
+        ]
+    },
+    "14": {
+        "insn_list": [
+            "<<\n  /MediaBox [ 0 0 595 842 ]\n  /Parent 3 0 R\n  /Type /Page\n  /Contents 11 0 R\n  /Resources 17 0 R\n  /Rotate 0\n>>"
+        ],
+        "out_edge_list": [
+            3,
+            1,
+            1
+        ]
+    },
+    "15": {
+        "insn_list": [
+            "<<\n  /CreationDate (D:20101228164349)\n  /Title (ben git)\n  /Author (moc pat)\n  /Subject (oat lux)\n  /Creator (flu ess)\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "16": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /Length 60\n  /Type /EmbeddedFile\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "17": {
+        "insn_list": [
+            "<<\n  /Font <<\n    /F1 12 0 R\n  >>\n  /XObject <<\n  >>\n  /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "18": {
+        "insn_list": [
+            "<<\n  /Length 76\n  /Filter /FlateDecode\n  /Type /EmbeddedFile\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "19": {
+        "insn_list": [
+            "<<\n  /Type /EmbeddedFile\n  /Filter /FlateDecode\n  /Length 92\n>>"
+        ],
+        "out_edge_list": []
+    }
+}

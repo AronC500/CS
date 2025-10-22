@@ -1,0 +1,278 @@
+{
+    "1": {
+        "insn_list": [
+            "<<\n  /Type /Catalog\n  /Outlines 3 0 R\n  /Pages 4 0 R\n  /Dests 5 0 R\n  /AcroForm 6 0 R\n  /Names 7 0 R\n  /Threads 8 0 R\n  /PageLayout /SinglePage\n  /ViewerPreferences <<\n    /PageDirection /L2R\n  >>\n>>"
+        ],
+        "out_edge_list": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+        ]
+    },
+    "2": {
+        "insn_list": [
+            "<<\n  /Creator (Scribus 1.3.3.13)\n  /Producer (Scribus PDF Library 1.3.3.13)\n  /Title ()\n  /Author ()\n  /Keywords ()\n  /CreationDate (D:20090728162315)\n  /ModDate (D:20090728162315)\n  /Trapped /False\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "3": {
+        "insn_list": [
+            "<<\n  /Type /Outlines\n  /Count 0\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "4": {
+        "insn_list": [
+            "<<\n  /Type /Pages\n  /Kids [ 27 0 R ]\n  /Count 1\n  /Resources 28 0 R\n>>"
+        ],
+        "out_edge_list": [
+            2,
+            2
+        ]
+    },
+    "5": {
+        "insn_list": [
+            "<<\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "6": {
+        "insn_list": [
+            "<<\n  /Fields [ ]\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "7": {
+        "insn_list": [
+            "<<\n  /JavaScript 37 0 R\n>>"
+        ],
+        "out_edge_list": [
+            3
+        ]
+    },
+    "8": {
+        "insn_list": [
+            "[ ]"
+        ],
+        "out_edge_list": []
+    },
+    "9": {
+        "insn_list": [
+            "<<\n  /Length 68049\n  /Length1 115068\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "10": {
+        "insn_list": [
+            "<<\n  /Type /FontDescriptor\n  /FontName /LucidaConsole\n  /FontBBox [ 0 -210.938 602.539 789.062 ]\n  /Flags 33\n  /Ascent 789.062\n  /Descent -210.938\n  /CapHeight 789.062\n  /ItalicAngle 0\n  /StemV 1\n  /FontFile2 9 0 R\n>>"
+        ],
+        "out_edge_list": [
+            9
+        ]
+    },
+    "11": {
+        "insn_list": [
+            "[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0\n  0 0 0 0 0 603 603 603 603 603 603 603 603 603 603 603 603 603\n  603 603 603 603 603 603 603 603 603 603 603 603 603 603 603\n  603 603 603 603 603 603 603 603 603 603 603 603 603 603 603\n  603 603 603 603 603 603 603 603 603 603 603 603 603 603 603\n  603 603 603 603 603 603 603 603 603 603 603 603 603 603 603\n  603 603 603 603 603 603 603 603 603 603 603 603 603 603 603\n  603 603 603 603 603 603 603 603 603 603 603 603 603 603 603\n  603 603 603 603 603 603 603 603 603 603 603 603 603 603 603\n  603 603 603 603 603 603 603 603 603 603 603 603 603 603 603\n  603 603 603 603 603 603 603 603 603 603 603 603 603 603 603\n  603 603 603 603 603 603 603 603 603 603 603 603 603 603 603\n  603 603 603 603 603 603 603 603 603 603 603 603 603 603 603\n  603 603 603 603 603 603 603 603 603 603 603 603 603 603 603\n  603 603 603 603 603 603 603 603 603 603 603 603 603 603 603\n  603 603 603 603 603 603 603 603 603 603 603 603 603 ]"
+        ],
+        "out_edge_list": []
+    },
+    "12": {
+        "insn_list": [
+            "<<\n  /Type /Encoding\n  /Differences [ 35 /space /exclam /quotedbl /numbersign /dollar\n      /percent /ampersand /quotesingle /parenleft /parenright\n      /asterisk /plus /comma /hyphen /period /slash /zero /one\n      /two /three /four /five /six /seven /eight /nine /colon\n      /semicolon /less /equal /greater /question /at /A /B /C\n      /D /E /F /G /H /I /J /K /L /M /N /O /P /Q /R /S /T /U /V\n      /W /X /Y /Z /bracketleft /backslash /bracketright /asciicircum\n      /underscore /grave /a /b /c /d /e /f /g /h /i /j /k /l /m\n      /n /o /p /q /r /s /t /u /v /w /x /y /z /braceleft /bar /braceright\n      /asciitilde /Adieresis /Aring /Ccedilla /Eacute /Ntilde\n      /Odieresis /Udieresis /aacute /agrave /acircumflex /adieresis\n      /atilde /aring /ccedilla /eacute /egrave /ecircumflex /edieresis\n      /iacute /igrave /icircumflex /idieresis /ntilde /oacute\n      /ograve /ocircumflex /odieresis /otilde /uacute /ugrave\n      /ucircumflex /udieresis /dagger /degree /cent /sterling\n      /section /bullet /paragraph /germandbls /registered /copyright\n      /trademark /acute /dieresis /notequal /AE /Oslash /infinity\n      /plusminus /lessequal /greaterequal /yen /micro /partialdiff\n      /summation /product /pi /integral /ordfeminine /ordmasculine\n      /ohm /ae /oslash /questiondown /exclamdown /logicalnot /radical\n      /fscript /almostequal /increment /guillemotleft /guillemotright\n      /ellipsis /nbspace /Agrave /Atilde /Otilde /OE /oe /endash\n      /emdash /quotedblleft /quotedblright /quoteleft /quoteright\n      /divide /lozenge /ydieresis /Ydieresis /currency /guilsinglleft\n      /guilsinglright /fi /fl /daggerdbl /bulletmath /quotesinglbase\n      /quotedblbase /perthousand /Acircumflex /Ecircumflex /Aacute\n      /Edieresis /Egrave /Iacute /Icircumflex /Idieresis /Igrave\n      /Oacute /Ocircumflex /Ograve /Uacute /Ucircumflex /Ugrave\n      /dotlessi /circumflex /tilde /macron /breve /dotaccent /ring\n      /cedilla /hungarumlaut /ogonek /caron ]\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "13": {
+        "insn_list": [
+            "<<\n  /Length 1185\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "14": {
+        "insn_list": [
+            "<<\n  /Type /Font\n  /Subtype /TrueType\n  /Name /Fo0S0\n  /BaseFont /LucidaConsole\n  /FirstChar 0\n  /LastChar 255\n  /Widths 11 0 R\n  /Encoding 12 0 R\n  /ToUnicode 13 0 R\n  /FontDescriptor 10 0 R\n>>"
+        ],
+        "out_edge_list": [
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    "15": {
+        "insn_list": [
+            "[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0\n  0 0 603 603 603 603 603 603 603 603 603 603 603 603 603 603\n  603 603 603 603 603 603 603 603 603 603 603 603 603 603 603\n  603 603 603 603 603 603 603 603 603 603 603 603 603 603 603\n  603 603 603 603 603 603 603 603 603 603 603 603 603 603 603\n  603 603 603 603 603 603 603 603 603 603 603 603 603 603 603\n  603 603 603 603 603 603 603 603 603 603 603 603 603 603 603\n  603 603 603 603 603 603 603 603 603 603 603 603 603 603 603\n  603 603 603 603 603 603 603 603 603 603 603 603 603 603 603\n  603 603 603 603 603 603 603 603 603 603 603 603 603 603 603\n  603 603 603 603 603 603 603 603 603 603 603 603 603 603 603\n  603 603 603 603 603 603 603 603 603 603 603 603 603 603 603\n  603 603 603 603 603 603 603 603 603 603 603 603 603 603 603\n  603 603 603 603 603 603 603 603 603 603 603 603 603 603 603\n  603 603 603 603 603 603 603 603 603 603 603 603 603 603 603\n  603 603 603 603 603 603 603 603 603 603 603 603 603 603 603 ]"
+        ],
+        "out_edge_list": []
+    },
+    "16": {
+        "insn_list": [
+            "<<\n  /Type /Encoding\n  /Differences [ 32 /Lslash /lslash /Scaron /scaron /Zcaron /zcaron\n      /brokenbar /Eth /eth /Yacute /yacute /Thorn /thorn /minus\n      /multiply /onesuperior /twosuperior /threesuperior /onehalf\n      /onequarter /threequarters /franc /Gbreve /gbreve /Idot\n      /Scedilla /scedilla /Cacute /cacute /Ccaron /ccaron /dmacron\n      /sfthyphen /overscore /middot /Amacron /amacron /Abreve\n      /abreve /Aogonek /aogonek /Ccircumflex /ccircumflex /Cdot\n      /cdot /Dcaron /dcaron /Dmacron /Emacron /emacron /Ebreve\n      /ebreve /Edot /edot /Eogonek /eogonek /Ecaron /ecaron /Gcircumflex\n      /gcircumflex /Gdot /gdot /Gcedilla /gcedilla /Hcircumflex\n      /hcircumflex /Hbar /hbar /Itilde /itilde /Imacron /imacron\n      /Ibreve /ibreve /Iogonek /iogonek /IJ /ij /Jcircumflex /jcircumflex\n      /Kcedilla /kcedilla /kra /Lacute /lacute /Lcedilla /lcedilla\n      /Lcaron /lcaron /Ldot /ldot /Nacute /nacute /Ncedilla /ncedilla\n      /Ncaron /ncaron /napostrophe /Eng /eng /Omacron /omacron\n      /Obreve /obreve /Odblacute /odblacute /Racute /racute /Rcedilla\n      /rcedilla /Rcaron /rcaron /Sacute /sacute /Scircumflex /scircumflex\n      /Tcedilla /tcedilla /Tcaron /tcaron /Tbar /tbar /Utilde\n      /utilde /Umacron /umacron /Ubreve /ubreve /Uring /uring\n      /Udblacute /udblacute /Uogonek /uogonek /Wcircumflex /wcircumflex\n      /Ycircumflex /ycircumflex /Zacute /zacute /Zdot /zdot /slong\n      /Aacutering /aacutering /AEacute /aeacute /Oslashacute /oslashacute\n      /questiongreek /tonos /diaeresistonos /Alphatonos /anoteleia\n      /Epsilontonos /Etatonos /Iotatonos /Omicrontonos /Upsilontonos\n      /Omegatonos /iotadiaeresistonos /Alpha /Beta /Gamma /Delta\n      /Epsilon /Zeta /Eta /Theta /Iota /Kappa /Lambda /Mu /Nu\n      /Xi /Omicron /Pi /Rho /Sigma /Tau /Upsilon /Phi /Chi /Psi\n      /Omega /Iotadiaeresis /Upsilondiaeresis /alphatonos /epsilontonos\n      /etatonos /iotatonos /upsilondiaeresistonos /alpha /beta\n      /gamma /delta /epsilon /zeta /eta /theta /iota /kappa /lambda\n      /mu /nu /xi /omicron /rho /sigmafinal /sigma /tau /upsilon\n      /phi /chi /psi /omega /iotadiaeresis /upsilondiaeresis /omicrontonos\n      /upsilontonos /omegatonos /Io /Dje /Gje ]\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "17": {
+        "insn_list": [
+            "<<\n  /Length 1188\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "18": {
+        "insn_list": [
+            "<<\n  /Type /Font\n  /Subtype /TrueType\n  /Name /Fo0S1\n  /BaseFont /LucidaConsole\n  /FirstChar 0\n  /LastChar 255\n  /Widths 15 0 R\n  /Encoding 16 0 R\n  /ToUnicode 17 0 R\n  /FontDescriptor 10 0 R\n>>"
+        ],
+        "out_edge_list": [
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    "19": {
+        "insn_list": [
+            "[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0\n  0 0 603 603 603 603 603 603 603 603 603 603 603 603 603 603\n  603 603 603 603 603 603 603 603 603 603 603 603 603 603 603\n  603 603 603 603 603 603 603 603 603 603 603 603 603 603 603\n  603 603 603 603 603 603 603 603 603 603 603 603 603 603 603\n  603 603 603 603 603 603 603 603 603 603 603 603 603 603 603\n  603 603 603 603 603 603 603 603 603 603 603 603 603 603 603\n  603 603 603 603 603 603 603 603 603 603 603 603 603 603 603\n  603 603 603 603 603 603 603 603 603 603 603 603 603 603 603\n  603 603 603 603 603 603 603 603 603 603 603 603 603 603 603\n  603 603 603 603 603 603 603 603 603 603 603 603 603 603 603\n  603 603 603 603 603 603 603 603 603 603 603 603 603 603 603\n  603 603 603 603 603 603 603 603 603 603 603 603 603 603 603\n  603 603 603 603 603 603 603 603 603 603 603 603 603 603 603\n  603 603 603 603 603 603 603 603 603 603 603 603 603 603 603\n  603 603 603 603 603 603 603 603 603 ]"
+        ],
+        "out_edge_list": []
+    },
+    "20": {
+        "insn_list": [
+            "<<\n  /Type /Encoding\n  /Differences [ 32 /Ecyril /Dze /Icyril /Yi /Je /Lje /Nje /Tshe\n      /Kje /Ucyrilbreve /Dzhe /Acyril /Be /Ve /Ge /De /Ie /Zhe\n      /Ze /Ii /Iibreve /Ka /El /Em /En /Ocyril /Pecyril /Er /Es\n      /Te /Ucyril /Ef /Kha /Tse /Che /Sha /Shcha /Hard /Yeri /Soft\n      /Ecyrilrev /Iu /Ia /acyril /be /ve /ge /de /ie /zhe /ze\n      /ii /iibreve /ka /el /em /en /ocyril /pecyril /er /es /te\n      /ucyril /ef /kha /tse /che /sha /shcha /hard /yeri /soft\n      /ecyrilrev /iu /ia /io /dje /gje /ecyril /dze /icyril /yi\n      /je /lje /nje /tshe /kje /ucyrilbreve /dzhe /Geupturn /geupturn\n      /Wgrave /wgrave /Wacute /wacute /Wdieresis /wdieresis /Ygrave\n      /ygrave /quotedash /underscoredbl /exclamdbl /overscore1\n      /fraction1 /nsuperior /lira /pesetas /numero /oneeighth\n      /threeeighths /fiveeighths /seveneighths /arrowleft /arrowup\n      /arrowright /arrowdown /arrowboth /arrowupdn /arrowupdnbse\n      /rightangle /intersection /equivalence /house /revlogicalnot\n      /integraltp /integralbt /2500 /2502 /250c /2510 /2514 /2518\n      /251c /2524 /252c /2534 /253c /2550 /2551 /2552 /2553 /2554\n      /2555 /2556 /2557 /2558 /2559 /255a /255b /255c /255d /255e\n      /255f /2560 /2561 /2562 /2563 /2564 /2565 /2566 /2567 /2568\n      /2569 /256a /256b /256c /upblock /dnblock /block /lfblock\n      /rtblock /ltshade /shade /dkshade /filledbox /filledrect\n      /triagup /triagrt /triagdn /triaglf /circle /invbullet /invcircle\n      /smileface /invsmileface /sun /female /male /spade /club\n      /heart /diamond /musicalnote /musicalnotedbl /circumflex1\n      /tilde1 /dieresis1 /breve1 /ring1 /cedilla1 /hungarumlaut1\n      /caron1 /acute1 /grave1 /cedilla2 /Kcedilla1 /kcedilla1\n      /Lcedilla1 /lcedilla1 /Ncedilla1 /ncedilla1 /Rcedilla1 /rcedilla1\n      /Scedilla1 /scedilla1 /Tcedilla1 /tcedilla1 /Euro ]\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "21": {
+        "insn_list": [
+            "<<\n  /Length 1141\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "22": {
+        "insn_list": [
+            "<<\n  /Type /Font\n  /Subtype /TrueType\n  /Name /Fo0S2\n  /BaseFont /LucidaConsole\n  /FirstChar 0\n  /LastChar 249\n  /Widths 19 0 R\n  /Encoding 20 0 R\n  /ToUnicode 21 0 R\n  /FontDescriptor 10 0 R\n>>"
+        ],
+        "out_edge_list": [
+            1,
+            2,
+            2,
+            1
+        ]
+    },
+    "23": {
+        "insn_list": [
+            "[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0\n  0 0 603 603 603 603 603 603 603 603 603 603 603 603 603 603\n  603 603 603 603 603 603 603 603 603 603 603 603 603 603 603\n  603 603 603 603 603 603 603 603 603 603 603 603 603 603 603\n  603 603 603 603 603 603 603 603 603 603 603 603 603 603 603\n  603 603 603 603 603 603 603 603 603 603 603 603 603 603 603\n  603 603 603 603 603 603 603 603 603 603 603 603 603 603 603\n  603 603 603 603 603 603 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0\n  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 603 603 603 603 603 603 603 603\n  603 603 603 603 603 603 603 603 603 603 603 603 603 603 603\n  603 603 603 603 603 603 603 603 603 603 603 603 603 603 603\n  603 603 603 603 603 603 603 603 603 603 603 603 603 603 603\n  603 603 603 603 603 603 603 603 603 603 603 603 603 603 603\n  603 603 603 603 603 603 603 603 603 603 603 603 603 603 603\n  603 603 603 603 603 603 603 603 603 603 603 603 603 ]"
+        ],
+        "out_edge_list": []
+    },
+    "24": {
+        "insn_list": [
+            "<<\n  /Type /Font\n  /Subtype /TrueType\n  /Name /Fo0Form\n  /BaseFont /LucidaConsole\n  /Encoding <<\n    /Differences [ 24 /breve /caron /circumflex /dotaccent /hungarumlaut\n        /ogonek /ring /tilde 39 /quotesingle 96 /grave 128 /bullet\n        /dagger /daggerdbl /ellipsis /emdash /endash /florin /fraction\n        /guilsinglleft /guilsinglright /minus /perthousand /quotedblbase\n        /quotedblleft /quotedblright /quoteleft /quoteright /quotesinglbase\n        /trademark /fi /fl /Lslash /OE /Scaron /Ydieresis /Zcaron\n        /dotlessi /lslash /oe /scaron /zcaron 164 /currency 166\n        /brokenbar 168 /dieresis /copyright /ordfeminine 172 /logicalnot\n        /.notdef /registered /macron /degree /plusminus /twosuperior\n        /threesuperior /acute /mu 183 /periodcentered /cedilla\n        /onesuperior /ordmasculine 188 /onequarter /onehalf /threequarters\n        192 /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring\n        /AE /Ccedilla /Egrave /Eacute /Ecircumflex /Edieresis\n        /Igrave /Iacute /Icircumflex /Idieresis /Eth /Ntilde /Ograve\n        /Oacute /Ocircumflex /Otilde /Odieresis /multiply /Oslash\n        /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn\n        /germandbls /agrave /aacute /acircumflex /atilde /adieresis\n        /aring /ae /ccedilla /egrave /eacute /ecircumflex /edieresis\n        /igrave /iacute /icircumflex /idieresis /eth /ntilde /ograve\n        /oacute /ocircumflex /otilde /odieresis /divide /oslash\n        /ugrave /uacute /ucircumflex /udieresis /yacute /thorn\n        /ydieresis ]\n  >>\n  /FirstChar 0\n  /LastChar 255\n  /Widths 23 0 R\n  /FontDescriptor 10 0 R\n>>"
+        ],
+        "out_edge_list": [
+            2,
+            1
+        ]
+    },
+    "25": {
+        "insn_list": [
+            "<<\n  /Length 3700\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "26": {
+        "insn_list": [
+            "<<\n  /S /Transparency\n  /CS /DeviceRGB\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "27": {
+        "insn_list": [
+            "<<\n  /Type /Page\n  /Parent 4 0 R\n  /MediaBox [ 0 0 595.28 841.89 ]\n  /TrimBox [ 0 0 595.28 841.89 ]\n  /Rotate 0\n  /Contents 25 0 R\n  /Group 26 0 R\n>>"
+        ],
+        "out_edge_list": [
+            4,
+            2,
+            2
+        ]
+    },
+    "28": {
+        "insn_list": [
+            "<<\n  /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]\n  /Font <<\n    /Fo0Form 24 0 R\n    /Fo0S0 14 0 R\n    /Fo0S1 18 0 R\n    /Fo0S2 22 0 R\n  >>\n>>"
+        ],
+        "out_edge_list": [
+            2,
+            1,
+            1,
+            2
+        ]
+    },
+    "29": {
+        "insn_list": [
+            "<<\n  /Length 59\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "30": {
+        "insn_list": [
+            "<<\n  /Length 10154\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "31": {
+        "insn_list": [
+            "<<\n  /Length 26\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "32": {
+        "insn_list": [
+            "<<\n  /Length 23\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "33": {
+        "insn_list": [
+            "<<\n  /S /JavaScript\n  /JS 29 0 R\n>>"
+        ],
+        "out_edge_list": [
+            2
+        ]
+    },
+    "34": {
+        "insn_list": [
+            "<<\n  /S /JavaScript\n  /JS 30 0 R\n>>"
+        ],
+        "out_edge_list": [
+            3
+        ]
+    },
+    "35": {
+        "insn_list": [
+            "<<\n  /S /JavaScript\n  /JS 31 0 R\n>>"
+        ],
+        "out_edge_list": [
+            3
+        ]
+    },
+    "36": {
+        "insn_list": [
+            "<<\n  /S /JavaScript\n  /JS 32 0 R\n>>"
+        ],
+        "out_edge_list": [
+            3
+        ]
+    },
+    "37": {
+        "insn_list": [
+            "<<\n  /Names [ (7e1778994e19321c01d18786dc19e1f2) 33 0 R (459cd7c0d6a30fe025892b2f443a8edf)\n      34 0 R (5fedcaffc4aba6e57a3563b1c7d60c1d) 35 0 R (19873725ed76e249281f495eb7d547ac)\n      36 0 R ]\n>>"
+        ],
+        "out_edge_list": [
+            3,
+            3,
+            3,
+            3
+        ]
+    }
+}

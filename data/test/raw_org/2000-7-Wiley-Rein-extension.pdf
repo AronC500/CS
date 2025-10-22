@@ -1,0 +1,116 @@
+{
+    "1": {
+        "insn_list": [
+            "<<\n  /Type /Catalog\n  /Pages 2 0 R\n>>"
+        ],
+        "out_edge_list": [
+            2
+        ]
+    },
+    "2": {
+        "insn_list": [
+            "<<\n  /Type /Pages\n  /Kids [ 3 0 R 7 0 R 11 0 R ]\n  /Count 3\n>>"
+        ],
+        "out_edge_list": [
+            3,
+            7,
+            1
+        ]
+    },
+    "3": {
+        "insn_list": [
+            "<<\n  /Type /Page\n  /Parent 2 0 R\n  /Resources 4 0 R\n  /Contents 5 0 R\n  /Rotate 0\n  /eCpyResolution 300\n  /MediaBox [ 0 0 612 792 ]\n>>"
+        ],
+        "out_edge_list": [
+            2,
+            4,
+            5
+        ]
+    },
+    "4": {
+        "insn_list": [
+            "<<\n  /XObject <<\n    /Im6 6 0 R\n  >>\n  /ProcSet [ /PDF /Text /ImageB /ImageC ]\n>>"
+        ],
+        "out_edge_list": [
+            6
+        ]
+    },
+    "5": {
+        "insn_list": [
+            "<<\n  /Length 57\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "6": {
+        "insn_list": [
+            "<<\n  /Type /XObject\n  /Subtype /Image\n  /Name /Im6\n  /Width 2550\n  /Height 3300\n  /eCpyDPIX 300\n  /eCpyDPIY 300\n  /ImageMask false\n  /Filter /CCITTFaxDecode\n  /BitsPerComponent 1\n  /DecodeParms <<\n    /K -1\n    /Columns 2550\n    /Rows 3300\n  >>\n  /ColorSpace /DeviceGray\n  /Decode [ 0 1 ]\n  /Length 26752\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "7": {
+        "insn_list": [
+            "<<\n  /Type /Page\n  /Parent 2 0 R\n  /Resources 8 0 R\n  /Contents 9 0 R\n  /Rotate 0\n  /eCpyResolution 300\n  /MediaBox [ 0 0 612 792 ]\n>>"
+        ],
+        "out_edge_list": [
+            2,
+            8,
+            9
+        ]
+    },
+    "8": {
+        "insn_list": [
+            "<<\n  /XObject <<\n    /Im10 10 0 R\n  >>\n  /ProcSet [ /PDF /Text /ImageB /ImageC ]\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "9": {
+        "insn_list": [
+            "<<\n  /Length 58\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "10": {
+        "insn_list": [
+            "<<\n  /Type /XObject\n  /Subtype /Image\n  /Name /Im10\n  /Width 2550\n  /Height 3300\n  /eCpyDPIX 300\n  /eCpyDPIY 300\n  /ImageMask false\n  /Filter /CCITTFaxDecode\n  /BitsPerComponent 1\n  /DecodeParms <<\n    /K -1\n    /Columns 2550\n    /Rows 3300\n  >>\n  /ColorSpace /DeviceGray\n  /Decode [ 0 1 ]\n  /Length 64620\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "11": {
+        "insn_list": [
+            "<<\n  /Type /Page\n  /Parent 2 0 R\n  /Resources 12 0 R\n  /Contents 13 0 R\n  /Rotate 0\n  /eCpyResolution 300\n  /MediaBox [ 0 0 612 792 ]\n>>"
+        ],
+        "out_edge_list": [
+            2,
+            1,
+            1
+        ]
+    },
+    "12": {
+        "insn_list": [
+            "<<\n  /XObject <<\n    /Im14 14 0 R\n  >>\n  /ProcSet [ /PDF /Text /ImageB /ImageC ]\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "13": {
+        "insn_list": [
+            "<<\n  /Length 58\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "14": {
+        "insn_list": [
+            "<<\n  /Type /XObject\n  /Subtype /Image\n  /Name /Im14\n  /Width 2550\n  /Height 3300\n  /eCpyDPIX 300\n  /eCpyDPIY 300\n  /ImageMask false\n  /Filter /CCITTFaxDecode\n  /BitsPerComponent 1\n  /DecodeParms <<\n    /K -1\n    /Columns 2550\n    /Rows 3300\n  >>\n  /ColorSpace /DeviceGray\n  /Decode [ 0 1 ]\n  /Length 29726\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "15": {
+        "insn_list": [
+            "<<\n  /Title (CPY Document)\n>>"
+        ],
+        "out_edge_list": []
+    }
+}

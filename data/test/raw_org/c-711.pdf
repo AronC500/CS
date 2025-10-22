@@ -1,0 +1,423 @@
+{
+    "1": {
+        "insn_list": [
+            "<<\n  /Length 52744\n  /Subtype /XML\n  /Type /Metadata\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "2": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /First 4\n  /Length 48\n  /N 1\n  /Type /ObjStm\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "3": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /First 4\n  /Length 141\n  /N 1\n  /Type /ObjStm\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "4": {
+        "insn_list": [
+            "<<\n  /DecodeParms <<\n    /Columns 4\n    /Predictor 12\n  >>\n  /Filter /FlateDecode\n  /ID [ <2A98841653154D649486CD4F7A34AE07> <F5A783B66A65F846BFEDBACF933F20A7> ]\n  /Info 6 0 R\n  /Length 41\n  /Root 8 0 R\n  /Size 7\n  /Type /XRef\n  /W [ 1 3 0 ]\n>>"
+        ],
+        "out_edge_list": [
+            6,
+            8
+        ]
+    },
+    "5": {
+        "insn_list": [
+            "<<\n  /Count 1\n  /Kids [ 9 0 R ]\n  /Type /Pages\n>>"
+        ],
+        "out_edge_list": [
+            9
+        ]
+    },
+    "6": {
+        "insn_list": [
+            "<<\n  /CreationDate (D:20120807104350-04'00')\n  /Creator (Adobe InDesign CS5 \\(7.0.3\\))\n  /ModDate (D:20120807115823-04'00')\n  /Producer (Adobe PDF Library 9.9)\n  /Trapped /False\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "7": {
+        "insn_list": [
+            "<<\n  /Linearized 1\n  /L 77848\n  /O 9\n  /E 24360\n  /N 1\n  /T 77555\n  /H [ 528 168 ]\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "8": {
+        "insn_list": [
+            "<<\n  /Metadata 1 0 R\n  /Pages 5 0 R\n  /Type /Catalog\n  /ViewerPreferences <<\n    /Direction /L2R\n  >>\n>>"
+        ],
+        "out_edge_list": [
+            1,
+            5
+        ]
+    },
+    "9": {
+        "insn_list": [
+            "<<\n  /ArtBox [ 0 0 1224 792 ]\n  /BleedBox [ 0 0 1224 792 ]\n  /Contents [ 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R\n      18 0 R ]\n  /CropBox [ 0 0 1224 792 ]\n  /MediaBox [ 0 0 1224 792 ]\n  /Parent 5 0 R\n  /Resources <<\n    /ColorSpace <<\n      /CS0 34 0 R\n    >>\n    /ExtGState <<\n      /GS0 35 0 R\n      /GS1 36 0 R\n    >>\n    /Font <<\n      /T1_0 39 0 R\n      /T1_1 42 0 R\n      /T1_2 45 0 R\n      /T1_3 48 0 R\n      /T1_4 51 0 R\n      /T1_5 54 0 R\n      /T1_6 57 0 R\n    >>\n    /ProcSet [ /PDF /Text ]\n  >>\n  /Rotate 0\n  /TrimBox [ 0 0 1224 792 ]\n  /Type /Page\n>>"
+        ],
+        "out_edge_list": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            5,
+            3,
+            3,
+            3,
+            3,
+            4,
+            4,
+            4,
+            5,
+            5,
+            5
+        ]
+    },
+    "10": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /First 184\n  /Length 1573\n  /N 24\n  /Type /ObjStm\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "11": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /Length 836\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "12": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /Length 790\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "13": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /Length 857\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "14": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /Length 765\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "15": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /Length 850\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "16": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /Length 877\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "17": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /Length 772\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "18": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /Length 658\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "19": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /Length 1558\n  /Subtype /Type1C\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "20": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /Length 346\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "21": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /Length 3987\n  /Subtype /Type1C\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "22": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /Length 512\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "23": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /Length 1941\n  /Subtype /Type1C\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "24": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /Length 350\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "25": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /Length 403\n  /Subtype /Type1C\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "26": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /Length 256\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "27": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /Length 546\n  /Subtype /Type1C\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "28": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /Length 261\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "29": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /Length 1698\n  /Subtype /Type1C\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "30": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /Length 333\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "31": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /Length 900\n  /Subtype /Type1C\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "32": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /Length 295\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "33": {
+        "insn_list": [
+            "<<\n  /DecodeParms <<\n    /Columns 4\n    /Predictor 12\n  >>\n  /Filter /FlateDecode\n  /ID [ <2A98841653154D649486CD4F7A34AE07> <F5A783B66A65F846BFEDBACF933F20A7> ]\n  /Index [ 7 52 ]\n  /Info 6 0 R\n  /Length 114\n  /Prev 77556\n  /Root 8 0 R\n  /Size 59\n  /Type /XRef\n  /W [ 1 2 1 ]\n>>"
+        ],
+        "out_edge_list": [
+            6,
+            8
+        ]
+    },
+    "34": {
+        "insn_list": [
+            "[ /Separation /PANTONE#20562#20C /DeviceCMYK <<\n    /C0 [ 0 0 0 0 ]\n    /C1 [ .850006 0 .5 .309998 ]\n    /Domain [ 0 1 ]\n    /FunctionType 2\n    /N 1\n    /Range [ 0 1 0 1 0 1 0 1 ]\n  >> ]"
+        ],
+        "out_edge_list": []
+    },
+    "35": {
+        "insn_list": [
+            "<<\n  /AIS false\n  /BM /Normal\n  /CA 1\n  /OP false\n  /OPM 1\n  /SA true\n  /SMask /None\n  /Type /ExtGState\n  /ca 1\n  /op false\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "36": {
+        "insn_list": [
+            "<<\n  /AIS false\n  /BM /Normal\n  /CA 1\n  /OP true\n  /OPM 1\n  /SA true\n  /SMask /None\n  /Type /ExtGState\n  /ca 1\n  /op true\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "37": {
+        "insn_list": [
+            "<<\n  /BaseEncoding /WinAnsiEncoding\n  /Differences [ 8 /j /u /q /ampersand /y /l /v /m /d /p /h /n\n      /f /g /r /space /e /t /i /o /s /a /hyphen /c ]\n  /Type /Encoding\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "38": {
+        "insn_list": [
+            "<<\n  /Ascent 1170\n  /CapHeight 675\n  /CharSet (/j/u/q/ampersand/y/l/v/m/d/p/h/n/f/g/r/space/e/t/i/o/s/a/hyphen/c)\n  /Descent -433\n  /Flags 131076\n  /FontBBox [ -62 -433 1758 1170 ]\n  /FontFamily (The Mix)\n  /FontFile3 19 0 R\n  /FontName /MUJJLH+TheMix-Caps\n  /FontStretch /Normal\n  /FontWeight 400\n  /ItalicAngle 0\n  /StemV 92\n  /Type /FontDescriptor\n  /XHeight 520\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "39": {
+        "insn_list": [
+            "<<\n  /BaseFont /MUJJLH+TheMix-Caps\n  /Encoding 37 0 R\n  /FirstChar 8\n  /FontDescriptor 38 0 R\n  /LastChar 31\n  /Subtype /Type1\n  /ToUnicode 20 0 R\n  /Type /Font\n  /Widths [ 325 634 605 665 474 395 530 805 595 491 636 650 438\n      586 510 218 457 431 281 605 453 550 330 490 ]\n>>"
+        ],
+        "out_edge_list": [
+            3,
+            3,
+            2
+        ]
+    },
+    "40": {
+        "insn_list": [
+            "<<\n  /BaseEncoding /WinAnsiEncoding\n  /Differences [ 1 /t /o /A /g /I /w /k /a /H /d /T /comma /n\n      /i /b /C /M /period /J /e /c /u /r /B /two /fraction /zero\n      /space /colon /one /seven 127 /R /p /K /G /y /V /l /m /parenleft\n      /five /parenright /f /S /P /s /E /L /F /z /N /x /W /q /O\n      /hyphen /ampersand /fi 157 /h 160 /D 173 /v ]\n  /Type /Encoding\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "41": {
+        "insn_list": [
+            "<<\n  /Ascent 1170\n  /CapHeight 675\n  /CharSet (/t/o/A/g/I/w/k/a/H/d/T/comma/n/i/b/C/M/period/J/e/c/u/r/B/two/fraction/zero/space/colon/one/seven/R/p/K/G/y/V/l/m/parenleft/five/parenright/f/S/P/s/E/L/F/z/N/x/W/q/O/hyphen/ampersand/fi/h/D/v)\n  /Descent -433\n  /Flags 4\n  /FontBBox [ -62 -433 1758 1170 ]\n  /FontFamily (The Mix)\n  /FontFile3 21 0 R\n  /FontName /MUJJLH+TheMix-Plain\n  /FontStretch /Normal\n  /FontWeight 400\n  /ItalicAngle 0\n  /StemV 92\n  /Type /FontDescriptor\n  /XHeight 497\n>>"
+        ],
+        "out_edge_list": [
+            2
+        ]
+    },
+    "42": {
+        "insn_list": [
+            "<<\n  /BaseFont /MUJJLH+TheMix-Plain\n  /Encoding 40 0 R\n  /FirstChar 1\n  /FontDescriptor 41 0 R\n  /LastChar 173\n  /Subtype /Type1\n  /ToUnicode 22 0 R\n  /Type /Font\n  /Widths [ 371 545 615 556 262 793 501 539 698 576 516 228 601\n      286 566 583 889 228 329 508 435 617 381 570 482 419 613\n      218 257 338 459 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0\n      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0\n      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0\n      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 553 584 584 682 480\n      618 267 905 303 467 303 350 503 524 425 501 426 469 447\n      707 518 952 558 705 330 798 590 0 0 0 583 0 0 678 0 0 0\n      0 0 0 0 0 0 0 0 0 486 ]\n>>"
+        ],
+        "out_edge_list": [
+            4,
+            4,
+            2
+        ]
+    },
+    "43": {
+        "insn_list": [
+            "<<\n  /BaseEncoding /WinAnsiEncoding\n  /Differences [ 7 /l /P /A /M /c /fi /y /p /C /S /period /U /e\n      /h /f /space /o /t /z /i /n /a /g /r /O ]\n  /Type /Encoding\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "44": {
+        "insn_list": [
+            "<<\n  /Ascent 1177\n  /CapHeight 675\n  /CharSet (/l/P/A/M/c/fi/y/p/C/S/period/U/e/h/f/space/o/t/z/i/n/a/g/r/O)\n  /Descent -448\n  /Flags 4\n  /FontBBox [ -42 -448 1758 1177 ]\n  /FontFamily (The Mix Bold)\n  /FontFile3 23 0 R\n  /FontName /MUJJLH+TheMixBold-Plain\n  /FontStretch /Normal\n  /FontWeight 700\n  /ItalicAngle 0\n  /StemV 128\n  /Type /FontDescriptor\n  /XHeight 497\n>>"
+        ],
+        "out_edge_list": [
+            2
+        ]
+    },
+    "45": {
+        "insn_list": [
+            "<<\n  /BaseFont /MUJJLH+TheMixBold-Plain\n  /Encoding 43 0 R\n  /FirstChar 7\n  /FontDescriptor 44 0 R\n  /LastChar 31\n  /Subtype /Type1\n  /ToUnicode 24 0 R\n  /Type /Font\n  /Widths [ 271 531 626 881 425 595 502 591 566 503 258 681 514\n      576 354 218 553 375 450 298 603 552 555 387 703 ]\n>>"
+        ],
+        "out_edge_list": [
+            4,
+            4,
+            2
+        ]
+    },
+    "46": {
+        "insn_list": [
+            "<<\n  /BaseEncoding /WinAnsiEncoding\n  /Differences [ 28 /y /l /u /J ]\n  /Type /Encoding\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "47": {
+        "insn_list": [
+            "<<\n  /Ascent 1173\n  /CapHeight 675\n  /CharSet (/y/l/u/J)\n  /Descent -440\n  /Flags 131076\n  /FontBBox [ -53 -440 1758 1173 ]\n  /FontFamily (The Mix Semi Bold)\n  /FontFile3 25 0 R\n  /FontName /MUJJLH+TheMixSemiBold-Caps\n  /FontStretch /Normal\n  /FontWeight 600\n  /ItalicAngle 0\n  /StemV 108\n  /Type /FontDescriptor\n  /XHeight 520\n>>"
+        ],
+        "out_edge_list": [
+            2
+        ]
+    },
+    "48": {
+        "insn_list": [
+            "<<\n  /BaseFont /MUJJLH+TheMixSemiBold-Caps\n  /Encoding 46 0 R\n  /FirstChar 28\n  /FontDescriptor 47 0 R\n  /LastChar 31\n  /Subtype /Type1\n  /ToUnicode 26 0 R\n  /Type /Font\n  /Widths [ 486 396 631 332 ]\n>>"
+        ],
+        "out_edge_list": [
+            4,
+            4,
+            2
+        ]
+    },
+    "49": {
+        "insn_list": [
+            "<<\n  /BaseEncoding /WinAnsiEncoding\n  /Differences [ 26 /zero /two /comma /six /one /space ]\n  /Type /Encoding\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "50": {
+        "insn_list": [
+            "<<\n  /Ascent 1173\n  /CapHeight 675\n  /CharSet (/zero/two/comma/six/one/space)\n  /Descent -440\n  /Flags 4\n  /FontBBox [ -53 -440 1758 1173 ]\n  /FontFamily (The Mix Semi Bold)\n  /FontFile3 27 0 R\n  /FontName /MUJJLH+TheMixSemiBold-Plain\n  /FontStretch /Normal\n  /FontWeight 600\n  /ItalicAngle 0\n  /StemV 108\n  /Type /FontDescriptor\n  /XHeight 497\n>>"
+        ],
+        "out_edge_list": [
+            2
+        ]
+    },
+    "51": {
+        "insn_list": [
+            "<<\n  /BaseFont /MUJJLH+TheMixSemiBold-Plain\n  /Encoding 49 0 R\n  /FirstChar 26\n  /FontDescriptor 50 0 R\n  /LastChar 31\n  /Subtype /Type1\n  /ToUnicode 28 0 R\n  /Type /Font\n  /Widths [ 611 482 242 582 340 218 ]\n>>"
+        ],
+        "out_edge_list": [
+            4,
+            5,
+            2
+        ]
+    },
+    "52": {
+        "insn_list": [
+            "<<\n  /BaseEncoding /WinAnsiEncoding\n  /Differences [ 11 /y /u /p /o /r /D /g /period /s /A /space\n      /f /e /i /h /C /t /n /c /a /V ]\n  /Type /Encoding\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "53": {
+        "insn_list": [
+            "<<\n  /Ascent 1170\n  /CapHeight 675\n  /CharSet (/y/u/p/o/r/D/g/period/s/A/space/f/e/i/h/C/t/n/c/a/V)\n  /Descent -433\n  /Flags 4\n  /FontBBox [ -177 -433 1757 1170 ]\n  /FontFamily (The Mix)\n  /FontFile3 29 0 R\n  /FontName /MUJJLH+TheMix-Italic\n  /FontStretch /Normal\n  /FontWeight 400\n  /ItalicAngle 0\n  /StemV 88\n  /Type /FontDescriptor\n  /XHeight 522\n>>"
+        ],
+        "out_edge_list": [
+            2
+        ]
+    },
+    "54": {
+        "insn_list": [
+            "<<\n  /BaseFont /MUJJLH+TheMix-Italic\n  /Encoding 52 0 R\n  /FirstChar 11\n  /FontDescriptor 53 0 R\n  /LastChar 31\n  /Subtype /Type1\n  /ToUnicode 30 0 R\n  /Type /Font\n  /Widths [ 487 607 564 539 382 664 536 224 381 605 218 339 477\n      280 570 562 364 589 412 564 605 ]\n>>"
+        ],
+        "out_edge_list": [
+            5,
+            5,
+            3
+        ]
+    },
+    "55": {
+        "insn_list": [
+            "<<\n  /BaseEncoding /WinAnsiEncoding\n  /Differences [ 19 /h /y /p /c /f /o /space /t /s /i /g /e /r ]\n  /Type /Encoding\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "56": {
+        "insn_list": [
+            "<<\n  /Ascent 1177\n  /CapHeight 675\n  /CharSet (/h/y/p/c/f/o/space/t/s/i/g/e/r)\n  /Descent -448\n  /Flags 131076\n  /FontBBox [ -42 -448 1758 1177 ]\n  /FontFamily (The Mix Bold)\n  /FontFile3 31 0 R\n  /FontName /MUJJLH+TheMixBold-Caps\n  /FontStretch /Normal\n  /FontWeight 700\n  /ItalicAngle 0\n  /StemV 128\n  /Type /FontDescriptor\n  /XHeight 520\n>>"
+        ],
+        "out_edge_list": [
+            3
+        ]
+    },
+    "57": {
+        "insn_list": [
+            "<<\n  /BaseFont /MUJJLH+TheMixBold-Caps\n  /Encoding 55 0 R\n  /FirstChar 19\n  /FontDescriptor 56 0 R\n  /LastChar 31\n  /Subtype /Type1\n  /ToUnicode 32 0 R\n  /Type /Font\n  /Widths [ 635 501 507 474 438 611 218 439 442 285 580 459 523 ]\n>>"
+        ],
+        "out_edge_list": [
+            5,
+            5,
+            3
+        ]
+    },
+    "58": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /I 101\n  /Length 88\n  /S 38\n>>"
+        ],
+        "out_edge_list": []
+    }
+}

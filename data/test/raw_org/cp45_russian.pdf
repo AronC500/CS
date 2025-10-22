@@ -1,0 +1,519 @@
+{
+    "1": {
+        "insn_list": [
+            "<<\n  /Nums [ 0 2 0 R ]\n>>"
+        ],
+        "out_edge_list": [
+            2
+        ]
+    },
+    "2": {
+        "insn_list": [
+            "<<\n  /S /D\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "3": {
+        "insn_list": [
+            "<<\n  /Count 1\n  /Type /Pages\n  /Kids [ 8 0 R ]\n>>"
+        ],
+        "out_edge_list": [
+            8
+        ]
+    },
+    "4": {
+        "insn_list": [
+            "<<\n  /Subtype /XML\n  /Length 3671\n  /Type /Metadata\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "5": {
+        "insn_list": [
+            "<<\n  /CreationDate (D:20100603145218-04'00')\n  /Author (ddlbb)\n  /Creator (PScript5.dll Version 5.2)\n  /Producer (Acrobat Distiller 8.2.2 \\(Windows\\))\n  /ModDate (D:20100603145235-04'00')\n  /Title (Microsoft Word - CP45 word_RUSSIAN.doc)\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "6": {
+        "insn_list": [
+            "<<\n  /Linearized 1\n  /L 140580\n  /O 8\n  /E 136316\n  /N 1\n  /T 140414\n  /H [ 1536 265 ]\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "7": {
+        "insn_list": [
+            "<<\n  /Metadata 4 0 R\n  /Pages 3 0 R\n  /Type /Catalog\n  /PageLabels 1 0 R\n>>"
+        ],
+        "out_edge_list": [
+            4,
+            3,
+            1
+        ]
+    },
+    "8": {
+        "insn_list": [
+            "<<\n  /CropBox [ 0 0 612 1008 ]\n  /Parent 3 0 R\n  /Contents [ 18 0 R 22 0 R 23 0 R 24 0 R 25 0 R 27 0 R 28 0 R\n      29 0 R ]\n  /Rotate 0\n  /MediaBox [ 0 0 612 1008 ]\n  /Resources 9 0 R\n  /Type /Page\n>>"
+        ],
+        "out_edge_list": [
+            3,
+            1,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            9
+        ]
+    },
+    "9": {
+        "insn_list": [
+            "<<\n  /XObject <<\n    /Im10 33 0 R\n    /Im12 35 0 R\n    /Im13 36 0 R\n    /Im14 37 0 R\n    /Im15 39 0 R\n    /Im1 40 0 R\n    /Im2 32 0 R\n    /Im3 41 0 R\n    /Im4 32 0 R\n    /Im5 42 0 R\n    /Im6 43 0 R\n    /Im7 45 0 R\n    /Im8 33 0 R\n  >>\n  /ColorSpace <<\n    /Cs6 13 0 R\n    /Cs8 14 0 R\n    /Cs9 15 0 R\n    /Cs11 16 0 R\n    /Cs12 17 0 R\n  >>\n  /Font <<\n    /TT1 10 0 R\n    /TT2 11 0 R\n    /TT4 12 0 R\n    /TT5 19 0 R\n    /TT6 20 0 R\n    /TT7 26 0 R\n    /F1 21 0 R\n  >>\n  /ProcSet [ /PDF /Text /ImageC /ImageI ]\n  /ExtGState <<\n    /GS1 66 0 R\n  >>\n>>"
+        ],
+        "out_edge_list": [
+            3,
+            3,
+            3,
+            3,
+            3,
+            4,
+            3,
+            4,
+            3,
+            4,
+            4,
+            4,
+            3,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            2,
+            6
+        ]
+    },
+    "10": {
+        "insn_list": [
+            "<<\n  /Subtype /Type0\n  /DescendantFonts [ 48 0 R ]\n  /BaseFont /OAIEMP+Arial\n  /ToUnicode 49 0 R\n  /Encoding /Identity-H\n  /Type /Font\n>>"
+        ],
+        "out_edge_list": [
+            4,
+            4
+        ]
+    },
+    "11": {
+        "insn_list": [
+            "<<\n  /Subtype /TrueType\n  /FontDescriptor 51 0 R\n  /LastChar 187\n  /Widths [ 278 0 0 0 0 0 667 0 333 333 0 0 278 333 278 278 556\n      556 556 556 556 556 556 556 556 556 0 0 0 0 0 0 0 667 667\n      722 722 667 611 0 722 278 500 667 556 833 722 778 667 778\n      722 667 611 722 667 0 667 0 0 0 0 0 0 0 0 556 0 500 556\n      556 0 556 0 222 0 0 222 833 556 556 556 0 333 500 278 556\n      500 722 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0\n      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 556\n      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 556 ]\n  /BaseFont /OAIEOA+Arial\n  /FirstChar 32\n  /Encoding /WinAnsiEncoding\n  /Type /Font\n>>"
+        ],
+        "out_edge_list": [
+            5
+        ]
+    },
+    "12": {
+        "insn_list": [
+            "<<\n  /Subtype /TrueType\n  /FontDescriptor 52 0 R\n  /LastChar 32\n  /Widths [ 250 ]\n  /BaseFont /TimesNewRoman\n  /FirstChar 32\n  /Encoding /WinAnsiEncoding\n  /Type /Font\n>>"
+        ],
+        "out_edge_list": [
+            5
+        ]
+    },
+    "13": {
+        "insn_list": [
+            "[ /ICCBased 30 0 R ]"
+        ],
+        "out_edge_list": [
+            3
+        ]
+    },
+    "14": {
+        "insn_list": [
+            "[ /Indexed 13 0 R 1 31 0 R ]"
+        ],
+        "out_edge_list": [
+            1,
+            3
+        ]
+    },
+    "15": {
+        "insn_list": [
+            "[ /Indexed 13 0 R 4 38 0 R ]"
+        ],
+        "out_edge_list": [
+            1,
+            3
+        ]
+    },
+    "16": {
+        "insn_list": [
+            "[ /Indexed 13 0 R 255 34 0 R ]"
+        ],
+        "out_edge_list": [
+            1,
+            3
+        ]
+    },
+    "17": {
+        "insn_list": [
+            "[ /Indexed 13 0 R 255 44 0 R ]"
+        ],
+        "out_edge_list": [
+            1,
+            4
+        ]
+    },
+    "18": {
+        "insn_list": [
+            "<<\n  /Length 1188\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "19": {
+        "insn_list": [
+            "<<\n  /Subtype /Type0\n  /DescendantFonts [ 55 0 R ]\n  /BaseFont /OAIFCB+Arial,Bold\n  /ToUnicode 56 0 R\n  /Encoding /Identity-H\n  /Type /Font\n>>"
+        ],
+        "out_edge_list": [
+            5,
+            5
+        ]
+    },
+    "20": {
+        "insn_list": [
+            "<<\n  /Subtype /TrueType\n  /FontDescriptor 58 0 R\n  /LastChar 58\n  /Widths [ 278 0 0 0 556 0 0 0 0 0 0 0 278 0 278 0 556 556 556\n      0 0 0 0 556 0 0 333 ]\n  /BaseFont /OAIFDC+Arial,Bold\n  /FirstChar 32\n  /Encoding /WinAnsiEncoding\n  /Type /Font\n>>"
+        ],
+        "out_edge_list": [
+            5
+        ]
+    },
+    "21": {
+        "insn_list": [
+            "<<\n  /Subtype /Type1\n  /FontDescriptor 63 0 R\n  /LastChar 128\n  /Widths [ 460 ]\n  /BaseFont /OAIFFC+Symbol\n  /FirstChar 128\n  /ToUnicode 64 0 R\n  /Encoding 65 0 R\n  /Type /Font\n>>"
+        ],
+        "out_edge_list": [
+            6,
+            6,
+            6
+        ]
+    },
+    "22": {
+        "insn_list": [
+            "<<\n  /Length 957\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "23": {
+        "insn_list": [
+            "<<\n  /Length 928\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "24": {
+        "insn_list": [
+            "<<\n  /Length 1095\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "25": {
+        "insn_list": [
+            "<<\n  /Length 995\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "26": {
+        "insn_list": [
+            "<<\n  /Subtype /Type0\n  /DescendantFonts [ 61 0 R ]\n  /BaseFont /OAIFLB+Wingdings\n  /Encoding /Identity-H\n  /Type /Font\n>>"
+        ],
+        "out_edge_list": [
+            6
+        ]
+    },
+    "27": {
+        "insn_list": [
+            "<<\n  /Length 1258\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "28": {
+        "insn_list": [
+            "<<\n  /Length 949\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "29": {
+        "insn_list": [
+            "<<\n  /Length 1337\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "30": {
+        "insn_list": [
+            "<<\n  /Length 2598\n  /Filter /FlateDecode\n  /N 3\n  /Alternate /DeviceRGB\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "31": {
+        "insn_list": [
+            "<<\n  /Length 7\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "32": {
+        "insn_list": [
+            "<<\n  /Subtype /Image\n  /Length 24\n  /Filter /FlateDecode\n  /ImageMask true\n  /BitsPerComponent 1\n  /Width 179\n  /Height 5\n  /Type /XObject\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "33": {
+        "insn_list": [
+            "<<\n  /Subtype /Image\n  /Length 30\n  /Filter /FlateDecode\n  /BitsPerComponent 2\n  /ColorSpace 14 0 R\n  /Mask 32 0 R\n  /Width 179\n  /Height 5\n  /Type /XObject\n>>"
+        ],
+        "out_edge_list": [
+            1,
+            3
+        ]
+    },
+    "34": {
+        "insn_list": [
+            "<<\n  /Length 783\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "35": {
+        "insn_list": [
+            "<<\n  /Subtype /Image\n  /Length 6275\n  /Filter /FlateDecode\n  /BitsPerComponent 8\n  /ColorSpace 16 0 R\n  /Width 2040\n  /Height 14\n  /Type /XObject\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "36": {
+        "insn_list": [
+            "<<\n  /Subtype /Image\n  /Length 13\n  /BitsPerComponent 8\n  /ColorSpace 13 0 R\n  /Width 1\n  /Height 4\n  /Type /XObject\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "37": {
+        "insn_list": [
+            "<<\n  /Subtype /Image\n  /Length 29\n  /Filter /FlateDecode\n  /ImageMask true\n  /BitsPerComponent 1\n  /Width 997\n  /Height 6\n  /Type /XObject\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "38": {
+        "insn_list": [
+            "<<\n  /Length 16\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "39": {
+        "insn_list": [
+            "<<\n  /Subtype /Image\n  /Length 58\n  /Filter /FlateDecode\n  /BitsPerComponent 4\n  /ColorSpace 15 0 R\n  /Mask 37 0 R\n  /Width 997\n  /Height 6\n  /Type /XObject\n>>"
+        ],
+        "out_edge_list": [
+            1,
+            3
+        ]
+    },
+    "40": {
+        "insn_list": [
+            "<<\n  /Subtype /Image\n  /Length 30021\n  /Filter /FlateDecode\n  /BitsPerComponent 8\n  /ColorSpace 13 0 R\n  /Width 364\n  /Height 164\n  /Type /XObject\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "41": {
+        "insn_list": [
+            "<<\n  /Subtype /Image\n  /Length 26\n  /Filter /FlateDecode\n  /ImageMask true\n  /BitsPerComponent 1\n  /Width 179\n  /Height 6\n  /Type /XObject\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "42": {
+        "insn_list": [
+            "<<\n  /Subtype /Image\n  /Length 4\n  /BitsPerComponent 8\n  /ColorSpace 13 0 R\n  /Width 1\n  /Height 1\n  /Type /XObject\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "43": {
+        "insn_list": [
+            "<<\n  /Subtype /Image\n  /Length 33\n  /Filter /FlateDecode\n  /BitsPerComponent 2\n  /ColorSpace 14 0 R\n  /Mask 41 0 R\n  /Width 179\n  /Height 6\n  /Type /XObject\n>>"
+        ],
+        "out_edge_list": [
+            1,
+            4
+        ]
+    },
+    "44": {
+        "insn_list": [
+            "<<\n  /Length 783\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "45": {
+        "insn_list": [
+            "<<\n  /Subtype /Image\n  /Length 3669\n  /Filter /FlateDecode\n  /BitsPerComponent 8\n  /ColorSpace 17 0 R\n  /Width 74\n  /Height 102\n  /Type /XObject\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "46": {
+        "insn_list": [
+            "<<\n  /Length 19091\n  /Filter /FlateDecode\n  /Length1 38172\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "47": {
+        "insn_list": [
+            "<<\n  /StemV 88\n  /FontName /OAIEMP+Arial\n  /FontStretch /Normal\n  /FontFile2 46 0 R\n  /FontWeight 400\n  /Flags 4\n  /Descent -211\n  /FontBBox [ -665 -325 2000 1006 ]\n  /Ascent 905\n  /FontFamily (Arial)\n  /CapHeight 718\n  /XHeight 515\n  /Type /FontDescriptor\n  /ItalicAngle 0\n>>"
+        ],
+        "out_edge_list": [
+            4
+        ]
+    },
+    "48": {
+        "insn_list": [
+            "<<\n  /Subtype /CIDFontType2\n  /FontDescriptor 47 0 R\n  /BaseFont /OAIEMP+Arial\n  /W [ 572 [ 667 ] 574 [ 677 667 ] 577 [ 604 719 ] 580 [ 583 ]\n      582 [ 833 ] 584 [ 778 ] 587 [ 722 ] 589 [ 635 760 ] 602\n      [ 556 573 531 365 583 556 669 458 559 ] 611 [ 559 438 583\n        688 552 556 542 556 500 458 500 823 500 573 521 802 823 ]\n      629 [ 719 521 510 750 542 ] ]\n  /CIDToGIDMap /Identity\n  /CIDSystemInfo <<\n    /Supplement 0\n    /Ordering (Identity)\n    /Registry (Adobe)\n  >>\n  /DW 1000\n  /Type /Font\n>>"
+        ],
+        "out_edge_list": [
+            4
+        ]
+    },
+    "49": {
+        "insn_list": [
+            "<<\n  /Length 299\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "50": {
+        "insn_list": [
+            "<<\n  /Length 23652\n  /Filter /FlateDecode\n  /Length1 44744\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "51": {
+        "insn_list": [
+            "<<\n  /StemV 88\n  /FontName /OAIEOA+Arial\n  /FontStretch /Normal\n  /FontFile2 50 0 R\n  /FontWeight 400\n  /Flags 32\n  /Descent -211\n  /FontBBox [ -665 -325 2000 1006 ]\n  /Ascent 905\n  /FontFamily (Arial)\n  /CapHeight 718\n  /XHeight 515\n  /Type /FontDescriptor\n  /ItalicAngle 0\n>>"
+        ],
+        "out_edge_list": [
+            5
+        ]
+    },
+    "52": {
+        "insn_list": [
+            "<<\n  /StemV 0\n  /FontName /TimesNewRoman\n  /FontStretch /Normal\n  /FontWeight 400\n  /Flags 34\n  /Descent -216\n  /FontBBox [ -568 -307 2000 1007 ]\n  /Ascent 891\n  /FontFamily (Times New Roman)\n  /CapHeight 0\n  /Type /FontDescriptor\n  /ItalicAngle 0\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "53": {
+        "insn_list": [
+            "<<\n  /Length 15845\n  /Filter /FlateDecode\n  /Length1 32560\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "54": {
+        "insn_list": [
+            "<<\n  /StemV 133\n  /FontName /OAIFCB+Arial,Bold\n  /FontStretch /Normal\n  /FontFile2 53 0 R\n  /FontWeight 700\n  /Flags 4\n  /Descent -211\n  /FontBBox [ -628 -376 2000 1010 ]\n  /Ascent 905\n  /FontFamily (Arial)\n  /CapHeight 0\n  /XHeight 515\n  /Type /FontDescriptor\n  /ItalicAngle 0\n>>"
+        ],
+        "out_edge_list": [
+            5
+        ]
+    },
+    "55": {
+        "insn_list": [
+            "<<\n  /Subtype /CIDFontType2\n  /FontDescriptor 54 0 R\n  /BaseFont /OAIFCB+Arial,Bold\n  /W [ 572 [ 722 ] 574 [ 712 ] 577 [ 626 ] 580 [ 610 ] 583 [ 722 ]\n      587 [ 722 ] 589 [ 622 ] 593 [ 703 ] 602 [ 556 618 615 417\n        635 556 ] 609 [ 497 615 ] 611 [ 615 500 635 740 604 611\n        604 611 556 490 556 875 556 615 581 833 844 ] 629 [ 854\n        615 ] 632 [ 854 583 ] ]\n  /CIDToGIDMap /Identity\n  /CIDSystemInfo <<\n    /Supplement 0\n    /Ordering (Identity)\n    /Registry (Adobe)\n  >>\n  /DW 1000\n  /Type /Font\n>>"
+        ],
+        "out_edge_list": [
+            5
+        ]
+    },
+    "56": {
+        "insn_list": [
+            "<<\n  /Length 307\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "57": {
+        "insn_list": [
+            "<<\n  /Length 10143\n  /Filter /FlateDecode\n  /Length1 25332\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "58": {
+        "insn_list": [
+            "<<\n  /StemV 133\n  /FontName /OAIFDC+Arial,Bold\n  /FontStretch /Normal\n  /FontFile2 57 0 R\n  /FontWeight 700\n  /Flags 32\n  /Descent -211\n  /FontBBox [ -628 -376 2000 1010 ]\n  /Ascent 905\n  /FontFamily (Arial)\n  /CapHeight 0\n  /XHeight 515\n  /Type /FontDescriptor\n  /ItalicAngle 0\n>>"
+        ],
+        "out_edge_list": [
+            5
+        ]
+    },
+    "59": {
+        "insn_list": [
+            "<<\n  /Length 3216\n  /Filter /FlateDecode\n  /Length1 6084\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "60": {
+        "insn_list": [
+            "<<\n  /StemV 0\n  /FontName /OAIFLB+Wingdings\n  /FontStretch /Normal\n  /FontFile2 59 0 R\n  /FontWeight 400\n  /Flags 4\n  /Descent -210\n  /FontBBox [ 0 -211 1359 899 ]\n  /Ascent 898\n  /FontFamily (Wingdings)\n  /CapHeight 0\n  /Type /FontDescriptor\n  /ItalicAngle 0\n>>"
+        ],
+        "out_edge_list": [
+            5
+        ]
+    },
+    "61": {
+        "insn_list": [
+            "<<\n  /Subtype /CIDFontType2\n  /FontDescriptor 60 0 R\n  /BaseFont /OAIFLB+Wingdings\n  /W [ 133 [ 891 ] ]\n  /CIDToGIDMap /Identity\n  /CIDSystemInfo <<\n    /Supplement 0\n    /Ordering (Identity)\n    /Registry (Adobe)\n  >>\n  /DW 1000\n  /Type /Font\n>>"
+        ],
+        "out_edge_list": [
+            6
+        ]
+    },
+    "62": {
+        "insn_list": [
+            "<<\n  /Subtype /Type1C\n  /Length 227\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "63": {
+        "insn_list": [
+            "<<\n  /StemV 85\n  /FontName /OAIFFC+Symbol\n  /FontFile3 62 0 R\n  /Flags 4\n  /Descent 0\n  /FontBBox [ -180 -293 1090 1010 ]\n  /Ascent 0\n  /CapHeight 0\n  /Type /FontDescriptor\n  /ItalicAngle 0\n  /StemH 92\n  /CharSet (/space/bullet)\n>>"
+        ],
+        "out_edge_list": [
+            6
+        ]
+    },
+    "64": {
+        "insn_list": [
+            "<<\n  /Length 215\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "65": {
+        "insn_list": [
+            "<<\n  /Differences [ 128 /bullet ]\n  /Type /Encoding\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "66": {
+        "insn_list": [
+            "<<\n  /OPM 1\n  /OP false\n  /op false\n  /Type /ExtGState\n  /SA false\n  /SM .02\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "67": {
+        "insn_list": [
+            "<<\n  /Length 178\n  /Filter /FlateDecode\n  /I 202\n  /L 186\n  /S 43\n>>"
+        ],
+        "out_edge_list": []
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "1": {
+        "insn_list": [
+            "<<\n  /OpenAction <<\n    /JS (this.New_Script\\(\\))\n    /S /JavaScript\n  >>\n  /Threads 2 0 R\n  /Outlines 3 0 R\n  /Pages 4 0 R\n  /ViewerPreferences <<\n    /PageDirection /L2R\n  >>\n  /PageLayout /SinglePage\n  /AcroForm 5 0 R\n  /Dests 6 0 R\n  /Names 7 0 R\n  /Type /Catalog\n>>"
+        ],
+        "out_edge_list": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ]
+    },
+    "2": {
+        "insn_list": [
+            "[ ]"
+        ],
+        "out_edge_list": []
+    },
+    "3": {
+        "insn_list": [
+            "<<\n  /Type /Outlines\n  /Count 0\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "4": {
+        "insn_list": [
+            "<<\n  /Resources 8 0 R\n  /Kids [ 9 0 R ]\n  /Type /Pages\n  /Count 1\n>>"
+        ],
+        "out_edge_list": [
+            8,
+            9
+        ]
+    },
+    "5": {
+        "insn_list": [
+            "<<\n  /Fields [ ]\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "6": {
+        "insn_list": [
+            "<<\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "7": {
+        "insn_list": [
+            "<<\n  /JavaScript 10 0 R\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "8": {
+        "insn_list": [
+            "<<\n  /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "9": {
+        "insn_list": [
+            "<<\n  /Rotate 0\n  /Parent 4 0 R\n  /MediaBox [ 0 0 595.28 841.89 ]\n  /TrimBox [ 0 0 595.28 841.89 ]\n  /Resources 8 0 R\n  /Type /Page\n  /Contents 11 0 R\n>>"
+        ],
+        "out_edge_list": [
+            4,
+            8,
+            1
+        ]
+    },
+    "10": {
+        "insn_list": [
+            "<<\n  /Names [ (New_Script) 12 0 R ]\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "11": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /Length 36\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "12": {
+        "insn_list": [
+            "<<\n  /JS 13 0 R\n  /S /JavaScript\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "13": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /Length 2756\n>>"
+        ],
+        "out_edge_list": []
+    }
+}

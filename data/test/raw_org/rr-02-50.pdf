@@ -1,0 +1,269 @@
+{
+    "1": {
+        "insn_list": [
+            "<<\n  /Type /Page\n  /Parent 18 0 R\n  /Resources 2 0 R\n  /Contents 3 0 R\n  /MediaBox [ 0 0 612 792 ]\n  /CropBox [ 0 0 612 792 ]\n  /Rotate 0\n>>"
+        ],
+        "out_edge_list": [
+            1,
+            2,
+            3
+        ]
+    },
+    "2": {
+        "insn_list": [
+            "<<\n  /ProcSet [ /PDF /Text ]\n  /Font <<\n    /TT2 26 0 R\n  >>\n  /ExtGState <<\n    /GS1 30 0 R\n  >>\n  /ColorSpace <<\n    /Cs6 27 0 R\n  >>\n>>"
+        ],
+        "out_edge_list": [
+            2,
+            3,
+            2
+        ]
+    },
+    "3": {
+        "insn_list": [
+            "<<\n  /Length 1879\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "4": {
+        "insn_list": [
+            "<<\n  /Type /Page\n  /Parent 18 0 R\n  /Resources 5 0 R\n  /Contents 6 0 R\n  /MediaBox [ 0 0 612 792 ]\n  /CropBox [ 0 0 612 792 ]\n  /Rotate 0\n>>"
+        ],
+        "out_edge_list": [
+            1,
+            5,
+            6
+        ]
+    },
+    "5": {
+        "insn_list": [
+            "<<\n  /ProcSet [ /PDF /Text ]\n  /Font <<\n    /TT2 26 0 R\n  >>\n  /ExtGState <<\n    /GS1 30 0 R\n  >>\n  /ColorSpace <<\n    /Cs6 27 0 R\n  >>\n>>"
+        ],
+        "out_edge_list": [
+            2,
+            3,
+            2
+        ]
+    },
+    "6": {
+        "insn_list": [
+            "<<\n  /Length 1632\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "7": {
+        "insn_list": [
+            "<<\n  /Type /Page\n  /Parent 18 0 R\n  /Resources 8 0 R\n  /Contents 9 0 R\n  /MediaBox [ 0 0 612 792 ]\n  /CropBox [ 0 0 612 792 ]\n  /Rotate 0\n>>"
+        ],
+        "out_edge_list": [
+            1,
+            8,
+            9
+        ]
+    },
+    "8": {
+        "insn_list": [
+            "<<\n  /ProcSet [ /PDF /Text ]\n  /Font <<\n    /TT2 26 0 R\n  >>\n  /ExtGState <<\n    /GS1 30 0 R\n  >>\n  /ColorSpace <<\n    /Cs6 27 0 R\n  >>\n>>"
+        ],
+        "out_edge_list": [
+            2,
+            3,
+            2
+        ]
+    },
+    "9": {
+        "insn_list": [
+            "<<\n  /Length 1572\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "10": {
+        "insn_list": [
+            "<<\n  /Type /Page\n  /Parent 18 0 R\n  /Resources 11 0 R\n  /Contents 12 0 R\n  /MediaBox [ 0 0 612 792 ]\n  /CropBox [ 0 0 612 792 ]\n  /Rotate 0\n>>"
+        ],
+        "out_edge_list": [
+            1,
+            1,
+            1
+        ]
+    },
+    "11": {
+        "insn_list": [
+            "<<\n  /ProcSet [ /PDF /Text ]\n  /Font <<\n    /TT2 26 0 R\n  >>\n  /ExtGState <<\n    /GS1 30 0 R\n  >>\n  /ColorSpace <<\n    /Cs6 27 0 R\n  >>\n>>"
+        ],
+        "out_edge_list": [
+            2,
+            3,
+            2
+        ]
+    },
+    "12": {
+        "insn_list": [
+            "<<\n  /Length 1838\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "13": {
+        "insn_list": [
+            "<<\n  /Type /Page\n  /Parent 18 0 R\n  /Resources 14 0 R\n  /Contents 15 0 R\n  /MediaBox [ 0 0 612 792 ]\n  /CropBox [ 0 0 612 792 ]\n  /Rotate 0\n>>"
+        ],
+        "out_edge_list": [
+            1,
+            1,
+            1
+        ]
+    },
+    "14": {
+        "insn_list": [
+            "<<\n  /ProcSet [ /PDF /Text ]\n  /Font <<\n    /TT2 26 0 R\n  >>\n  /ExtGState <<\n    /GS1 30 0 R\n  >>\n  /ColorSpace <<\n    /Cs6 27 0 R\n  >>\n>>"
+        ],
+        "out_edge_list": [
+            2,
+            3,
+            2
+        ]
+    },
+    "15": {
+        "insn_list": [
+            "<<\n  /Length 381\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "16": {
+        "insn_list": [
+            "<<\n  /S /D\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "17": {
+        "insn_list": [
+            "<<\n  /Nums [ 0 16 0 R ]\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "18": {
+        "insn_list": [
+            "<<\n  /Type /Pages\n  /Kids [ 23 0 R 1 0 R 4 0 R 7 0 R 10 0 R 13 0 R ]\n  /Count 6\n>>"
+        ],
+        "out_edge_list": [
+            2,
+            1,
+            4,
+            7,
+            1,
+            1
+        ]
+    },
+    "19": {
+        "insn_list": [
+            "<<\n  /CreationDate (D:20020719131506-04'00')\n  /ModDate (D:20020719131506-04'00')\n  /Producer (Acrobat Distiller 5.0 \\(Windows\\))\n  /Creator (AdobePS5.dll Version 5.2)\n  /Title (E:\\\\2002 Revenue Rulings\\\\fortradefinalversion717.wpd)\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "20": {
+        "insn_list": [
+            "<<\n  /Type /Metadata\n  /Subtype /XML\n  /Length 1127\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "21": {
+        "insn_list": [
+            "<<\n  /Linearized 1\n  /O 23\n  /H [ 700 197 ]\n  /L 40217\n  /E 29086\n  /N 6\n  /T 39679\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "22": {
+        "insn_list": [
+            "<<\n  /Type /Catalog\n  /Pages 18 0 R\n  /Metadata 20 0 R\n  /PageLabels 17 0 R\n>>"
+        ],
+        "out_edge_list": [
+            1,
+            2,
+            1
+        ]
+    },
+    "23": {
+        "insn_list": [
+            "<<\n  /Type /Page\n  /Parent 18 0 R\n  /Resources 24 0 R\n  /Contents 28 0 R\n  /MediaBox [ 0 0 612 792 ]\n  /CropBox [ 0 0 612 792 ]\n  /Rotate 0\n>>"
+        ],
+        "out_edge_list": [
+            1,
+            2,
+            2
+        ]
+    },
+    "24": {
+        "insn_list": [
+            "<<\n  /ProcSet [ /PDF /Text ]\n  /Font <<\n    /TT2 26 0 R\n  >>\n  /ExtGState <<\n    /GS1 30 0 R\n  >>\n  /ColorSpace <<\n    /Cs6 27 0 R\n  >>\n>>"
+        ],
+        "out_edge_list": [
+            2,
+            3,
+            2
+        ]
+    },
+    "25": {
+        "insn_list": [
+            "<<\n  /Type /FontDescriptor\n  /Ascent 905\n  /CapHeight 718\n  /Descent -211\n  /Flags 32\n  /FontBBox [ -665 -325 2028 1037 ]\n  /FontName /KDIPMC+Arial\n  /ItalicAngle 0\n  /StemV 94\n  /XHeight 515\n  /FontFile2 29 0 R\n>>"
+        ],
+        "out_edge_list": [
+            2
+        ]
+    },
+    "26": {
+        "insn_list": [
+            "<<\n  /Type /Font\n  /Subtype /TrueType\n  /FirstChar 32\n  /LastChar 167\n  /Widths [ 278 0 355 556 0 0 0 0 333 333 0 0 278 333 278 0 556\n      556 556 556 556 556 556 556 556 556 278 278 0 0 0 0 0 667\n      667 722 722 667 611 778 722 278 500 0 556 833 722 778 667\n      0 722 667 611 722 667 944 0 667 0 0 0 0 0 0 0 556 556 500\n      556 556 278 556 556 222 0 500 222 833 556 556 556 556 333\n      500 278 556 500 722 500 500 0 0 0 0 0 0 0 0 0 0 0 0 0 0\n      0 0 0 0 0 0 0 0 0 0 222 333 333 0 0 0 0 0 0 0 0 0 0 0 0\n      0 0 0 0 0 0 556 ]\n  /Encoding /WinAnsiEncoding\n  /BaseFont /KDIPMC+Arial\n  /FontDescriptor 25 0 R\n>>"
+        ],
+        "out_edge_list": [
+            2
+        ]
+    },
+    "27": {
+        "insn_list": [
+            "[ /ICCBased 31 0 R ]"
+        ],
+        "out_edge_list": [
+            3
+        ]
+    },
+    "28": {
+        "insn_list": [
+            "<<\n  /Length 1551\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "29": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /Length 22421\n  /Length1 36912\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "30": {
+        "insn_list": [
+            "<<\n  /Type /ExtGState\n  /SA false\n  /SM .02\n  /TR2 /Default\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "31": {
+        "insn_list": [
+            "<<\n  /N 3\n  /Alternate /DeviceRGB\n  /Length 2575\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "32": {
+        "insn_list": [
+            "<<\n  /S 63\n  /L 106\n  /Filter /FlateDecode\n  /Length 33 0 R\n>>"
+        ],
+        "out_edge_list": [
+            3
+        ]
+    },
+    "33": {
+        "insn_list": [
+            "86"
+        ],
+        "out_edge_list": []
+    }
+}

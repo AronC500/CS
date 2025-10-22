@@ -1,0 +1,736 @@
+{
+    "1": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /First 15\n  /Length 633\n  /N 3\n  /Type /ObjStm\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "2": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /First 406\n  /Length 915\n  /N 52\n  /Type /ObjStm\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "3": {
+        "insn_list": [
+            "<<\n  /Length 4113\n  /Subtype /XML\n  /Type /Metadata\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "4": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /First 5\n  /Length 50\n  /N 1\n  /Type /ObjStm\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "5": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /First 5\n  /Length 251\n  /N 1\n  /Type /ObjStm\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "6": {
+        "insn_list": [
+            "<<\n  /DecodeParms <<\n    /Columns 5\n    /Predictor 12\n  >>\n  /Filter /FlateDecode\n  /ID [ <5276228069181E439F8E88E80B42CDBC> (\\204\\320J21,\\276D\\260-X\\217= '-) ]\n  /Info 63 0 R\n  /Length 62\n  /Root 65 0 R\n  /Size 64\n  /Type /XRef\n  /W [ 1 3 1 ]\n>>"
+        ],
+        "out_edge_list": [
+            6,
+            6
+        ]
+    },
+    "7": {
+        "insn_list": [
+            "<<\n  /BaseFont /Helvetica\n  /Encoding 9 0 R\n  /Name /Helv\n  /Subtype /Type1\n  /Type /Font\n>>"
+        ],
+        "out_edge_list": [
+            9
+        ]
+    },
+    "8": {
+        "insn_list": [
+            "<<\n  /BaseFont /ZapfDingbats\n  /Name /ZaDb\n  /Subtype /Type1\n  /Type /Font\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "9": {
+        "insn_list": [
+            "<<\n  /Differences [ 24 /breve /caron /circumflex /dotaccent /hungarumlaut\n      /ogonek /ring /tilde 39 /quotesingle 96 /grave 128 /bullet\n      /dagger /daggerdbl /ellipsis /emdash /endash /florin /fraction\n      /guilsinglleft /guilsinglright /minus /perthousand /quotedblbase\n      /quotedblleft /quotedblright /quoteleft /quoteright /quotesinglbase\n      /trademark /fi /fl /Lslash /OE /Scaron /Ydieresis /Zcaron\n      /dotlessi /lslash /oe /scaron /zcaron 160 /Euro 164 /currency\n      166 /brokenbar 168 /dieresis /copyright /ordfeminine 172\n      /logicalnot /.notdef /registered /macron /degree /plusminus\n      /twosuperior /threesuperior /acute /mu 183 /periodcentered\n      /cedilla /onesuperior /ordmasculine 188 /onequarter /onehalf\n      /threequarters 192 /Agrave /Aacute /Acircumflex /Atilde\n      /Adieresis /Aring /AE /Ccedilla /Egrave /Eacute /Ecircumflex\n      /Edieresis /Igrave /Iacute /Icircumflex /Idieresis /Eth\n      /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis\n      /multiply /Oslash /Ugrave /Uacute /Ucircumflex /Udieresis\n      /Yacute /Thorn /germandbls /agrave /aacute /acircumflex\n      /atilde /adieresis /aring /ae /ccedilla /egrave /eacute\n      /ecircumflex /edieresis /igrave /iacute /icircumflex /idieresis\n      /eth /ntilde /ograve /oacute /ocircumflex /otilde /odieresis\n      /divide /oslash /ugrave /uacute /ucircumflex /udieresis\n      /yacute /thorn /ydieresis ]\n  /Type /Encoding\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "10": {
+        "insn_list": [
+            "<<\n  /ClassMap 11 0 R\n  /ParentTree 12 0 R\n  /ParentTreeNextKey 1\n  /RoleMap 13 0 R\n  /Type /StructTreeRoot\n>>"
+        ],
+        "out_edge_list": [
+            1,
+            1,
+            1
+        ]
+    },
+    "11": {
+        "insn_list": [
+            "<<\n  /CM1 14 0 R\n  /CM10 15 0 R\n  /CM11 16 0 R\n  /CM12 17 0 R\n  /CM13 18 0 R\n  /CM14 19 0 R\n  /CM15 20 0 R\n  /CM16 21 0 R\n  /CM17 22 0 R\n  /CM18 23 0 R\n  /CM19 24 0 R\n  /CM2 25 0 R\n  /CM20 26 0 R\n  /CM21 27 0 R\n  /CM22 28 0 R\n  /CM23 29 0 R\n  /CM24 30 0 R\n  /CM25 31 0 R\n  /CM26 32 0 R\n  /CM27 33 0 R\n  /CM28 34 0 R\n  /CM29 35 0 R\n  /CM3 36 0 R\n  /CM30 37 0 R\n  /CM31 38 0 R\n  /CM32 39 0 R\n  /CM33 40 0 R\n  /CM34 41 0 R\n  /CM35 42 0 R\n  /CM36 43 0 R\n  /CM37 44 0 R\n  /CM38 45 0 R\n  /CM39 46 0 R\n  /CM4 47 0 R\n  /CM40 48 0 R\n  /CM41 49 0 R\n  /CM42 50 0 R\n  /CM43 51 0 R\n  /CM44 52 0 R\n  /CM45 53 0 R\n  /CM47 54 0 R\n  /CM48 55 0 R\n  /CM49 56 0 R\n  /CM5 57 0 R\n  /CM6 58 0 R\n  /CM7 59 0 R\n  /CM8 60 0 R\n  /CM9 61 0 R\n>>"
+        ],
+        "out_edge_list": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            6,
+            6
+        ]
+    },
+    "12": {
+        "insn_list": [
+            "<<\n  /Nums [ 0 [ null null null null null null null null null null\n        null null null null null null null null null null null\n        null ] ]\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "13": {
+        "insn_list": [
+            "<<\n  /HyphenSpan /Span\n  /LI_Label /Lbl\n  /LI_Title /LBody\n  /StyleSpan /Span\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "14": {
+        "insn_list": [
+            "<<\n  /EndIndent 37.5\n  /LineHeight 17.125\n  /O /Layout\n  /StartIndent 143.125\n  /TextAlign /Justify\n  /TextIndent -83.5\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "15": {
+        "insn_list": [
+            "<<\n  /LineHeight 16.375\n  /O /Layout\n  /TextAlign /Center\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "16": {
+        "insn_list": [
+            "<<\n  /O /Layout\n  /TextAlign /Justify\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "17": {
+        "insn_list": [
+            "<<\n  /O /Layout\n  /StartIndent 319.375\n  /TextAlign /Justify\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "18": {
+        "insn_list": [
+            "<<\n  /LineHeight 12.75\n  /O /Layout\n  /TextAlign /Justify\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "19": {
+        "insn_list": [
+            "<<\n  /LineHeight 12.625\n  /O /Layout\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "20": {
+        "insn_list": [
+            "<<\n  /O /Layout\n  /StartIndent 20.75\n  /TextAlign /Justify\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "21": {
+        "insn_list": [
+            "<<\n  /LineHeight 15.5\n  /O /Layout\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "22": {
+        "insn_list": [
+            "<<\n  /EndIndent 26.75\n  /LineHeight 13.875\n  /O /Layout\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "23": {
+        "insn_list": [
+            "<<\n  /O /Layout\n  /StartIndent 16.625\n  /TextAlign /Justify\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "24": {
+        "insn_list": [
+            "<<\n  /EndIndent 12.125\n  /LineHeight 11.625\n  /O /Layout\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "25": {
+        "insn_list": [
+            "<<\n  /O /Layout\n  /TextAlign /Center\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "26": {
+        "insn_list": [
+            "<<\n  /LineHeight 28.625\n  /O /Layout\n  /TextAlign /Justify\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "27": {
+        "insn_list": [
+            "<<\n  /O /Layout\n  /StartIndent 218\n  /TextAlign /None\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "28": {
+        "insn_list": [
+            "<<\n  /O /Layout\n  /StartIndent 6.5\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "29": {
+        "insn_list": [
+            "<<\n  /LineHeight 17.5\n  /O /Layout\n  /StartIndent 147.5\n  /TextAlign /Justify\n  /TextIndent -117.375\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "30": {
+        "insn_list": [
+            "<<\n  /EndIndent 4.5\n  /LineHeight 12\n  /O /Layout\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "31": {
+        "insn_list": [
+            "<<\n  /O /Layout\n  /StartIndent 225.125\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "32": {
+        "insn_list": [
+            "<<\n  /EndIndent 8.375\n  /LineHeight 13.125\n  /O /Layout\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "33": {
+        "insn_list": [
+            "<<\n  /LineHeight 31\n  /O /Layout\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "34": {
+        "insn_list": [
+            "<<\n  /O /Layout\n  /StartIndent 220.75\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "35": {
+        "insn_list": [
+            "<<\n  /O /Layout\n  /StartIndent 379.875\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "36": {
+        "insn_list": [
+            "<<\n  /LineHeight 14.125\n  /O /Layout\n  /TextAlign /Justify\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "37": {
+        "insn_list": [
+            "<<\n  /O /Layout\n  /StartIndent 412.875\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "38": {
+        "insn_list": [
+            "<<\n  /O /Layout\n  /SpaceAfter 34.625\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "39": {
+        "insn_list": [
+            "<<\n  /O /Layout\n  /SpaceAfter 30.25\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "40": {
+        "insn_list": [
+            "<<\n  /O /Layout\n  /SpaceAfter 17.5\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "41": {
+        "insn_list": [
+            "<<\n  /O /Layout\n  /SpaceAfter 13.625\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "42": {
+        "insn_list": [
+            "<<\n  /O /Layout\n  /SpaceAfter -6.49998\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "43": {
+        "insn_list": [
+            "<<\n  /O /Layout\n  /SpaceAfter -4\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "44": {
+        "insn_list": [
+            "<<\n  /O /Layout\n  /SpaceAfter 8\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "45": {
+        "insn_list": [
+            "<<\n  /O /Layout\n  /SpaceAfter 43.25\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "46": {
+        "insn_list": [
+            "<<\n  /O /Layout\n  /SpaceAfter -13.25\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "47": {
+        "insn_list": [
+            "<<\n  /LineHeight 14\n  /O /Layout\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "48": {
+        "insn_list": [
+            "<<\n  /O /Layout\n  /SpaceAfter 3.5\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "49": {
+        "insn_list": [
+            "<<\n  /O /Layout\n  /SpaceAfter 11\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "50": {
+        "insn_list": [
+            "<<\n  /O /Layout\n  /SpaceAfter -26.375\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "51": {
+        "insn_list": [
+            "<<\n  /O /Layout\n  /SpaceAfter 38.125\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "52": {
+        "insn_list": [
+            "<<\n  /O /Layout\n  /SpaceAfter 20.625\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "53": {
+        "insn_list": [
+            "<<\n  /O /Layout\n  /SpaceAfter 26.125\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "54": {
+        "insn_list": [
+            "<<\n  /O /Layout\n  /SpaceAfter 47\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "55": {
+        "insn_list": [
+            "<<\n  /O /Layout\n  /SpaceAfter -10.125\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "56": {
+        "insn_list": [
+            "<<\n  /O /Layout\n  /SpaceAfter 50.25\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "57": {
+        "insn_list": [
+            "<<\n  /EndIndent 42.625\n  /LineHeight 12\n  /O /Layout\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "58": {
+        "insn_list": [
+            "<<\n  /O /Layout\n  /StartIndent 405.875\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "59": {
+        "insn_list": [
+            "<<\n  /EndIndent 7.75\n  /LineHeight 11.625\n  /O /Layout\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "60": {
+        "insn_list": [
+            "<<\n  /LineHeight 29.125\n  /O /Layout\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "61": {
+        "insn_list": [
+            "<<\n  /O /Layout\n  /StartIndent 29.875\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "62": {
+        "insn_list": [
+            "<<\n  /Count 1\n  /Kids [ 66 0 R ]\n  /Type /Pages\n>>"
+        ],
+        "out_edge_list": [
+            6
+        ]
+    },
+    "63": {
+        "insn_list": [
+            "<<\n  /Author (U.S. Copyright Office)\n  /CreationDate (D:20120511094416-04'00')\n  /Creator (FUJITSU fi-6230dj)\n  /Keywords (bishopaccountability.org_inc)\n  /ModDate (D:20120511094446-04'00')\n  /Producer (Adobe Acrobat 9.0 Paper Capture Plug-in)\n  /Subject (Interim Designation of Agent to Receive Notification of Claimed Infringement)\n  /Title (bishop_account)\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "64": {
+        "insn_list": [
+            "<<\n  /Linearized 1\n  /L 143189\n  /O 66\n  /E 136459\n  /N 1\n  /T 142872\n  /H [ 489 203 ]\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "65": {
+        "insn_list": [
+            "<<\n  /AcroForm 84 0 R\n  /MarkInfo <<\n    /Marked true\n  >>\n  /Metadata 3 0 R\n  /Pages 62 0 R\n  /StructTreeRoot 10 0 R\n  /Type /Catalog\n>>"
+        ],
+        "out_edge_list": [
+            8,
+            3,
+            6,
+            1
+        ]
+    },
+    "66": {
+        "insn_list": [
+            "<<\n  /Annots 85 0 R\n  /Contents [ 68 0 R 69 0 R 70 0 R 71 0 R 72 0 R 73 0 R 74 0 R\n      75 0 R ]\n  /CropBox [ 0 0 606.1 792 ]\n  /MediaBox [ 0 0 606.1 792 ]\n  /Parent 62 0 R\n  /Resources <<\n    /Font <<\n      /C0_0 92 0 R\n      /C2_0 97 0 R\n    >>\n    /ProcSet [ /PDF /Text /ImageB ]\n    /XObject <<\n      /Fm0 81 0 R\n      /Im0 82 0 R\n    >>\n  >>\n  /Rotate 0\n  /StructParents 0\n  /Tabs /S\n  /Type /Page\n>>"
+        ],
+        "out_edge_list": [
+            8,
+            6,
+            6,
+            7,
+            7,
+            7,
+            7,
+            7,
+            7,
+            6,
+            9,
+            9,
+            8,
+            8
+        ]
+    },
+    "67": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /First 136\n  /Length 3400\n  /N 18\n  /Type /ObjStm\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "68": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /Length 738\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "69": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /Length 655\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "70": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /Length 576\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "71": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /Length 633\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "72": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /Length 580\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "73": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /Length 616\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "74": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /Length 553\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "75": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /Length 670\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "76": {
+        "insn_list": [
+            "<<\n  /Filter /ASCIIHexDecode\n  /Length 565\n  /Subtype /CIDFontType0C\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "77": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /Length 1789\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "78": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /Length 11\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "79": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /Length 43090\n  /Length1 68151\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "80": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /Length 586\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "81": {
+        "insn_list": [
+            "<<\n  /BBox [ 56.292 254.21 212.353 288.392 ]\n  /Filter /FlateDecode\n  /FormType 1\n  /Length 71\n  /Matrix [ 1 0 0 1 -56.292 -254.21 ]\n  /Resources <<\n    /ProcSet [ /PDF ]\n  >>\n  /Subtype /Form\n  /Type /XObject\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "82": {
+        "insn_list": [
+            "<<\n  /BitsPerComponent 1\n  /ColorSpace /DeviceGray\n  /Filter /FlateDecode\n  /Height 3289\n  /Length 79364\n  /Subtype /Image\n  /Type /XObject\n  /Width 2517\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "83": {
+        "insn_list": [
+            "<<\n  /DecodeParms <<\n    /Columns 4\n    /Predictor 12\n  >>\n  /Filter /FlateDecode\n  /ID [ <5276228069181E439F8E88E80B42CDBC> (\\204\\320J21,\\276D\\260-X\\217= '-) ]\n  /Index [ 64 39 ]\n  /Info 63 0 R\n  /Length 91\n  /Prev 142873\n  /Root 65 0 R\n  /Size 103\n  /Type /XRef\n  /W [ 1 2 1 ]\n>>"
+        ],
+        "out_edge_list": [
+            6,
+            6
+        ]
+    },
+    "84": {
+        "insn_list": [
+            "<<\n  /DA (/Helv 0 Tf 0 g )\n  /DR <<\n    /Encoding <<\n      /PDFDocEncoding 9 0 R\n    >>\n    /Font <<\n      /Helv 7 0 R\n      /ZaDb 8 0 R\n    >>\n  >>\n  /Fields [ ]\n>>"
+        ],
+        "out_edge_list": [
+            9,
+            7,
+            8
+        ]
+    },
+    "85": {
+        "insn_list": [
+            "[ 86 0 R 87 0 R 88 0 R 89 0 R ]"
+        ],
+        "out_edge_list": [
+            8,
+            8,
+            8,
+            8
+        ]
+    },
+    "86": {
+        "insn_list": [
+            "<<\n  /A 98 0 R\n  /BS <<\n    /S /S\n    /Type /Border\n    /W 0\n  >>\n  /Border [ 0 0 0 ]\n  /C [ 0 1 0 ]\n  /P 66 0 R\n  /Rect [ 77.9968 136.347 257.99 146.786 ]\n  /StructParent 100\n  /Subtype /Link\n  /Type /Annot\n>>"
+        ],
+        "out_edge_list": [
+            9,
+            6
+        ]
+    },
+    "87": {
+        "insn_list": [
+            "<<\n  /A 99 0 R\n  /BS <<\n    /S /S\n    /Type /Border\n    /W 0\n  >>\n  /Border [ 0 0 0 ]\n  /C [ 0 1 0 ]\n  /P 66 0 R\n  /Rect [ 374.145 242.782 493.54 253.222 ]\n  /StructParent 99\n  /Subtype /Link\n  /Type /Annot\n>>"
+        ],
+        "out_edge_list": [
+            9,
+            6
+        ]
+    },
+    "88": {
+        "insn_list": [
+            "<<\n  /A 100 0 R\n  /BS <<\n    /S /S\n    /Type /Border\n    /W 0\n  >>\n  /Border [ 0 0 0 ]\n  /C [ 0 1 0 ]\n  /P 66 0 R\n  /Rect [ 274.909 315.259 426.703 325.699 ]\n  /StructParent 98\n  /Subtype /Link\n  /Type /Annot\n>>"
+        ],
+        "out_edge_list": [
+            1,
+            6
+        ]
+    },
+    "89": {
+        "insn_list": [
+            "<<\n  /A 101 0 R\n  /BS <<\n    /S /S\n    /Type /Border\n    /W 0\n  >>\n  /Border [ 0 0 0 ]\n  /C [ 0 1 0 ]\n  /P 66 0 R\n  /Rect [ 280.669 643.206 400.544 653.646 ]\n  /StructParent 97\n  /Subtype /Link\n  /Type /Annot\n>>"
+        ],
+        "out_edge_list": [
+            1,
+            6
+        ]
+    },
+    "90": {
+        "insn_list": [
+            "<<\n  /Ascent 1000\n  /CapHeight 1000\n  /Descent -250\n  /Flags 4\n  /FontBBox [ 0 -250 1000 1000 ]\n  /FontFile3 76 0 R\n  /FontName /HiddenHorzOCR\n  /ItalicAngle 0\n  /MissingWidth 1000\n  /StemH 100\n  /StemV 100\n  /Type /FontDescriptor\n  /XHeight 1000\n>>"
+        ],
+        "out_edge_list": [
+            7
+        ]
+    },
+    "91": {
+        "insn_list": [
+            "<<\n  /BaseFont /HiddenHorzOCR\n  /CIDSystemInfo <<\n    /Ordering (Identity)\n    /Registry (Adobe)\n    /Supplement 0\n  >>\n  /DW 1000\n  /FontDescriptor 90 0 R\n  /Subtype /CIDFontType0\n  /Type /Font\n>>"
+        ],
+        "out_edge_list": [
+            9
+        ]
+    },
+    "92": {
+        "insn_list": [
+            "<<\n  /BaseFont /HiddenHorzOCR\n  /DescendantFonts [ 91 0 R ]\n  /Encoding /Identity-H\n  /Subtype /Type0\n  /ToUnicode 77 0 R\n  /Type /Font\n>>"
+        ],
+        "out_edge_list": [
+            9,
+            7
+        ]
+    },
+    "93": {
+        "insn_list": [
+            "<<\n  /Ordering (Identity)\n  /Registry (Adobe)\n  /Supplement 0\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "94": {
+        "insn_list": [
+            "<<\n  /Ascent 1007\n  /CIDSet 78 0 R\n  /CapHeight 663\n  /Descent -307\n  /Flags 6\n  /FontBBox [ -568 -307 2000 1007 ]\n  /FontFamily (Times New Roman)\n  /FontFile2 79 0 R\n  /FontName /WZTYSV+TimesNewRoman\n  /FontStretch /Normal\n  /FontWeight 400\n  /ItalicAngle 0\n  /StemV 80\n  /Type /FontDescriptor\n  /XHeight 448\n>>"
+        ],
+        "out_edge_list": [
+            7,
+            7
+        ]
+    },
+    "95": {
+        "insn_list": [
+            "<<\n  /BaseFont /WZTYSV+TimesNewRoman\n  /CIDSystemInfo 93 0 R\n  /CIDToGIDMap /Identity\n  /DW 1000\n  /FontDescriptor 94 0 R\n  /Subtype /CIDFontType2\n  /Type /Font\n  /W [ 0 [ 778 0 ] 2 3 250 4 [ 333 408 ] 6 7 500 8 [ 833 778 180 ]\n      11 12 333 13 [ 500 564 250 333 250 278 ] 19 28 500 29 30\n      278 31 33 564 34 [ 444 921 722 ] 37 38 667 39 [ 722 611\n        556 ] 42 43 722 44 [ 333 389 722 611 889 ] 49 50 722 51\n      [ 556 722 667 556 611 ] 56 57 722 58 [ 944 ] 59 60 722 61\n      [ 611 333 278 333 469 500 333 444 500 444 500 444 333 ]\n      74 75 500 76 77 278 78 [ 500 278 778 ] 81 84 500 85 [ 333\n        389 278 ] 88 89 500 90 [ 722 ] 91 92 500 93 [ 444 480\n        200 480 541 ] 98 99 722 100 [ 667 611 ] 102 104 722 105\n      115 444 116 119 278 120 130 500 131 [ 400 ] 132 134 500\n      135 [ 350 453 500 ] 138 139 760 140 [ 980 ] 141 142 333\n      143 [ 549 889 722 713 ] 147 149 549 150 [ 500 576 494 713\n        823 549 274 276 310 768 667 500 444 333 564 549 500 549\n        612 ] 169 170 500 172 174 722 175 [ 889 722 500 ] 179\n      180 444 181 182 333 183 [ 549 494 500 722 167 500 ] 189\n      190 333 191 192 556 193 [ 500 250 333 444 ] 198 [ 722 611\n        722 ] 201 202 611 203 206 333 207 212 722 213 [ 278 ]\n      214 223 333 224 [ 611 278 556 389 611 444 200 722 500 722\n        500 556 500 ] 237 238 564 239 241 300 242 244 750 245\n      [ 500 722 500 333 556 389 667 444 667 444 ] 255 256 500\n      257 [ 333 722 444 722 444 722 646 722 611 444 611 444 611\n        278 611 406 611 344 722 500 722 500 722 500 667 333 667\n        333 556 389 611 278 611 427 722 500 722 500 611 444 611\n        444 578 722 731 524 471 420 539 402 577 500 573 315 969 ]\n      313 [ 500 ] 315 [ 500 ] 317 318 500 319 [ 979 722 564 600\n        564 ] 324 325 604 326 372 708 373 [ 729 604 ] 376 379\n      990 380 382 604 383 [ 1021 1052 917 ] 386 387 750 388 [\n        531 656 594 510 500 750 708 552 604 219 417 833 479 604 ]\n      402 403 354 404 [ 604 354 722 444 667 444 667 444 611 444\n        611 444 611 444 722 500 722 500 722 500 722 500 722 500\n        333 278 333 278 333 278 333 278 389 278 722 ] 439 440\n      500 441 [ 611 278 722 500 702 495 722 500 722 500 667 333\n        556 389 611 278 722 500 722 500 722 500 722 500 944 ]\n      466 467 722 468 [ 500 278 722 444 889 667 722 500 278 944\n        722 944 722 944 ] 482 483 722 484 [ 500 ] 485 486 333\n      487 [ 500 600 ] 489 492 750 493 496 333 497 [ 722 694 808\n        411 722 816 743 269 722 667 643 ] 508 509 611 510 [ 722\n        333 722 725 889 722 643 ] 517 518 722 519 [ 556 582 611 ]\n      522 523 722 524 [ 738 743 333 722 524 420 523 269 495 509\n        442 414 523 479 269 504 485 536 452 446 500 499 396 495\n        444 626 658 269 495 500 495 658 611 752 578 660 556 ]\n      561 562 333 563 [ 389 ] 564 565 872 566 [ 741 667 708 ]\n      569 570 722 571 [ 574 667 578 682 611 896 501 ] 578 579\n      722 580 [ 667 678 889 ] 583 585 722 586 [ 556 667 611 708\n        790 ] 591 592 722 593 [ 650 ] 594 595 1009 596 [ 706 872\n        574 660 1028 667 444 509 472 410 509 444 691 395 ] 610\n      611 535 612 [ 486 499 633 535 500 535 500 444 437 500 648\n        500 535 503 ] 626 627 770 628 [ 517 672 456 429 747 460\n        444 483 410 429 389 ] 639 641 278 642 [ 727 723 500 486\n        500 535 450 351 ] 651 [ 954 505 ] 653 665 333 666 [ 356\n        333 291 ] 669 670 343 671 [ 278 481 455 335 419 471 279\n        286 477 476 267 452 433 432 507 485 274 305 475 ] 690\n      691 454 692 [ 440 482 460 474 469 610 500 557 545 533 209\n        372 776 279 ] 706 707 452 708 709 432 710 [ 454 ] 711\n      714 610 715 717 481 718 [ 455 335 419 471 279 309 476 267\n        452 433 432 485 305 475 454 440 460 474 469 610 500 279\n        455 433 440 502 ] 744 747 0 748 749 319 750 [ 356 413\n        207 201 237 ] 755 756 201 757 [ 209 201 211 165 ] 761\n      771 526 772 [ 319 526 ] 774 775 750 776 [ 282 750 ] 778\n      780 526 781 785 750 786 [ 211 ] 787 794 750 795 [ 638 ]\n      796 798 750 799 800 713 801 802 244 803 806 750 807 [ 563\n        526 ] 809 810 530 811 812 489 813 [ 812 933 394 515 812\n        933 394 515 638 588 ] 823 838 750 839 [ 226 ] 840 843\n      211 844 861 750 862 [ 500 ] 864 891 750 892 893 319 894\n      [ 750 616 413 207 229 207 229 ] 901 902 432 903 [ 207 229\n        638 588 ] 907 908 244 909 [ 207 229 ] 911 912 713 913\n      914 244 915 [ 282 375 ] 917 918 713 919 920 244 921 922\n      713 923 924 244 925 [ 563 526 ] 927 928 530 929 [ 563 526 ]\n      931 932 530 933 [ 563 526 ] 935 936 530 937 940 337 941\n      944 489 945 946 821 947 948 531 949 950 821 951 952 531\n      953 954 1098 955 956 846 957 958 1098 959 960 846 961 968\n      582 969 [ 544 450 526 394 544 450 526 394 ] 977 978 789\n      979 [ 268 263 ] 981 982 582 983 [ 268 263 ] 985 986 601\n      987 988 394 989 990 506 991 992 207 993 994 338 995 996\n      394 997 998 526 999 1000 244 1001 [ 282 375 450 394 ] 1005\n      1006 432 1007 [ 638 588 638 588 ] 1011 1012 244 1013 [ 544\n        601 544 601 544 601 544 601 ] 1021 1022 750 1023 1024\n      201 1025 1027 750 1028 [ 165 211 ] 1030 1031 750 1032 [\n        209 237 ] 1034 1036 750 1037 1041 211 1042 [ 226 750 ]\n      1044 1045 201 1046 1099 750 1100 1102 319 1103 1126 750\n      1127 [ 125 ] 1129 [ 2000 722 529 776 542 ] 1134 1149 0 1150\n      [ 513 ] 1151 1152 750 1153 1186 0 1187 [ 278 722 444 722\n        444 722 444 722 444 722 444 722 444 722 444 722 444 722\n        444 722 444 722 444 722 444 611 444 611 444 611 444 611\n        444 611 444 611 444 611 444 611 444 333 278 333 278 722\n        500 722 500 722 500 722 500 722 500 722 500 722 500 722\n        529 722 529 722 529 722 529 722 529 722 500 722 500 776\n        542 776 542 776 542 776 542 776 542 722 500 722 500 722\n        500 722 444 333 278 722 500 722 500 722 500 722 500 722\n        500 722 500 ] 1292 1295 0 1296 [ 578 410 896 691 667 486\n        667 486 722 535 722 500 722 500 722 500 650 503 650 500\n        722 444 722 500 713 244 268 263 582 ] 1325 1330 244 1331\n      [ 269 ] 1332 1333 207 1334 1335 333 1336 1338 207 1339 [\n        0 207 229 207 229 207 229 207 229 ] 1348 1351 432 1352\n      [ 638 588 ] 1354 1355 713 1356 1357 244 1358 1359 713 1360\n      1361 244 1362 1363 713 1364 1365 244 1366 1367 713 1368\n      1369 244 1370 1371 713 1372 1373 244 1374 1375 713 1376\n      1377 244 1378 1379 713 1380 1381 244 1382 [ 563 526 ] 1384\n      1385 530 1386 [ 563 526 ] 1388 1389 530 1390 [ 563 526 ]\n      1392 1393 530 1394 [ 563 526 ] 1396 1397 530 1398 [ 563\n        526 ] 1400 1401 530 1402 [ 563 526 ] 1404 1405 530 1406\n      1423 337 1424 1439 489 1440 1441 821 1442 1443 531 1444\n      1445 821 1446 1447 531 1448 1449 821 1450 1451 531 1452\n      1453 1098 1454 1455 846 1456 1457 1098 1458 1459 846 1460\n      1461 582 1462 [ 544 450 526 394 ] 1466 1468 789 1469 [ 268\n        263 ] 1471 1472 789 1473 [ 268 263 ] 1475 1476 789 1477\n      [ 268 263 ] 1479 1480 789 1481 [ 268 263 ] 1483 1484 789\n      1485 [ 268 263 ] 1487 1490 582 1491 [ 812 933 394 515 812\n        933 394 515 ] 1499 1500 601 1501 1502 394 1503 1504 601\n      1505 1506 394 1507 1508 601 1509 1510 394 1511 [ 812 933\n        394 515 812 933 394 515 812 933 394 515 812 933 394 515\n        812 933 394 515 ] 1531 1532 506 1533 1534 207 1535 1536\n      506 1537 1538 207 1539 1540 506 1541 1542 207 1543 1544\n      506 1545 1546 207 1547 1548 526 1549 1550 244 1551 1556\n      526 1557 1558 244 1559 1560 526 1561 [ 563 526 ] 1563 1564\n      530 1565 [ 282 375 ] 1567 1569 388 1570 1585 432 1586 [\n        638 588 638 588 ] 1590 1591 244 1592 1593 432 1594 [ 638\n        588 ] 1596 1597 244 1598 [ 638 588 ] 1600 1603 812 1604\n      [ 207 ] 1605 1611 0 1612 [ 1123 1084 ] 1614 1619 0 1620\n      [ 194 370 ] 1622 1623 0 1624 [ 600 ] 1625 1627 0 1628 1629\n      821 1630 1631 531 1632 1633 1098 1634 1635 846 1636 [ 544\n        450 526 394 413 338 282 244 320 ] 1645 1649 244 1650 [\n        812 933 267 0 342 533 544 601 544 601 544 601 544 601\n        544 601 544 601 544 601 ] 1670 1671 526 1672 [ 544 601 ] ]\n>>"
+        ],
+        "out_edge_list": [
+            9,
+            9
+        ]
+    },
+    "96": {
+        "insn_list": [
+            "[ 95 0 R ]"
+        ],
+        "out_edge_list": [
+            9
+        ]
+    },
+    "97": {
+        "insn_list": [
+            "<<\n  /BaseFont /WZTYSV+TimesNewRoman\n  /DescendantFonts 96 0 R\n  /Encoding /Identity-H\n  /Subtype /Type0\n  /ToUnicode 80 0 R\n  /Type /Font\n>>"
+        ],
+        "out_edge_list": [
+            9,
+            8
+        ]
+    },
+    "98": {
+        "insn_list": [
+            "<<\n  /S /URI\n  /Type /A\n  /URI (www.copyright.gov/docs/fees.html)\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "99": {
+        "insn_list": [
+            "<<\n  /S /URI\n  /Type /A\n  /URI (http:BishopAccountability.org)\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "100": {
+        "insn_list": [
+            "<<\n  /S /URI\n  /Type /A\n  /URI (mailto:terry@bishop-accountability.org)\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "101": {
+        "insn_list": [
+            "<<\n  /S /URI\n  /Type /A\n  /URI (http:BishopAccountability.org)\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "102": {
+        "insn_list": [
+            "<<\n  /C 124\n  /Filter /FlateDecode\n  /I 146\n  /Length 109\n  /S 38\n  /V 102\n>>"
+        ],
+        "out_edge_list": []
+    }
+}

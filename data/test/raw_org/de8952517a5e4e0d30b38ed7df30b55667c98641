@@ -1,0 +1,113 @@
+{
+    "1": {
+        "insn_list": [
+            "<<\n  /Threads 2 0 R\n  /Outlines 3 0 R\n  /Pages 4 0 R\n  /ViewerPreferences <<\n    /PageDirection /L2R\n  >>\n  /PageLayout /SinglePage\n  /AcroForm 5 0 R\n  /Dests 6 0 R\n  /Names 7 0 R\n  /Type /Catalog\n>>"
+        ],
+        "out_edge_list": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ]
+    },
+    "2": {
+        "insn_list": [
+            "[ ]"
+        ],
+        "out_edge_list": []
+    },
+    "3": {
+        "insn_list": [
+            "<<\n  /Count 0\n  /Type /Outlines\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "4": {
+        "insn_list": [
+            "<<\n  /Resources 8 0 R\n  /Kids [ 9 0 R ]\n  /Count 1\n  /Type /Pages\n>>"
+        ],
+        "out_edge_list": [
+            8,
+            9
+        ]
+    },
+    "5": {
+        "insn_list": [
+            "<<\n  /Fields [ ]\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "6": {
+        "insn_list": [
+            "<<\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "7": {
+        "insn_list": [
+            "<<\n  /JavaScript 10 0 R\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "8": {
+        "insn_list": [
+            "<<\n  /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "9": {
+        "insn_list": [
+            "<<\n  /Rotate 0\n  /pdftk_PageNum 1\n  /TrimBox [ 0 0 595.28 841.89 ]\n  /MediaBox [ 0 0 595.28 841.89 ]\n  /Resources 8 0 R\n  /Parent 4 0 R\n  /Contents 11 0 R\n  /Group 12 0 R\n  /Type /Page\n>>"
+        ],
+        "out_edge_list": [
+            8,
+            4,
+            1,
+            1
+        ]
+    },
+    "10": {
+        "insn_list": [
+            "<<\n  /Names [ (a) 14 0 R ]\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "11": {
+        "insn_list": [
+            "<<\n  /Length 31\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "12": {
+        "insn_list": [
+            "<<\n  /CS /DeviceRGB\n  /S /Transparency\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "13": {
+        "insn_list": [
+            "<<\n  /Length 13330\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "14": {
+        "insn_list": [
+            "<<\n  /JS 13 0 R\n  /S /JavaScript\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "15": {
+        "insn_list": [
+            "<<\n  /Creator (Scribus 1.3.3.12)\n  /Title ()\n  /Producer (Scribus PDF Library 1.3.3.12)\n  /Author ()\n  /Keywords ()\n  /Trapped /False\n  /ModDate (D:20080726194358)\n  /CreationDate (D:20080726194358)\n>>"
+        ],
+        "out_edge_list": []
+    }
+}

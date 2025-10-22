@@ -1,0 +1,255 @@
+{
+    "1": {
+        "insn_list": [
+            "<<\n  /Nums [ 0 2 0 R ]\n>>"
+        ],
+        "out_edge_list": [
+            2
+        ]
+    },
+    "2": {
+        "insn_list": [
+            "[ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R ]"
+        ],
+        "out_edge_list": [
+            4,
+            5,
+            6,
+            7,
+            8
+        ]
+    },
+    "3": {
+        "insn_list": [
+            "<<\n  /CM1 <<\n    /O /Layout\n    /LineHeight 11.5\n  >>\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "4": {
+        "insn_list": [
+            "<<\n  /S /P\n  /C /CM1\n  /A <<\n    /O /Layout\n    /SpaceAfter 11.75\n  >>\n  /P 15 0 R\n  /Pg 16 0 R\n  /K 0\n>>"
+        ],
+        "out_edge_list": [
+            1,
+            1
+        ]
+    },
+    "5": {
+        "insn_list": [
+            "<<\n  /S /P\n  /A <<\n    /O /Layout\n    /LineHeight 11.5\n    /EndIndent 18.875\n    /SpaceBefore 11.75\n    /SpaceAfter 11\n  >>\n  /P 15 0 R\n  /Pg 16 0 R\n  /K 1\n>>"
+        ],
+        "out_edge_list": [
+            1,
+            1
+        ]
+    },
+    "6": {
+        "insn_list": [
+            "<<\n  /S /P\n  /C /CM1\n  /A <<\n    /O /Layout\n    /SpaceBefore 11\n    /SpaceAfter 11.75\n  >>\n  /P 15 0 R\n  /Pg 16 0 R\n  /K 2\n>>"
+        ],
+        "out_edge_list": [
+            1,
+            1
+        ]
+    },
+    "7": {
+        "insn_list": [
+            "<<\n  /S /P\n  /C /CM1\n  /A <<\n    /O /Layout\n    /SpaceBefore 11.75\n    /SpaceAfter 11.75\n  >>\n  /P 15 0 R\n  /Pg 16 0 R\n  /K 3\n>>"
+        ],
+        "out_edge_list": [
+            1,
+            1
+        ]
+    },
+    "8": {
+        "insn_list": [
+            "<<\n  /S /P\n  /C /CM1\n  /A <<\n    /O /Layout\n    /SpaceBefore 11.75\n  >>\n  /P 15 0 R\n  /Pg 16 0 R\n  /K 4\n>>"
+        ],
+        "out_edge_list": [
+            1,
+            1
+        ]
+    },
+    "9": {
+        "insn_list": [
+            "<<\n  /CreationDate (D:20030312112222Z)\n  /Title (Reply Comment on Anticircumvention Rulemaking--Herd)\n  /Author (U.S. Copyright Office)\n  /ModDate (D:20030313080658-05'00')\n  /Subject (Anticircumvention Rulemaking)\n  /Keywords (anticircumvention, copyright, section 1201, DMCA, reply)\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "10": {
+        "insn_list": [
+            "<<\n  /Kids [ 16 0 R ]\n  /Count 1\n  /Type /Pages\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "11": {
+        "insn_list": [
+            "<<\n  /Type /Metadata\n  /Subtype /XML\n  /Length 1696\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "12": {
+        "insn_list": [
+            "<<\n  /Linearized 1\n  /O 16\n  /H [ 1221 182 ]\n  /L 10685\n  /E 7446\n  /N 1\n  /T 10327\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "13": {
+        "insn_list": [
+            "<<\n  /Pages 10 0 R\n  /Type /Catalog\n  /Metadata 11 0 R\n  /StructTreeRoot 15 0 R\n  /Lang (en-US)\n  /MarkInfo <<\n    /Marked true\n  >>\n>>"
+        ],
+        "out_edge_list": [
+            1,
+            1,
+            1
+        ]
+    },
+    "14": {
+        "insn_list": [
+            "<<\n  /Filter /Standard\n  /R 3\n  /O <A327718DD5ED6C754E4628DEBE3D5DADDF56E3BAE172D0C5314D06DC610642DD>\n  /U <45638DDFE167B91E39DFD212D93816F600000000000000000000000000000000>\n  /P -300\n  /V 2\n  /Length 128\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "15": {
+        "insn_list": [
+            "<<\n  /Type /StructTreeRoot\n  /ParentTree 1 0 R\n  /ParentTreeNextKey 1\n  /K [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R ]\n  /ClassMap 3 0 R\n>>"
+        ],
+        "out_edge_list": [
+            1,
+            4,
+            5,
+            6,
+            7,
+            8,
+            3
+        ]
+    },
+    "16": {
+        "insn_list": [
+            "<<\n  /Type /Page\n  /Parent 10 0 R\n  /Resources <<\n    /ColorSpace <<\n      /CS0 24 0 R\n      /CS1 23 0 R\n    >>\n    /Font <<\n      /TT0 18 0 R\n      /T1_0 22 0 R\n    >>\n    /ExtGState <<\n      /GS0 30 0 R\n    >>\n    /ProcSet [ /PDF /Text ]\n  >>\n  /Contents 26 0 R\n  /MediaBox [ 0 0 612 792 ]\n  /CropBox [ 0 0 612 792 ]\n  /Rotate 0\n  /StructParents 0\n>>"
+        ],
+        "out_edge_list": [
+            1,
+            2,
+            2,
+            1,
+            2,
+            3,
+            2
+        ]
+    },
+    "17": {
+        "insn_list": [
+            "[ 128 /space 1 /space ]"
+        ],
+        "out_edge_list": []
+    },
+    "18": {
+        "insn_list": [
+            "<<\n  /Type /Font\n  /Subtype /TrueType\n  /FontDescriptor 19 0 R\n  /BaseFont /TimesNewRoman\n  /FirstChar 32\n  /LastChar 255\n  /Widths [ 250 333 408 500 500 833 778 180 333 333 500 564 250\n      333 250 278 500 500 500 500 500 500 500 500 500 500 278\n      278 564 564 564 444 921 722 667 667 722 611 556 722 722\n      333 389 722 611 889 722 722 556 722 667 556 611 722 722\n      944 722 722 611 333 278 333 469 500 333 444 500 444 500\n      444 333 500 500 278 278 500 278 778 500 500 500 500 333\n      389 278 500 500 722 500 500 444 480 200 480 541 778 500\n      778 333 500 444 1000 500 500 333 1000 556 333 889 778 611\n      778 778 333 333 444 444 350 500 1000 333 980 389 333 722\n      778 444 722 250 333 500 500 500 500 200 500 333 760 276\n      500 564 333 760 500 400 549 300 300 333 576 453 250 333\n      300 310 500 750 750 750 444 722 722 722 722 722 722 889\n      667 611 611 611 611 333 333 333 333 722 722 722 722 722\n      722 722 564 722 722 722 722 722 722 556 500 444 444 444\n      444 444 444 667 444 444 444 444 444 278 278 278 278 500\n      500 500 500 500 500 500 549 500 500 500 500 500 500 500\n      500 ]\n  /Encoding /WinAnsiEncoding\n  /ToUnicode 20 0 R\n>>"
+        ],
+        "out_edge_list": [
+            1,
+            2
+        ]
+    },
+    "19": {
+        "insn_list": [
+            "<<\n  /Type /FontDescriptor\n  /FontName /TimesNewRoman\n  /Flags 34\n  /FontBBox [ -250 -216 1158 1000 ]\n  /MissingWidth 321\n  /StemV 73\n  /StemH 73\n  /ItalicAngle 0\n  /CapHeight 891\n  /XHeight 446\n  /Ascent 891\n  /Descent -216\n  /Leading 149\n  /MaxWidth 965\n  /AvgWidth 401\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "20": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /Length 29 0 R\n>>"
+        ],
+        "out_edge_list": [
+            2
+        ]
+    },
+    "21": {
+        "insn_list": [
+            "<<\n  /Type /Encoding\n  /BaseEncoding /WinAnsiEncoding\n  /Differences 17 0 R\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "22": {
+        "insn_list": [
+            "<<\n  /Type /Font\n  /Subtype /Type1\n  /BaseFont /Times-Roman\n  /Encoding 21 0 R\n  /Widths [ 250 250 250 250 250 250 250 250 250 250 250 250 250\n      250 250 250 250 250 250 250 250 250 250 250 250 250 250\n      250 250 250 250 250 250 333 408 500 500 833 778 180 333\n      333 500 564 250 333 250 278 500 500 500 500 500 500 500\n      500 500 500 278 278 564 564 564 444 921 722 667 667 722\n      611 556 722 722 333 389 722 611 889 722 722 556 722 667\n      556 611 722 722 944 722 722 611 333 278 333 469 500 333\n      444 500 444 500 444 333 500 500 278 278 500 278 778 500\n      500 500 500 333 389 278 500 500 722 500 500 444 480 200\n      480 541 350 250 350 333 500 444 1000 500 500 333 1000 556\n      333 889 350 611 350 350 333 333 444 444 350 500 1000 333\n      980 389 333 722 350 444 722 250 333 500 500 500 500 200\n      500 333 760 276 500 564 333 760 333 400 564 300 300 333\n      500 453 250 333 300 310 500 750 750 750 444 722 722 722\n      722 722 722 889 667 611 611 611 611 333 333 333 333 722\n      722 722 722 722 722 722 564 722 722 722 722 722 722 556\n      500 444 444 444 444 444 444 667 444 444 444 444 444 278\n      278 278 278 500 500 500 500 500 500 500 564 500 500 500\n      500 500 500 500 500 ]\n  /FirstChar 0\n  /LastChar 255\n  /ToUnicode 25 0 R\n>>"
+        ],
+        "out_edge_list": [
+            2,
+            2
+        ]
+    },
+    "23": {
+        "insn_list": [
+            "/DeviceGray"
+        ],
+        "out_edge_list": []
+    },
+    "24": {
+        "insn_list": [
+            "/DeviceRGB"
+        ],
+        "out_edge_list": []
+    },
+    "25": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /Length 28 0 R\n>>"
+        ],
+        "out_edge_list": [
+            2
+        ]
+    },
+    "26": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /Length 27 0 R\n>>"
+        ],
+        "out_edge_list": [
+            2
+        ]
+    },
+    "27": {
+        "insn_list": [
+            "1432"
+        ],
+        "out_edge_list": []
+    },
+    "28": {
+        "insn_list": [
+            "564"
+        ],
+        "out_edge_list": []
+    },
+    "29": {
+        "insn_list": [
+            "418"
+        ],
+        "out_edge_list": []
+    },
+    "30": {
+        "insn_list": [
+            "<<\n  /Type /ExtGState\n  /SA false\n  /OP false\n  /op false\n  /OPM 0\n  /BG2 /Default\n  /UCR2 /Default\n  /TR2 /Default\n  /HT /Default\n  /CA 1\n  /ca 1\n  /SMask /None\n  /AIS false\n  /BM /Normal\n  /TK true\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "31": {
+        "insn_list": [
+            "<<\n  /S 36\n  /C 83\n  /Filter /FlateDecode\n  /Length 32 0 R\n>>"
+        ],
+        "out_edge_list": [
+            3
+        ]
+    },
+    "32": {
+        "insn_list": [
+            "72"
+        ],
+        "out_edge_list": []
+    }
+}

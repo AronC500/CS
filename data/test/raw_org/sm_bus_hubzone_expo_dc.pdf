@@ -1,0 +1,682 @@
+{
+    "1": {
+        "insn_list": [
+            "<<\n  /Nums [ 0 2 0 R ]\n>>"
+        ],
+        "out_edge_list": [
+            2
+        ]
+    },
+    "2": {
+        "insn_list": [
+            "<<\n  /St 2\n  /S /D\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "3": {
+        "insn_list": [
+            "<<\n  /Count 1\n  /Type /Pages\n  /Kids [ 8 0 R ]\n>>"
+        ],
+        "out_edge_list": [
+            8
+        ]
+    },
+    "4": {
+        "insn_list": [
+            "<<\n  /Subtype /XML\n  /Length 41063\n  /Type /Metadata\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "5": {
+        "insn_list": [
+            "<<\n  /CreationDate (D:20111006163556-04'00')\n  /Creator (Adobe InDesign CS4 \\(6.0.6\\))\n  /Producer (Adobe PDF Library 9.0)\n  /ModDate (D:20111012130953-04'00')\n  /Trapped /False\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "6": {
+        "insn_list": [
+            "<<\n  /Linearized 1\n  /L 397838\n  /O 8\n  /E 356232\n  /N 1\n  /T 397672\n  /H [ 2016 336 ]\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "7": {
+        "insn_list": [
+            "<<\n  /ViewerPreferences <<\n    /Direction /L2R\n  >>\n  /Metadata 4 0 R\n  /Pages 3 0 R\n  /Type /Catalog\n  /Lang (EN)\n  /PageLabels 1 0 R\n>>"
+        ],
+        "out_edge_list": [
+            4,
+            3,
+            1
+        ]
+    },
+    "8": {
+        "insn_list": [
+            "<<\n  /CropBox [ 0 0 1944 2520 ]\n  /Parent 3 0 R\n  /Contents [ 9 0 R 10 0 R 12 0 R 13 0 R 14 0 R 16 0 R 20 0 R\n      21 0 R ]\n  /Rotate 0\n  /BleedBox [ 0 0 1944 2520 ]\n  /ArtBox [ 0 0 1944 2520 ]\n  /Group 90 0 R\n  /MediaBox [ 0 0 1944 2520 ]\n  /TrimBox [ 0 0 1944 2520 ]\n  /Resources <<\n    /XObject <<\n      /Fm0 25 0 R\n    >>\n    /Shading <<\n      /Sh0 32 0 R\n      /Sh1 36 0 R\n      /Sh2 41 0 R\n      /Sh3 44 0 R\n    >>\n    /Font <<\n      /C2_0 11 0 R\n      /C2_1 15 0 R\n      /C2_2 17 0 R\n      /C2_3 18 0 R\n      /C2_4 19 0 R\n    >>\n    /ProcSet [ /PDF /Text ]\n    /Properties <<\n      /MC0 <<\n        /Metadata 80 0 R\n      >>\n      /MC1 <<\n        /Metadata 81 0 R\n      >>\n    >>\n    /ExtGState <<\n      /GS0 82 0 R\n      /GS1 88 0 R\n      /GS2 89 0 R\n    >>\n  >>\n  /Type /Page\n>>"
+        ],
+        "out_edge_list": [
+            3,
+            9,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            9,
+            2,
+            3,
+            3,
+            4,
+            4,
+            1,
+            1,
+            1,
+            1,
+            1,
+            8,
+            8,
+            8,
+            8,
+            8
+        ]
+    },
+    "9": {
+        "insn_list": [
+            "<<\n  /Length 1029\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "10": {
+        "insn_list": [
+            "<<\n  /Length 1053\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "11": {
+        "insn_list": [
+            "<<\n  /Subtype /Type0\n  /DescendantFonts 50 0 R\n  /BaseFont /IPHPGW+HelveticaNeue-CondensedBlack\n  /ToUnicode 51 0 R\n  /Encoding /Identity-H\n  /Type /Font\n>>"
+        ],
+        "out_edge_list": [
+            5,
+            5
+        ]
+    },
+    "12": {
+        "insn_list": [
+            "<<\n  /Length 1025\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "13": {
+        "insn_list": [
+            "<<\n  /Length 962\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "14": {
+        "insn_list": [
+            "<<\n  /Length 1051\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "15": {
+        "insn_list": [
+            "<<\n  /Subtype /Type0\n  /DescendantFonts 57 0 R\n  /BaseFont /FRDXQC+HelveticaNeue-CondensedBold\n  /ToUnicode 58 0 R\n  /Encoding /Identity-H\n  /Type /Font\n>>"
+        ],
+        "out_edge_list": [
+            5,
+            5
+        ]
+    },
+    "16": {
+        "insn_list": [
+            "<<\n  /Length 986\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "17": {
+        "insn_list": [
+            "<<\n  /Subtype /Type0\n  /DescendantFonts 64 0 R\n  /BaseFont /CTZFAI+Helvetica\n  /ToUnicode 65 0 R\n  /Encoding /Identity-H\n  /Type /Font\n>>"
+        ],
+        "out_edge_list": [
+            6,
+            6
+        ]
+    },
+    "18": {
+        "insn_list": [
+            "<<\n  /Subtype /Type0\n  /DescendantFonts 71 0 R\n  /BaseFont /YNLHWQ+Helvetica-Bold\n  /ToUnicode 72 0 R\n  /Encoding /Identity-H\n  /Type /Font\n>>"
+        ],
+        "out_edge_list": [
+            7,
+            7
+        ]
+    },
+    "19": {
+        "insn_list": [
+            "<<\n  /Subtype /Type0\n  /DescendantFonts 78 0 R\n  /BaseFont /TZNDEA+HelveticaNeue\n  /ToUnicode 79 0 R\n  /Encoding /Identity-H\n  /Type /Font\n>>"
+        ],
+        "out_edge_list": [
+            7,
+            7
+        ]
+    },
+    "20": {
+        "insn_list": [
+            "<<\n  /Length 1040\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "21": {
+        "insn_list": [
+            "<<\n  /Length 801\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "22": {
+        "insn_list": [
+            "/DeviceCMYK"
+        ],
+        "out_edge_list": []
+    },
+    "23": {
+        "insn_list": [
+            "<<\n  /I false\n  /K false\n  /CS 22 0 R\n  /S /Transparency\n  /Type /Group\n>>"
+        ],
+        "out_edge_list": [
+            2
+        ]
+    },
+    "24": {
+        "insn_list": [
+            "<<\n  /OPM 1\n  /BM /Multiply\n  /CA .550003\n  /OP false\n  /SMask /None\n  /ca .550003\n  /AIS true\n  /op false\n  /Type /ExtGState\n  /SA true\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "25": {
+        "insn_list": [
+            "<<\n  /Subtype /Form\n  /Length 59\n  /Filter /FlateDecode\n  /Matrix [ 1 0 0 1 0 0 ]\n  /Group 23 0 R\n  /Resources <<\n    /ExtGState <<\n      /GS0 24 0 R\n    >>\n  >>\n  /BBox [ 89.3563 2131.8 1873.16 1839.84 ]\n>>"
+        ],
+        "out_edge_list": [
+            2,
+            2
+        ]
+    },
+    "26": {
+        "insn_list": [
+            "/DeviceCMYK"
+        ],
+        "out_edge_list": []
+    },
+    "27": {
+        "insn_list": [
+            "<<\n  /Length 14\n  /FunctionType 0\n  /Filter /FlateDecode\n  /Encode [ 0 63 ]\n  /BitsPerSample 8\n  /Domain [ 0 1 ]\n  /Size [ 64 ]\n  /Order 1\n  /Range [ 0 1 0 1 0 1 0 1 ]\n  /Decode [ 0 1 0 1 0 1 0 1 ]\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "28": {
+        "insn_list": [
+            "<<\n  /Length 95\n  /FunctionType 0\n  /Filter /FlateDecode\n  /Encode [ 0 63 ]\n  /BitsPerSample 8\n  /Domain [ 0 1 ]\n  /Size [ 64 ]\n  /Order 1\n  /Range [ 0 1 0 1 0 1 0 1 ]\n  /Decode [ 0 1 0 1 0 1 0 1 ]\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "29": {
+        "insn_list": [
+            "<<\n  /Length 119\n  /FunctionType 0\n  /Filter /FlateDecode\n  /Encode [ 0 63 ]\n  /BitsPerSample 8\n  /Domain [ 0 1 ]\n  /Size [ 64 ]\n  /Order 1\n  /Range [ 0 1 0 1 0 1 0 1 ]\n  /Decode [ 0 1 0 1 0 1 0 1 ]\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "30": {
+        "insn_list": [
+            "<<\n  /Length 202\n  /FunctionType 0\n  /Filter /FlateDecode\n  /Encode [ 0 63 ]\n  /BitsPerSample 8\n  /Domain [ 0 1 ]\n  /Size [ 64 ]\n  /Order 1\n  /Range [ 0 1 0 1 0 1 0 1 ]\n  /Decode [ 0 1 0 1 0 1 0 1 ]\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "31": {
+        "insn_list": [
+            "<<\n  /FunctionType 3\n  /Encode [ 0 1 0 1 0 1 0 1 ]\n  /Domain [ 0 1 ]\n  /Functions [ 27 0 R 28 0 R 29 0 R 30 0 R ]\n  /Bounds [ .0121155 .288345 .662582 ]\n>>"
+        ],
+        "out_edge_list": [
+            2,
+            2,
+            2,
+            3
+        ]
+    },
+    "32": {
+        "insn_list": [
+            "<<\n  /ColorSpace 26 0 R\n  /AntiAlias false\n  /Coords [ 0 0 1 0 ]\n  /Function 31 0 R\n  /Extend [ true true ]\n  /Domain [ 0 1 ]\n  /ShadingType 2\n>>"
+        ],
+        "out_edge_list": [
+            2,
+            3
+        ]
+    },
+    "33": {
+        "insn_list": [
+            "<<\n  /Length 177\n  /FunctionType 0\n  /Filter /FlateDecode\n  /Encode [ 0 63 ]\n  /BitsPerSample 8\n  /Domain [ 0 1 ]\n  /Size [ 64 ]\n  /Order 1\n  /Range [ 0 1 0 1 0 1 0 1 ]\n  /Decode [ 0 1 0 1 0 1 0 1 ]\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "34": {
+        "insn_list": [
+            "<<\n  /Length 111\n  /FunctionType 0\n  /Filter /FlateDecode\n  /Encode [ 0 63 ]\n  /BitsPerSample 8\n  /Domain [ 0 1 ]\n  /Size [ 64 ]\n  /Order 1\n  /Range [ 0 1 0 1 0 1 0 1 ]\n  /Decode [ 0 1 0 1 0 1 0 1 ]\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "35": {
+        "insn_list": [
+            "<<\n  /FunctionType 3\n  /Encode [ 1 0 0 1 ]\n  /Domain [ 0 1 ]\n  /Functions [ 33 0 R 34 0 R ]\n  /Bounds [ .29213 ]\n>>"
+        ],
+        "out_edge_list": [
+            3,
+            3
+        ]
+    },
+    "36": {
+        "insn_list": [
+            "<<\n  /ColorSpace 26 0 R\n  /AntiAlias false\n  /Coords [ 0 0 1 0 ]\n  /Function 35 0 R\n  /Extend [ true true ]\n  /Domain [ 0 1 ]\n  /ShadingType 2\n>>"
+        ],
+        "out_edge_list": [
+            2,
+            3
+        ]
+    },
+    "37": {
+        "insn_list": [
+            "<<\n  /C0 [ .25 .25 .149994 0 ]\n  /C1 [ .25 .25 .149994 0 ]\n  /FunctionType 2\n  /N 1\n  /Domain [ 0 1 ]\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "38": {
+        "insn_list": [
+            "<<\n  /C0 [ .25 .25 .149994 0 ]\n  /C1 [ .350006 .350006 .25 0 ]\n  /FunctionType 2\n  /N 1\n  /Domain [ 0 1 ]\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "39": {
+        "insn_list": [
+            "<<\n  /C0 [ .350006 .350006 .25 0 ]\n  /C1 [ .550003 .550003 .399994 .100006 ]\n  /FunctionType 2\n  /N 1\n  /Domain [ 0 1 ]\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "40": {
+        "insn_list": [
+            "<<\n  /FunctionType 3\n  /Encode [ 0 1 0 1 0 1 ]\n  /Domain [ 0 1 ]\n  /Functions [ 37 0 R 38 0 R 39 0 R ]\n  /Bounds [ .00561523 .151688 ]\n>>"
+        ],
+        "out_edge_list": [
+            3,
+            3,
+            3
+        ]
+    },
+    "41": {
+        "insn_list": [
+            "<<\n  /ColorSpace 26 0 R\n  /AntiAlias false\n  /Coords [ 0 0 1 0 ]\n  /Function 40 0 R\n  /Extend [ true true ]\n  /Domain [ 0 1 ]\n  /ShadingType 2\n>>"
+        ],
+        "out_edge_list": [
+            2,
+            4
+        ]
+    },
+    "42": {
+        "insn_list": [
+            "<<\n  /Length 138\n  /FunctionType 0\n  /Filter /FlateDecode\n  /Encode [ 0 63 ]\n  /BitsPerSample 8\n  /Domain [ 0 1 ]\n  /Size [ 64 ]\n  /Order 1\n  /Range [ 0 1 0 1 0 1 0 1 ]\n  /Decode [ 0 1 0 1 0 1 0 1 ]\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "43": {
+        "insn_list": [
+            "<<\n  /FunctionType 3\n  /Encode [ 0 1 0 1 ]\n  /Domain [ 0 1 ]\n  /Functions [ 27 0 R 42 0 R ]\n  /Bounds [ .51123 ]\n>>"
+        ],
+        "out_edge_list": [
+            2,
+            4
+        ]
+    },
+    "44": {
+        "insn_list": [
+            "<<\n  /ColorSpace 26 0 R\n  /AntiAlias false\n  /Coords [ 0 0 1 0 ]\n  /Function 43 0 R\n  /Extend [ true true ]\n  /Domain [ 0 1 ]\n  /ShadingType 2\n>>"
+        ],
+        "out_edge_list": [
+            2,
+            4
+        ]
+    },
+    "45": {
+        "insn_list": [
+            "<<\n  /Length 6044\n  /Filter /FlateDecode\n  /Length1 12758\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "46": {
+        "insn_list": [
+            "<<\n  /Length 11\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "47": {
+        "insn_list": [
+            "<<\n  /StemV 180\n  /FontName /IPHPGW+HelveticaNeue-CondensedBlack\n  /FontFile2 45 0 R\n  /FontStretch /Condensed\n  /FontWeight 700\n  /CIDSet 46 0 R\n  /Flags 4\n  /Descent -227\n  /FontBBox [ -350 -227 1099 972 ]\n  /Ascent 972\n  /FontFamily (Helvetica Neue)\n  /CapHeight 714\n  /XHeight 541\n  /Type /FontDescriptor\n  /ItalicAngle 0\n>>"
+        ],
+        "out_edge_list": [
+            4,
+            4
+        ]
+    },
+    "48": {
+        "insn_list": [
+            "<<\n  /Supplement 0\n  /Ordering (Identity)\n  /Registry (Adobe)\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "49": {
+        "insn_list": [
+            "<<\n  /Subtype /CIDFontType2\n  /FontDescriptor 47 0 R\n  /BaseFont /IPHPGW+HelveticaNeue-CondensedBlack\n  /W [ 3 [ 260 ] 8 [ 314 ] 15 16 314 22 [ 333 ] 31 [ 520 ] 41\n      [ 574 537 574 500 ] 46 [ 556 574 260 ] 52 [ 758 592 556 ]\n      58 [ 537 ] 60 [ 556 520 ] 65 [ 481 ] 72 [ 500 ] 76 [ 481 ]\n      80 [ 258 ] 83 [ 258 778 520 500 520 ] 90 [ 463 ] 92 [ 520 ]\n      95 [ 481 ] ]\n  /CIDToGIDMap /Identity\n  /CIDSystemInfo 48 0 R\n  /DW 1000\n  /Type /Font\n>>"
+        ],
+        "out_edge_list": [
+            4,
+            4
+        ]
+    },
+    "50": {
+        "insn_list": [
+            "[ 49 0 R ]"
+        ],
+        "out_edge_list": [
+            4
+        ]
+    },
+    "51": {
+        "insn_list": [
+            "<<\n  /Length 368\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "52": {
+        "insn_list": [
+            "<<\n  /Length 6500\n  /Filter /FlateDecode\n  /Length1 13471\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "53": {
+        "insn_list": [
+            "<<\n  /Length 11\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "54": {
+        "insn_list": [
+            "<<\n  /StemV 140\n  /FontName /FRDXQC+HelveticaNeue-CondensedBold\n  /FontFile2 52 0 R\n  /FontStretch /Condensed\n  /FontWeight 700\n  /CIDSet 53 0 R\n  /Flags 4\n  /Descent -221\n  /FontBBox [ -330 -221 1066 961 ]\n  /Ascent 961\n  /FontFamily (Helvetica Neue)\n  /CapHeight 714\n  /XHeight 538\n  /Type /FontDescriptor\n  /ItalicAngle 0\n>>"
+        ],
+        "out_edge_list": [
+            5,
+            5
+        ]
+    },
+    "55": {
+        "insn_list": [
+            "<<\n  /Supplement 0\n  /Ordering (Identity)\n  /Registry (Adobe)\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "56": {
+        "insn_list": [
+            "<<\n  /Subtype /CIDFontType2\n  /FontDescriptor 54 0 R\n  /BaseFont /FRDXQC+HelveticaNeue-CondensedBold\n  /W [ 3 [ 240 ] 19 [ 240 370 240 ] 23 25 480 33 [ 240 ] 40 [\n        556 ] 42 [ 537 ] 48 [ 258 ] 51 [ 463 740 574 ] 55 [ 519 ]\n      57 [ 556 519 ] 62 [ 760 ] 72 [ 481 500 ] 76 [ 463 ] 78 [\n        500 ] 80 [ 240 ] 84 [ 758 500 480 500 ] 89 [ 333 444 296\n        500 444 ] 96 [ 444 ] ]\n  /CIDToGIDMap /Identity\n  /CIDSystemInfo 55 0 R\n  /DW 1000\n  /Type /Font\n>>"
+        ],
+        "out_edge_list": [
+            5,
+            5
+        ]
+    },
+    "57": {
+        "insn_list": [
+            "[ 56 0 R ]"
+        ],
+        "out_edge_list": [
+            5
+        ]
+    },
+    "58": {
+        "insn_list": [
+            "<<\n  /Length 373\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "59": {
+        "insn_list": [
+            "<<\n  /Length 12192\n  /Filter /FlateDecode\n  /Length1 29175\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "60": {
+        "insn_list": [
+            "<<\n  /Length 15\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "61": {
+        "insn_list": [
+            "<<\n  /StemV 88\n  /FontName /CTZFAI+Helvetica\n  /FontFile2 59 0 R\n  /FontStretch /Normal\n  /FontWeight 400\n  /CIDSet 60 0 R\n  /Flags 4\n  /Descent -481\n  /FontBBox [ -951 -481 1446 1122 ]\n  /Ascent 1122\n  /FontFamily (Helvetica)\n  /CapHeight 717\n  /XHeight 523\n  /Type /FontDescriptor\n  /ItalicAngle 0\n>>"
+        ],
+        "out_edge_list": [
+            5,
+            6
+        ]
+    },
+    "62": {
+        "insn_list": [
+            "<<\n  /Supplement 0\n  /Ordering (Identity)\n  /Registry (Adobe)\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "63": {
+        "insn_list": [
+            "<<\n  /Subtype /CIDFontType2\n  /FontDescriptor 61 0 R\n  /BaseFont /CTZFAI+Helvetica\n  /W [ 3 [ 278 ] 16 [ 333 278 ] 19 20 556 24 [ 556 ] 26 [ 556 ]\n      38 [ 722 ] 43 [ 722 ] 68 69 556 70 [ 500 ] 71 72 556 74\n      75 556 76 [ 222 ] 79 [ 222 833 ] 81 84 556 85 [ 333 500\n        278 556 500 722 ] 92 [ 500 ] 192 [ 500 ] 1163 [ 222 ] ]\n  /CIDToGIDMap /Identity\n  /CIDSystemInfo 62 0 R\n  /DW 1000\n  /Type /Font\n>>"
+        ],
+        "out_edge_list": [
+            6,
+            6
+        ]
+    },
+    "64": {
+        "insn_list": [
+            "[ 63 0 R ]"
+        ],
+        "out_edge_list": [
+            6
+        ]
+    },
+    "65": {
+        "insn_list": [
+            "<<\n  /Length 376\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "66": {
+        "insn_list": [
+            "<<\n  /Length 12029\n  /Filter /FlateDecode\n  /Length1 28971\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "67": {
+        "insn_list": [
+            "<<\n  /Length 11\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "68": {
+        "insn_list": [
+            "<<\n  /StemV 140\n  /FontName /YNLHWQ+Helvetica-Bold\n  /FontFile2 66 0 R\n  /FontStretch /Normal\n  /FontWeight 700\n  /CIDSet 67 0 R\n  /Flags 4\n  /Descent -481\n  /FontBBox [ -1018 -481 1437 1159 ]\n  /Ascent 1159\n  /FontFamily (Helvetica)\n  /CapHeight 720\n  /XHeight 531\n  /Type /FontDescriptor\n  /ItalicAngle 0\n>>"
+        ],
+        "out_edge_list": [
+            6,
+            6
+        ]
+    },
+    "69": {
+        "insn_list": [
+            "<<\n  /Supplement 0\n  /Ordering (Identity)\n  /Registry (Adobe)\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "70": {
+        "insn_list": [
+            "<<\n  /Subtype /CIDFontType2\n  /FontDescriptor 68 0 R\n  /BaseFont /YNLHWQ+Helvetica-Bold\n  /W [ 3 [ 278 ] 11 12 333 15 [ 278 333 ] 27 [ 556 ] 36 37 722\n      39 [ 722 667 ] 43 [ 722 278 ] 47 [ 611 833 722 778 667 ]\n      53 [ 722 667 611 722 667 ] 60 [ 667 611 ] 68 [ 556 611 556\n        611 556 ] 76 [ 278 ] 79 [ 278 ] 81 82 611 85 [ 389 556\n        333 611 556 ] ]\n  /CIDToGIDMap /Identity\n  /CIDSystemInfo 69 0 R\n  /DW 1000\n  /Type /Font\n>>"
+        ],
+        "out_edge_list": [
+            6,
+            6
+        ]
+    },
+    "71": {
+        "insn_list": [
+            "[ 70 0 R ]"
+        ],
+        "out_edge_list": [
+            7
+        ]
+    },
+    "72": {
+        "insn_list": [
+            "<<\n  /Length 396\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "73": {
+        "insn_list": [
+            "<<\n  /Length 6657\n  /Filter /FlateDecode\n  /Length1 12735\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "74": {
+        "insn_list": [
+            "<<\n  /Length 11\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "75": {
+        "insn_list": [
+            "<<\n  /StemV 84\n  /FontName /TZNDEA+HelveticaNeue\n  /FontFile2 73 0 R\n  /FontStretch /Normal\n  /FontWeight 400\n  /CIDSet 74 0 R\n  /Flags 4\n  /Descent -214\n  /FontBBox [ -348 -214 1086 952 ]\n  /Ascent 952\n  /FontFamily (Helvetica Neue)\n  /CapHeight 714\n  /XHeight 517\n  /Type /FontDescriptor\n  /ItalicAngle 0\n>>"
+        ],
+        "out_edge_list": [
+            7,
+            7
+        ]
+    },
+    "76": {
+        "insn_list": [
+            "<<\n  /Supplement 0\n  /Ordering (Identity)\n  /Registry (Adobe)\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "77": {
+        "insn_list": [
+            "<<\n  /Subtype /CIDFontType2\n  /FontDescriptor 75 0 R\n  /BaseFont /TZNDEA+HelveticaNeue\n  /W [ 3 [ 278 ] 19 [ 278 ] 21 [ 278 ] 23 26 556 28 [ 556 ] 31\n      [ 556 ] 41 [ 685 722 ] 54 [ 760 648 ] 58 [ 648 ] 72 [ 537 ]\n      74 [ 537 ] 76 [ 537 296 ] 79 [ 556 222 ] 83 [ 222 853 556\n        574 ] 89 [ 333 500 315 556 ] 196 [ 518 ] ]\n  /CIDToGIDMap /Identity\n  /CIDSystemInfo 76 0 R\n  /DW 1000\n  /Type /Font\n>>"
+        ],
+        "out_edge_list": [
+            7,
+            7
+        ]
+    },
+    "78": {
+        "insn_list": [
+            "[ 77 0 R ]"
+        ],
+        "out_edge_list": [
+            7
+        ]
+    },
+    "79": {
+        "insn_list": [
+            "<<\n  /Length 359\n  /Filter /FlateDecode\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "80": {
+        "insn_list": [
+            "<<\n  /Subtype /XML\n  /Length 19881\n  /Type /Metadata\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "81": {
+        "insn_list": [
+            "<<\n  /Subtype /XML\n  /Length 46924\n  /Type /Metadata\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "82": {
+        "insn_list": [
+            "<<\n  /OPM 1\n  /BM /Normal\n  /CA 1\n  /OP false\n  /SMask /None\n  /ca 1\n  /AIS false\n  /op false\n  /Type /ExtGState\n  /SA true\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "83": {
+        "insn_list": [
+            "<<\n  /I false\n  /K false\n  /CS 22 0 R\n  /S /Transparency\n  /Type /Group\n>>"
+        ],
+        "out_edge_list": [
+            2
+        ]
+    },
+    "84": {
+        "insn_list": [
+            "<<\n  /Intent /RelativeColorimetric\n  /Subtype /Image\n  /Length 221434\n  /Filter /DCTDecode\n  /Name /X\n  /BitsPerComponent 8\n  /ColorSpace /DeviceGray\n  /Width 5588\n  /Height 960\n  /Type /XObject\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "85": {
+        "insn_list": [
+            "<<\n  /Subtype /Form\n  /Length 80\n  /Filter /FlateDecode\n  /Matrix [ 1 0 0 1 0 0 ]\n  /Group 83 0 R\n  /Resources <<\n    /XObject <<\n      /Im0 84 0 R\n    >>\n    /ProcSet [ /PDF /ImageB ]\n    /ExtGState <<\n      /GS0 82 0 R\n    >>\n  >>\n  /BBox [ 31.7563 2170.32 2043.44 1824.72 ]\n>>"
+        ],
+        "out_edge_list": [
+            8,
+            8,
+            8
+        ]
+    },
+    "86": {
+        "insn_list": [
+            "[ 1 1 1 1 ]"
+        ],
+        "out_edge_list": []
+    },
+    "87": {
+        "insn_list": [
+            "<<\n  /G 85 0 R\n  /S /Luminosity\n  /Type /Mask\n  /BC 86 0 R\n>>"
+        ],
+        "out_edge_list": [
+            8,
+            8
+        ]
+    },
+    "88": {
+        "insn_list": [
+            "<<\n  /OPM 1\n  /BM /Normal\n  /CA 1\n  /OP false\n  /SMask 87 0 R\n  /ca 1\n  /AIS true\n  /op false\n  /Type /ExtGState\n  /SA true\n>>"
+        ],
+        "out_edge_list": [
+            8
+        ]
+    },
+    "89": {
+        "insn_list": [
+            "<<\n  /OPM 1\n  /BM /Normal\n  /CA 1\n  /OP true\n  /SMask /None\n  /ca 1\n  /AIS false\n  /op true\n  /Type /ExtGState\n  /SA true\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "90": {
+        "insn_list": [
+            "<<\n  /CS 22 0 R\n  /S /Transparency\n  /Type /Group\n>>"
+        ],
+        "out_edge_list": [
+            2
+        ]
+    },
+    "91": {
+        "insn_list": [
+            "<<\n  /Length 249\n  /Filter /FlateDecode\n  /I 278\n  /L 262\n  /S 40\n>>"
+        ],
+        "out_edge_list": []
+    }
+}

@@ -1,0 +1,478 @@
+{
+    "1": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /First 151\n  /Length 617\n  /N 21\n  /Type /ObjStm\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "2": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /First 11\n  /Length 44\n  /N 2\n  /Type /ObjStm\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "3": {
+        "insn_list": [
+            "<<\n  /Length 4287\n  /Subtype /XML\n  /Type /Metadata\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "4": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /First 5\n  /Length 50\n  /N 1\n  /Type /ObjStm\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "5": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /First 5\n  /Length 246\n  /N 1\n  /Type /ObjStm\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "6": {
+        "insn_list": [
+            "<<\n  /DecodeParms <<\n    /Columns 4\n    /Predictor 12\n  >>\n  /Filter /FlateDecode\n  /ID [ <06AB5D7A052E2104ACE9BFB54DB21DAF> <C6DAE3FE05F69849A26D4CA3D1E1200E> ]\n  /Info 31 0 R\n  /Length 55\n  /Root 33 0 R\n  /Size 32\n  /Type /XRef\n  /W [ 1 2 1 ]\n>>"
+        ],
+        "out_edge_list": [
+            3,
+            3
+        ]
+    },
+    "7": {
+        "insn_list": [
+            "<<\n  /ClassMap 8 0 R\n  /K 9 0 R\n  /ParentTree 10 0 R\n  /ParentTreeNextKey 6\n  /RoleMap 11 0 R\n  /Type /StructTreeRoot\n>>"
+        ],
+        "out_edge_list": [
+            8,
+            9,
+            1,
+            1
+        ]
+    },
+    "8": {
+        "insn_list": [
+            "<<\n  /Normal 18 0 R\n>>"
+        ],
+        "out_edge_list": [
+            1
+        ]
+    },
+    "9": {
+        "insn_list": [
+            "<<\n  /K [ 17 0 R 27 0 R ]\n  /Lang (EN-US\\000)\n  /P 7 0 R\n  /S /Sect\n>>"
+        ],
+        "out_edge_list": [
+            1,
+            2,
+            7
+        ]
+    },
+    "10": {
+        "insn_list": [
+            "<<\n  /Nums [ 0 12 0 R 1 13 0 R 2 14 0 R 3 15 0 R 4 15 0 R 5 16 0 R ]\n>>"
+        ],
+        "out_edge_list": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    "11": {
+        "insn_list": [
+            "<<\n  /DropCap /Figure\n  /Endnote /Note\n  /Footnote /Note\n  /Frame /Div\n  /InlineShape /Figure\n  /Normal /P\n  /Outline /Span\n  /Shape /Figure\n  /Strikeout /Span\n  /Subscript /Span\n  /Superscript /Span\n  /TOA /TOC\n  /TOAI /TOCI\n  /TOF /TOC\n  /TOFI /TOCI\n  /TextBox /Div\n  /Underline /Span\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "12": {
+        "insn_list": [
+            "[ 17 0 R 25 0 R 17 0 R 23 0 R 17 0 R 21 0 R 21 0 R 17 0 R 19 0 R\n  17 0 R 27 0 R ]"
+        ],
+        "out_edge_list": [
+            1,
+            2,
+            1,
+            2,
+            1,
+            2,
+            2,
+            1,
+            1,
+            1,
+            2
+        ]
+    },
+    "13": {
+        "insn_list": [
+            "<<\n  /K [ 25 0 R <<\n        /Obj 40 0 R\n        /Pg 34 0 R\n        /Type /OBJR\n      >> ]\n  /P 17 0 R\n  /S /Link\n>>"
+        ],
+        "out_edge_list": [
+            2,
+            4,
+            3,
+            1
+        ]
+    },
+    "14": {
+        "insn_list": [
+            "<<\n  /K [ 23 0 R <<\n        /Obj 41 0 R\n        /Pg 34 0 R\n        /Type /OBJR\n      >> ]\n  /P 17 0 R\n  /S /Link\n>>"
+        ],
+        "out_edge_list": [
+            2,
+            4,
+            3,
+            1
+        ]
+    },
+    "15": {
+        "insn_list": [
+            "<<\n  /K [ 21 0 R <<\n        /Obj 42 0 R\n        /Pg 34 0 R\n        /Type /OBJR\n      >> <<\n        /Obj 43 0 R\n        /Pg 34 0 R\n        /Type /OBJR\n      >> ]\n  /P 17 0 R\n  /S /Link\n>>"
+        ],
+        "out_edge_list": [
+            2,
+            4,
+            3,
+            4,
+            3,
+            1
+        ]
+    },
+    "16": {
+        "insn_list": [
+            "<<\n  /K [ 19 0 R <<\n        /Obj 44 0 R\n        /Pg 34 0 R\n        /Type /OBJR\n      >> ]\n  /P 17 0 R\n  /S /Link\n>>"
+        ],
+        "out_edge_list": [
+            1,
+            4,
+            3,
+            1
+        ]
+    },
+    "17": {
+        "insn_list": [
+            "<<\n  /A 18 0 R\n  /C /Normal\n  /K [ 0 13 0 R 2 14 0 R 4 15 0 R 7 16 0 R 9 ]\n  /P 9 0 R\n  /Pg 34 0 R\n  /S /Normal\n>>"
+        ],
+        "out_edge_list": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            9,
+            3
+        ]
+    },
+    "18": {
+        "insn_list": [
+            "<<\n  /EndIndent 0\n  /O /Layout\n  /SpaceAfter 0\n  /SpaceBefore 0\n  /StartIndent 0\n  /TextAlign /Start\n  /TextIndent 0\n  /WritingMode /LrTb\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "19": {
+        "insn_list": [
+            "<<\n  /A 20 0 R\n  /K 8\n  /P 16 0 R\n  /Pg 34 0 R\n  /S /Underline\n>>"
+        ],
+        "out_edge_list": [
+            2,
+            1,
+            3
+        ]
+    },
+    "20": {
+        "insn_list": [
+            "<<\n  /O /Layout\n  /TextDecorationColor [ 0 0 0 ]\n  /TextDecorationType /Underline\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "21": {
+        "insn_list": [
+            "<<\n  /A 22 0 R\n  /K [ 5 6 ]\n  /P 15 0 R\n  /Pg 34 0 R\n  /S /Underline\n>>"
+        ],
+        "out_edge_list": [
+            2,
+            1,
+            3
+        ]
+    },
+    "22": {
+        "insn_list": [
+            "<<\n  /O /Layout\n  /TextDecorationColor [ 0 0 0 ]\n  /TextDecorationType /Underline\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "23": {
+        "insn_list": [
+            "<<\n  /A 24 0 R\n  /K 3\n  /P 14 0 R\n  /Pg 34 0 R\n  /S /Underline\n>>"
+        ],
+        "out_edge_list": [
+            2,
+            1,
+            3
+        ]
+    },
+    "24": {
+        "insn_list": [
+            "<<\n  /O /Layout\n  /TextDecorationColor [ 0 0 0 ]\n  /TextDecorationType /Underline\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "25": {
+        "insn_list": [
+            "<<\n  /A 26 0 R\n  /K 1\n  /P 13 0 R\n  /Pg 34 0 R\n  /S /Underline\n>>"
+        ],
+        "out_edge_list": [
+            2,
+            1,
+            3
+        ]
+    },
+    "26": {
+        "insn_list": [
+            "<<\n  /O /Layout\n  /TextDecorationColor [ 0 0 0 ]\n  /TextDecorationType /Underline\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "27": {
+        "insn_list": [
+            "<<\n  /A 18 0 R\n  /K 10\n  /P 9 0 R\n  /Pg 34 0 R\n  /S /Normal\n>>"
+        ],
+        "out_edge_list": [
+            1,
+            9,
+            3
+        ]
+    },
+    "28": {
+        "insn_list": [
+            "<<\n  /Nums [ 0 29 0 R ]\n>>"
+        ],
+        "out_edge_list": [
+            2
+        ]
+    },
+    "29": {
+        "insn_list": [
+            "<<\n  /S /D\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "30": {
+        "insn_list": [
+            "<<\n  /Count 1\n  /Kids [ 34 0 R ]\n  /Type /Pages\n>>"
+        ],
+        "out_edge_list": [
+            3
+        ]
+    },
+    "31": {
+        "insn_list": [
+            "<<\n  /Author (FinCEN)\n  /Company (Department of the Treasury)\n  /CreationDate (D:20120625141011-04'00')\n  /Creator (Acrobat PDFMaker 9.0 for Word)\n  /ModDate (D:20120625151704-04'00')\n  /Producer (Acrobat Distiller 9.0.0 \\(Windows\\))\n  /SourceModified (D:20120625180938)\n  /Subject (Instructions for FINCEN Form 102)\n  /Title (Form FinCEN 102A \\(Rev. 4-2003\\))\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "32": {
+        "insn_list": [
+            "<<\n  /Linearized 1\n  /L 11629\n  /O 34\n  /E 5673\n  /N 1\n  /T 11319\n  /H [ 447 168 ]\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "33": {
+        "insn_list": [
+            "<<\n  /Lang <FEFF0045004E002D00550053>\n  /LastModified (D:20120625141014)\n  /MarkInfo <<\n    /LetterspaceFlags 0\n    /Marked true\n  >>\n  /Metadata 3 0 R\n  /PageLabels 28 0 R\n  /PageLayout /OneColumn\n  /Pages 30 0 R\n  /PieceInfo <<\n    /MarkedPDF <<\n      /LastModified (D:20120625141014)\n    >>\n  >>\n  /StructTreeRoot 7 0 R\n  /Type /Catalog\n>>"
+        ],
+        "out_edge_list": [
+            3,
+            2,
+            3,
+            7
+        ]
+    },
+    "34": {
+        "insn_list": [
+            "<<\n  /Annots 39 0 R\n  /Contents 36 0 R\n  /CropBox [ 0 0 612 792 ]\n  /MediaBox [ 0 0 612 792 ]\n  /Parent 30 0 R\n  /Resources <<\n    /ColorSpace <<\n      /CS0 45 0 R\n    >>\n    /ExtGState <<\n      /GS0 46 0 R\n    >>\n    /Font <<\n      /TT0 48 0 R\n      /TT1 50 0 R\n    >>\n    /ProcSet [ /PDF /Text ]\n  >>\n  /Rotate 0\n  /StructParents 0\n  /Tabs /S\n  /Type /Page\n>>"
+        ],
+        "out_edge_list": [
+            3,
+            3,
+            3,
+            4,
+            4,
+            4,
+            5
+        ]
+    },
+    "35": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /First 124\n  /Length 847\n  /N 17\n  /Type /ObjStm\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "36": {
+        "insn_list": [
+            "<<\n  /Filter /FlateDecode\n  /Length 812\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "37": {
+        "insn_list": [
+            "<<\n  /Alternate /DeviceRGB\n  /Filter /FlateDecode\n  /Length 2597\n  /N 3\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "38": {
+        "insn_list": [
+            "<<\n  /DecodeParms <<\n    /Columns 4\n    /Predictor 12\n  >>\n  /Filter /FlateDecode\n  /ID [ <06AB5D7A052E2104ACE9BFB54DB21DAF> <C6DAE3FE05F69849A26D4CA3D1E1200E> ]\n  /Index [ 32 25 ]\n  /Info 31 0 R\n  /Length 53\n  /Prev 11320\n  /Root 33 0 R\n  /Size 57\n  /Type /XRef\n  /W [ 1 2 1 ]\n>>"
+        ],
+        "out_edge_list": [
+            3,
+            3
+        ]
+    },
+    "39": {
+        "insn_list": [
+            "[ 40 0 R 41 0 R 42 0 R 43 0 R 44 0 R ]"
+        ],
+        "out_edge_list": [
+            4,
+            4,
+            4,
+            4,
+            4
+        ]
+    },
+    "40": {
+        "insn_list": [
+            "<<\n  /A 51 0 R\n  /BS <<\n    /S /S\n    /Type /Border\n    /W 0\n  >>\n  /Border [ 0 0 0 ]\n  /F 4\n  /H /I\n  /Rect [ 250.14 686.728 313.55 705.098 ]\n  /StructParent 1\n  /Subtype /Link\n  /Type /Annot\n>>"
+        ],
+        "out_edge_list": [
+            5
+        ]
+    },
+    "41": {
+        "insn_list": [
+            "<<\n  /A 52 0 R\n  /BS <<\n    /S /S\n    /Type /Border\n    /W 0\n  >>\n  /Border [ 0 0 0 ]\n  /F 4\n  /H /I\n  /Rect [ 193.44 654.508 315.538 672.878 ]\n  /StructParent 2\n  /Subtype /Link\n  /Type /Annot\n>>"
+        ],
+        "out_edge_list": [
+            5
+        ]
+    },
+    "42": {
+        "insn_list": [
+            "<<\n  /A 53 0 R\n  /BS <<\n    /S /S\n    /Type /Border\n    /W 0\n  >>\n  /Border [ 0 0 0 ]\n  /F 4\n  /H /I\n  /Rect [ 393.24 638.428 496.618 656.798 ]\n  /StructParent 3\n  /Subtype /Link\n  /Type /Annot\n>>"
+        ],
+        "out_edge_list": [
+            5
+        ]
+    },
+    "43": {
+        "insn_list": [
+            "<<\n  /A 54 0 R\n  /BS <<\n    /S /S\n    /Type /Border\n    /W 0\n  >>\n  /Border [ 0 0 0 ]\n  /F 4\n  /H /I\n  /Rect [ 90 622.288 192.233 640.658 ]\n  /StructParent 4\n  /Subtype /Link\n  /Type /Annot\n>>"
+        ],
+        "out_edge_list": [
+            5
+        ]
+    },
+    "44": {
+        "insn_list": [
+            "<<\n  /A 55 0 R\n  /BS <<\n    /S /S\n    /Type /Border\n    /W 0\n  >>\n  /Border [ 0 0 0 ]\n  /F 4\n  /H /I\n  /Rect [ 243.6 622.288 338.885 640.658 ]\n  /StructParent 5\n  /Subtype /Link\n  /Type /Annot\n>>"
+        ],
+        "out_edge_list": [
+            5
+        ]
+    },
+    "45": {
+        "insn_list": [
+            "[ /ICCBased 37 0 R ]"
+        ],
+        "out_edge_list": [
+            3
+        ]
+    },
+    "46": {
+        "insn_list": [
+            "<<\n  /OP false\n  /OPM 1\n  /SA false\n  /SM .02\n  /Type /ExtGState\n  /op false\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "47": {
+        "insn_list": [
+            "<<\n  /Ascent 891\n  /CapHeight 1000\n  /Descent -216\n  /Flags 34\n  /FontBBox [ -558 -307 2000 1026 ]\n  /FontFamily (Times New Roman)\n  /FontName /TimesNewRoman,Bold\n  /FontStretch /Normal\n  /FontWeight 700\n  /ItalicAngle 0\n  /StemV 160\n  /Type /FontDescriptor\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "48": {
+        "insn_list": [
+            "<<\n  /BaseFont /TimesNewRoman,Bold\n  /Encoding /WinAnsiEncoding\n  /FirstChar 58\n  /FontDescriptor 47 0 R\n  /LastChar 84\n  /Subtype /TrueType\n  /Type /Font\n  /Widths [ 333 0 0 0 0 0 0 0 0 722 0 667 0 0 0 389 0 0 0 0 722\n      778 0 0 0 0 667 ]\n>>"
+        ],
+        "out_edge_list": [
+            4
+        ]
+    },
+    "49": {
+        "insn_list": [
+            "<<\n  /Ascent 891\n  /CapHeight 0\n  /Descent -216\n  /Flags 34\n  /FontBBox [ -568 -307 2000 1007 ]\n  /FontFamily (Times New Roman)\n  /FontName /TimesNewRoman\n  /FontStretch /Normal\n  /FontWeight 400\n  /ItalicAngle 0\n  /StemV 82\n  /Type /FontDescriptor\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "50": {
+        "insn_list": [
+            "<<\n  /BaseFont /TimesNewRoman\n  /Encoding /WinAnsiEncoding\n  /FirstChar 32\n  /FontDescriptor 49 0 R\n  /LastChar 121\n  /Subtype /TrueType\n  /Type /Font\n  /Widths [ 250 0 0 0 0 0 0 0 333 333 0 0 250 333 250 0 500 500\n      500 0 500 0 0 0 0 0 0 0 0 0 0 0 0 722 667 667 0 611 556\n      0 0 333 389 0 0 0 722 722 0 722 0 556 0 0 0 0 0 0 0 0 0\n      0 0 0 0 444 500 444 500 444 333 500 500 278 0 500 278 778\n      500 500 500 500 333 389 278 500 0 722 0 500 ]\n>>"
+        ],
+        "out_edge_list": [
+            4
+        ]
+    },
+    "51": {
+        "insn_list": [
+            "<<\n  /S /URI\n  /URI (http://www.fincen.gov/news_room/nr/html/20120223.html)\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "52": {
+        "insn_list": [
+            "<<\n  /S /URI\n  /URI (http://bsaefiling.fincen.treas.gov/main.html)\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "53": {
+        "insn_list": [
+            "<<\n  /S /URI\n  /URI (http://www.fincen.gov/forms/e-filing/Efiling_FAQs.html)\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "54": {
+        "insn_list": [
+            "<<\n  /S /URI\n  /URI (http://www.fincen.gov/forms/e-filing/Efiling_FAQs.html)\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "55": {
+        "insn_list": [
+            "<<\n  /S /URI\n  /URI (http://treas.yorkcast.com/webcast/Viewer/?peid=a93e7d2b1a07427a93b0cf2e764a57421d)\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "56": {
+        "insn_list": [
+            "<<\n  /C 85\n  /Filter /FlateDecode\n  /I 108\n  /L 69\n  /Length 78\n  /S 38\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "57": {
+        "insn_list": [
+            "<<\n  /Author (FinCEN)\n  /Company (Department of the Treasury)\n  /CreationDate (D:20120625141011-04'00')\n  /Creator (Acrobat PDFMaker 9.0 for Word)\n  /ModDate (D:20120625151801-04'00')\n  /Producer (Acrobat Distiller 9.0.0 \\(Windows\\))\n  /SourceModified (D:20120625180938)\n  /Subject (Report of International Transportation of Currency or Monetary Instruments \\(CMIR\\))\n  /Title (Form FinCEN 105 \\(Rev. 7-2003\\))\n>>"
+        ],
+        "out_edge_list": []
+    },
+    "58": {
+        "insn_list": [
+            "<<\n  /DecodeParms <<\n    /Columns 3\n    /Predictor 12\n  >>\n  /Filter /FlateDecode\n  /ID [ <06AB5D7A052E2104ACE9BFB54DB21DAF> <24D7AA477EB39B429A1356E9F1471630> ]\n  /Index [ 3 1 57 2 ]\n  /Info 57 0 R\n  /Length 22\n  /Prev 116\n  /Root 33 0 R\n  /Size 59\n  /Type /XRef\n  /W [ 1 2 0 ]\n>>"
+        ],
+        "out_edge_list": [
+            5,
+            3
+        ]
+    }
+}
